@@ -1,0 +1,34 @@
+[
+    {
+        "title": "주요 기본 동사 마스터 (Day 1)",
+        "date": "2026-05-28",
+        "questions": [
+            { "ko": "나는 사과를 먹는다.", "en": "I eat an apple", "distractors": ["eats", "ate", "eating"] },
+            { "ko": "그녀는 학교에 간다.", "en": "She goes to school", "distractors": ["go", "went", "going"] },
+            { "ko": "우리는 축구를 했다.", "en": "We played soccer", "distractors": ["play", "playing", "plays"] },
+            { "ko": "그는 책을 읽고 있다.", "en": "He is reading a book", "distractors": ["read", "reads", "books"] },
+            { "ko": "너는 어제 영화를 봤니?", "en": "Did you see a movie yesterday", "distractors": ["Do", "saw", "seeing"] },
+            { "ko": "그들은 영어를 공부할 것이다.", "en": "They will study English", "distractors": ["studied", "studying", "studies"] },
+            { "ko": "내 친구는 피자를 좋아한다.", "en": "My friend likes pizza", "distractors": ["like", "liked", "liking"] },
+            { "ko": "나는 어제 일찍 잤다.", "en": "I slept early yesterday", "distractors": ["sleep", "sleeps", "sleeping"] },
+            { "ko": "고양이가 소파 위에서 잔다.", "en": "The cat sleeps on the sofa", "distractors": ["sleep", "sleeping", "slept"] },
+            { "ko": "우리는 내일 공원에 갈 것이다.", "en": "We will go to the park tomorrow", "distractors": ["went", "goes", "going"] }
+        ]
+    },
+    {
+        "title": "과거형 문장 연습 (Day 2)",
+        "date": "2026-05-25",
+        "questions": [
+            { "ko": "그는 어제 편지를 썼다.", "en": "He wrote a letter yesterday", "distractors": ["write", "writes", "writing"] },
+            { "ko": "우리는 음악을 들었다.", "en": "We listened to music", "distractors": ["listen", "listening", "listens"] },
+            { "ko": "그녀는 가방을 샀다.", "en": "She bought a bag", "distractors": ["buy", "buys", "buying"] },
+            { "ko": "나는 그 영화를 보았다.", "en": "I watched the movie", "distractors": ["watch", "watches", "watching"] },
+            { "ko": "그들은 공원에서 달렸다.", "en": "They ran in the park", "distractors": ["run", "runs", "running"] },
+            { "ko": "선생님이 교실에 들어오셨다.", "en": "The teacher entered the classroom", "distractors": ["enter", "enters", "entering"] },
+            { "ko": "그 아이는 인형을 가졌다.", "en": "The child had a doll", "distractors": ["has", "have", "having"] },
+            { "ko": "우리는 저녁을 같이 요리했다.", "en": "We cooked dinner together", "distractors": ["cook", "cooks", "cooking"] },
+            { "ko": "그녀는 창문을 열었다.", "en": "She opened the window", "distractors": ["open", "opens", "opening"] },
+            { "ko": "그들은 시험을 끝냈다.", "en": "They finished the exam", "distractors": ["finish", "finishes", "finishing"] }
+        ]
+    }
+]

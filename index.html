@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>English Ordering Widget</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <div class="widget-container">
+        <div id="home-view" class="view-panel">
+            <div class="widget-header">영어 숙제 목록</div>
+            <div id="homework-list" class="list-container">
+                </div>
+        </div>
+
+        <div id="game-view" class="view-panel hidden">
+            <div class="game-header">
+                <button id="back-btn" class="back-btn">✕</button>
+                <div class="progress" id="progress-text">1 / 10</div>
+            </div>
+            
+            <div class="korean-text" id="korean-text">로딩 중...</div>
+            <div class="selected-area" id="selected-area"></div>
+            <div class="available-area" id="available-area"></div>
+            
+            <button class="check-btn" id="check-btn" disabled>확인</button>
+        </div>
+
+        <div class="modal" id="error-modal">
+            <div class="modal-title">오답입니다 😢</div>
+            <div class="modal-subtitle">올바른 문장</div>
+            <div class="modal-correct-text" id="correct-answer-text"></div>
+            <button class="modal-btn" id="retry-btn">다시 하기</button>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
