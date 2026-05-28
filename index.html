@@ -11,8 +11,7 @@
     <div class="widget-container">
         <div id="home-view" class="view-panel">
             <div class="widget-header">영어 숙제 목록</div>
-            <div id="homework-list" class="list-container">
-                </div>
+            <div id="homework-list" class="list-container"></div>
         </div>
 
         <div id="game-view" class="view-panel hidden">
@@ -27,6 +26,22 @@
             
             <button class="check-btn" id="check-btn" disabled>확인</button>
         </div>
+
+        <div id="complete-view" class="view-panel hidden">
+            <div class="complete-content">
+                <div class="complete-icon">🏆</div>
+                <div class="complete-title">Mission Complete!</div>
+                <div class="complete-homework-title" id="complete-hw-title">숙제 제목</div>
+                <div class="complete-time" id="complete-time">클리어 시간</div>
+                
+                <div class="complete-message">
+                    이 화면을 캡처해서<br>톡방에 보내어 인증해주세요 📸
+                </div>
+            </div>
+            <button class="check-btn" id="go-home-btn">홈으로 돌아가기</button>
+        </div>
+
+        <div id="emoji-container"></div>
 
         <div class="modal" id="error-modal">
             <div class="modal-title">오답입니다 😢</div>

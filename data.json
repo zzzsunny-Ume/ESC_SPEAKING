@@ -3,16 +3,8 @@
         "title": "주요 기본 동사 마스터 (Day 1)",
         "date": "2026-05-28",
         "questions": [
-            { "ko": "나는 사과를 먹는다.", "en": "I eat an apple", "distractors": ["eats", "ate", "eating"] },
-            { "ko": "그녀는 학교에 간다.", "en": "She goes to school", "distractors": ["go", "went", "going"] },
-            { "ko": "우리는 축구를 했다.", "en": "We played soccer", "distractors": ["play", "playing", "plays"] },
-            { "ko": "그는 책을 읽고 있다.", "en": "He is reading a book", "distractors": ["read", "reads", "books"] },
-            { "ko": "너는 어제 영화를 봤니?", "en": "Did you see a movie yesterday", "distractors": ["Do", "saw", "seeing"] },
-            { "ko": "그들은 영어를 공부할 것이다.", "en": "They will study English", "distractors": ["studied", "studying", "studies"] },
-            { "ko": "내 친구는 피자를 좋아한다.", "en": "My friend likes pizza", "distractors": ["like", "liked", "liking"] },
-            { "ko": "나는 어제 일찍 잤다.", "en": "I slept early yesterday", "distractors": ["sleep", "sleeps", "sleeping"] },
-            { "ko": "고양이가 소파 위에서 잔다.", "en": "The cat sleeps on the sofa", "distractors": ["sleep", "sleeping", "slept"] },
-            { "ko": "우리는 내일 공원에 갈 것이다.", "en": "We will go to the park tomorrow", "distractors": ["went", "goes", "going"] }
+            { "ko": "나는 사과를 먹는다.", "en": "I eat an apple", "distractors": ["eats", "ate", "eating", "a"] },
+            { "ko": "그녀는 학교에 간다.", "en": "She goes to school", "distractors": ["go", "went", "going", "the"] }
         ]
     },
     {
