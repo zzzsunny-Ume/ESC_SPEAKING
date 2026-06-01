@@ -119,6 +119,10 @@ function renderWords() {
     });
 
     checkBtn.disabled = selectedWords.length === 0;
+
+    // 🔥 [이곳에 추가] 단어가 바뀔 때마다 스크롤을 무조건 맨 아래(뒤쪽)로 이동시킵니다.
+    selectedArea.scrollTop = selectedArea.scrollHeight;
+    availableArea.scrollTop = availableArea.scrollHeight;
 }
 
 function moveToSelected(index) {
