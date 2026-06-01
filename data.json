@@ -1,26 +1,172 @@
 [
     {
-        "title": "주요 기본 동사 마스터 (Day 1)",
-        "date": "2026-05-28",
+        "title": "📜 설마 아니지?",
+        "date": "2026-06-01",
         "questions": [
-            { "ko": "나는 사과를 먹는다.", "en": "I eat an apple", "distractors": ["eats", "ate", "eating", "a"] },
-            { "ko": "그녀는 학교에 간다.", "en": "She goes to school", "distractors": ["go", "went", "going", "the"] }
+            {
+                "ko": "설마 걔가 또 늦겠어?",
+                "en": "Don't tell me he's late again.",
+                "distractors": ["lately", "later", "latest"]
+            },
+            {
+                "ko": "설마 우리 지갑 잃어버린 건 아니지?",
+                "en": "Don't tell me we lost our wallets.",
+                "distractors": ["lose", "loses", "losing"]
+            },
+            {
+                "ko": "설마 이거 다 다시 해야 하는 거야?",
+                "en": "Don't tell me we have to redo all of this.",
+                "distractors": ["redoes", "redid", "redoing"]
+            },
+            {
+                "ko": "설마 너 벌써 포기하려는 건 아니지?",
+                "en": "Don't tell me you're already about to give up.",
+                "distractors": ["gives", "gave", "given"]
+            },
+            {
+                "ko": "설마 걔네 또 싸우는 거야?",
+                "en": "Don't tell me they're fighting again.",
+                "distractors": ["fight", "fights", "fought"]
+            },
+            {
+                "ko": "설마 오늘 쉬는 날인 걸 깜빡한 건 아니겠지?",
+                "en": "Don't tell me you forgot today is a day off.",
+                "distractors": ["forget", "forgets", "forgetting"]
+            },
+            {
+                "ko": "설마 그거 다 먹은 건 아니지?",
+                "en": "Don't tell me you ate the whole thing.",
+                "distractors": ["eat", "eats", "eating"]
+            },
+            {
+                "ko": "설마 걔한테 비밀 다 말해버린 거야?",
+                "en": "Don't tell me you told him the whole secret.",
+                "distractors": ["tell", "tells", "telling"]
+            },
+            {
+                "ko": "설마 우리 길 잃은 거야?",
+                "en": "Don't tell me we're lost.",
+                "distractors": ["lose", "loses", "losing"]
+            },
+            {
+                "ko": "설마 비 오기 시작하는 건 아니겠지?",
+                "en": "Don't tell me it's starting to rain.",
+                "distractors": ["start", "starts", "started"]
+            }
         ]
     },
+
     {
-        "title": "과거형 문장 연습 (Day 2)",
-        "date": "2026-05-25",
+        "title": "📜 ~해봤자 소용 없어",
+        "date": "2026-06-01",
         "questions": [
-            { "ko": "그는 어제 편지를 썼다.", "en": "He wrote a letter yesterday", "distractors": ["write", "writes", "writing"] },
-            { "ko": "우리는 음악을 들었다.", "en": "We listened to music", "distractors": ["listen", "listening", "listens"] },
-            { "ko": "그녀는 가방을 샀다.", "en": "She bought a bag", "distractors": ["buy", "buys", "buying"] },
-            { "ko": "나는 그 영화를 보았다.", "en": "I watched the movie", "distractors": ["watch", "watches", "watching"] },
-            { "ko": "그들은 공원에서 달렸다.", "en": "They ran in the park", "distractors": ["run", "runs", "running"] },
-            { "ko": "선생님이 교실에 들어오셨다.", "en": "The teacher entered the classroom", "distractors": ["enter", "enters", "entering"] },
-            { "ko": "그 아이는 인형을 가졌다.", "en": "The child had a doll", "distractors": ["has", "have", "having"] },
-            { "ko": "우리는 저녁을 같이 요리했다.", "en": "We cooked dinner together", "distractors": ["cook", "cooks", "cooking"] },
-            { "ko": "그녀는 창문을 열었다.", "en": "She opened the window", "distractors": ["open", "opens", "opening"] },
-            { "ko": "그들은 시험을 끝냈다.", "en": "They finished the exam", "distractors": ["finish", "finishes", "finishing"] }
+            {
+                "ko": "지금 후회해 봐야 소용없어.",
+                "en": "It's no use regretting it now.",
+                "distractors": ["regret", "regrets", "regretted"]
+            },
+            {
+                "ko": "그 사람한테 변명해 봐야 소용없어.",
+                "en": "It's no use making excuses to him.",
+                "distractors": ["make", "makes", "made"]
+            },
+            {
+                "ko": "지나간 일로 울고 짜 봐야 소용없지.",
+                "en": "It's no use crying over spilled milk.",
+                "distractors": ["cry", "cries", "cried"]
+            },
+            {
+                "ko": "그 기계를 고치려고 애써 봐야 소용없어.",
+                "en": "It's no use trying to fix that machine.",
+                "distractors": ["try", "tries", "tried"]
+            },
+            {
+                "ko": "이제 와서 숨겨 봐야 소용없어.",
+                "en": "It's no use hiding it now.",
+                "distractors": ["hide", "hides", "hidden"]
+            },
+            {
+                "ko": "걔한테 마음을 돌리라고 설득해 봐야 소용없을 거야.",
+                "en": "It's no use trying to convince her.",
+                "distractors": ["convinces", "convinced", "convincing"]
+            },
+            {
+                "ko": "혼자서 걱정만 하고 있어 봐야 소용없어.",
+                "en": "It's no use just worrying by yourself.",
+                "distractors": ["worry", "worries", "worried"]
+            },
+            {
+                "ko": "사실을 부인해 봐야 소용없어. 이미 다 알아.",
+                "en": "It's no use denying the truth.",
+                "distractors": ["deny", "denies", "denied"]
+            },
+            {
+                "ko": "경찰에 신고해 봐야 소용없을 거야.",
+                "en": "It's no use calling the police.",
+                "distractors": ["call", "calls", "called"]
+            },
+            {
+                "ko": "다 지난 일인데 말싸움해 봐야 소용없잖아.",
+                "en": "It's no use arguing about it now.",
+                "distractors": ["argue", "argues", "argued"]
+            }
+        ]
+    },
+
+    {
+        "title": "🏫 캠퍼스 소개",
+        "date": "2026-04-30",
+        "questions": [
+            { 
+                "ko": "안녕하세요, 제 브이로그에 오신 걸 환영합니다! 저는 캐시예요.", 
+                "en": "Hi everyone, welcome to my vlog! I’m Cathy.", 
+                "distractors": ["welcomes", "welcomed", "welcoming"] 
+            },
+            { 
+                "ko": "오늘은 드디어 저희 대학교 캠퍼스를 구경시켜 드릴 거예요.", 
+                "en": "Today, I’m finally going to show you around my university campus.", 
+                "distractors": ["in", "at", "on"] 
+            },
+            { 
+                "ko": "여기가 바로 우리 학교에서 가장 유명한 중앙 도서관이에요.", 
+                "en": "This is the main library, which is the most famous spot on campus.", 
+                "distractors": ["at", "in", "to"] 
+            },
+            { 
+                "ko": "시험 기간이라 그런지 공부하는 학생들이 정말 많네요.", 
+                "en": "There are so many students studying, probably because it's exam season.", 
+                "distractors": ["study", "studies", "studied"] 
+            },
+            { 
+                "ko": "이제 제가 제일 좋아하는 장소인 학생 회관으로 가볼까요?", 
+                "en": "Now, shall we head over to my favorite place, the student union building?", 
+                "distractors": ["heads", "headed", "heading"] 
+            },
+            { 
+                "ko": "여기 학식 메뉴가 정말 다양하고 맛있어서 인기가 많아요.", 
+                "en": "The cafeteria menu here is so diverse and delicious, so it’s very popular.", 
+                "distractors": ["are", "am", "be"] 
+            },
+            { 
+                "ko": "다음은 공학관인데, 제가 전공 수업을 듣는 곳이에요.", 
+                "en": "Next is the engineering building, where I take my major classes.", 
+                "distractors": ["takes", "taking", "taken"] 
+            },
+            { 
+                "ko": "캠퍼스가 워낙 넓어서 강의실 사이를 이동할 때 꽤 힘들어요.", 
+                "en": "The campus is so huge that it’s quite a workout moving between classrooms.", 
+                "distractors": ["among", "through", "during"] 
+            },
+            { 
+                "ko": "잔디밭에서 과잠을 입고 사진을 찍는 건 우리 학교 전통이죠.", 
+                "en": "It's a tradition at our school to take photos on the lawn wearing our varsity jackets.", 
+                "distractors": ["wear", "wears", "wore"] 
+            },
+            { 
+                "ko": "오늘 제 캠퍼스 투어가 재밌으셨다면 구독과 좋아요 부탁드려요!", 
+                "en": "If you enjoyed my campus tour today, please like and subscribe!", 
+                "distractors": ["subscribes", "subscribed", "subscribing"] 
+            }
         ]
     }
 ]
