@@ -59,13 +59,52 @@ body {
 .back-btn { background: none; border: none; font-size: 24px; font-weight: 600; color: var(--text-secondary); cursor: pointer; padding: 4px 8px; margin-left: -8px; }
 .progress { font-size: 15px; color: var(--text-secondary); font-weight: 600; }
 .korean-text { font-size: 24px; font-weight: 700; color: var(--text-main); margin-bottom: 30px; line-height: 1.4; word-break: keep-all; }
-.selected-area { min-height: 80px; background-color: #F9F9FB; border-radius: 20px; padding: 16px; display: flex; flex-wrap: wrap; gap: 10px; margin-bottom: 24px; border: 1px dashed #D1D1D6; }
-.available-area { display: flex; flex-wrap: wrap; gap: 12px; margin-bottom: auto; align-content: flex-start; }
+
+/* [수정] 선택된 단어 영역: 최대 높이를 제한하고 넘치면 스크롤 생성 */
+.selected-area { 
+    min-height: 80px; 
+    max-height: 130px;      /* 최대 높이 제한 */
+    overflow-y: auto;       /* 넘치면 스크롤 */
+    background-color: #F9F9FB; 
+    border-radius: 20px; 
+    padding: 16px; 
+    display: flex; 
+    flex-wrap: wrap; 
+    gap: 10px; 
+    margin-bottom: 20px; 
+    border: 1px dashed #D1D1D6; 
+}
+
+/* [수정] 대기 중인 단어 영역: 남은 공간을 다 차지하고, 단어가 많으면 자체 스크롤 */
+.available-area { 
+    flex: 1;                /* 화면의 남는 수직 공간을 유연하게 전부 채움 */
+    overflow-y: auto;       /* 단어가 많아지면 영역 내부에서 스크롤 */
+    display: flex; 
+    flex-wrap: wrap; 
+    gap: 12px; 
+    margin-bottom: 16px;    /* auto 대신 고정 여백으로 변경 */
+    align-content: flex-start; 
+    padding-right: 4px;     /* 스크롤바와 단어 버튼이 겹치지 않도록 여백 추가 */
+}
+
 .word-btn { background-color: var(--word-bg); color: var(--text-main); border: none; border-radius: 14px; padding: 12px 18px; font-size: 18px; font-weight: 500; cursor: pointer; transition: transform 0.1s; }
 .word-btn:active { transform: scale(0.95); }
 .selected-area .word-btn { background-color: var(--blue); color: white; }
 
-.check-btn { background-color: var(--blue); color: white; border: none; border-radius: 18px; padding: 20px; font-size: 18px; font-weight: 600; cursor: pointer; width: 100%; margin-top: 20px; margin-bottom: env(safe-area-inset-bottom); }
+/* [수정] 확인 버튼: 무조건 맨 아래에 달라붙어 고정됨 */
+.check-btn { 
+    background-color: var(--blue); 
+    color: white; 
+    border: none; 
+    border-radius: 18px; 
+    padding: 20px; 
+    font-size: 18px; 
+    font-weight: 600; 
+    cursor: pointer; 
+    width: 100%; 
+    margin-top: 0;          /* 불필요한 마진 제거 */
+    margin-bottom: env(safe-area-inset-bottom); 
+}
 .check-btn:disabled { background-color: var(--word-bg); color: var(--text-secondary); cursor: not-allowed; }
 
 /* 미션 완료 화면 스타일 */
