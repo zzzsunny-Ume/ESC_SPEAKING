@@ -168,5 +168,119 @@
                 "distractors": ["subscribes", "subscribed", "subscribing"] 
             }
         ]
+    },
+
+    {
+        "title": "🍦 아이스크림 케이크",
+        "date": "2026-06-02",
+        "questions": [
+            {
+                "ko": "안녕하세요, 커스텀 아이스크림 케이크를 미리 주문하고 싶어서 왔어요",
+                "en": "Hello, I came here because I want to pre-order a custom ice cream cake",
+                "distractors": ["wants", "wanted", "wanting"]
+            },
+            {
+                "ko": "네, 환영합니다! 특별한 날을 위한 멋진 케이크 제작을 도와드릴게요",
+                "en": "Hi, welcome! I'd be happy to help you create a wonderful cake for your special day",
+                "distractors": ["helps", "helped", "helping"]
+            },
+            {
+                "ko": "아이가 초콜릿이랑 민트초코를 좋아하는데 두 가지 맛을 섞을 수 있나요?",
+                "en": "My child loves chocolate and mint chocolate; can we mix those two flavors together?",
+                "distractors": ["love", "loved", "loving"]
+            },
+            {
+                "ko": "당연히 가능하죠, 원하시는 맛으로 레이어를 층층이 쌓아드릴 수 있어요",
+                "en": "Of course, we can absolutely layer them with the flavors you want",
+                "distractors": ["at", "in", "on"]
+            },
+            {
+                "ko": "케이크 위에 축하 문구도 넣을 수 있는지 궁금해요",
+                "en": "I'm wondering if we can also put a congratulatory message on top of the cake",
+                "distractors": ["at", "in", "to"]
+            },
+            {
+                "ko": "네, 원하시는 문구를 알려주시면 아이싱으로 예쁘게 적어드릴게요",
+                "en": "Yes, just let me know the message you want and we'll write it beautifully with icing",
+                "distractors": ["write", "writes", "writing"]
+            },
+            {
+                "ko": "그럼 \"생일 축하해\"라는 문구로 부탁드리고, 혹시 언제쯤 찾으러 오면 될까요?",
+                "en": "Then please put \"Happy Birthday,\" and when should I come to pick it up?",
+                "distractors": ["comes", "came", "coming"]
+            },
+            {
+                "ko": "보통 이틀 정도 걸리니까 이번 주 목요일 오후 이후에 오시면 됩니다",
+                "en": "It usually takes about two days, so you can come this Thursday after the afternoon",
+                "distractors": ["take", "took", "taking"]
+            },
+            {
+                "ko": "알겠습니다, 그때 맞춰서 찾으러 올게요",
+                "en": "Got it, I will come to pick it up at that time",
+                "distractors": ["in", "on", "for"]
+            },
+            {
+                "ko": "결제 도와드리면서 영수증에 픽업 시간과 주문 내용을 적어드릴게요",
+                "en": "I'll help you with the payment and write the pick-up time and order details on the receipt",
+                "distractors": ["in", "at", "to"]
+            }
+        ]
+    },
+
+    {
+        "title": "📜 어쩌다 보니~",
+        "date": "2026-06-02",
+        "questions": [
+            {
+                "ko": "어쩌다 보니 그렇게 됐어",
+                "en": "It just happened to turn out that way",
+                "distractors": ["happen", "happens", "happening"]
+            },
+            {
+                "ko": "마침 내가 걔 번호가 있더라고",
+                "en": "I just happened to have his number",
+                "distractors": ["has", "had", "having"]
+            },
+            {
+                "ko": "가다 보니까 딱 그 가게가 눈에 띄었어",
+                "en": "I just happened to notice the shop on my way",
+                "distractors": ["in", "at", "by"]
+            },
+            {
+                "ko": "듣다 보니까 그 소식을 알게 됐네",
+                "en": "I just happened to overhear the news",
+                "distractors": ["overhears", "overheard", "overhearing"]
+            },
+            {
+                "ko": "어쩌다 보니 나도 거기 가 있게 됐어",
+                "en": "I just happened to be there at that time",
+                "distractors": ["on", "in", "for"]
+            },
+            {
+                "ko": "우연히 길에서 옛날 친구를 만났어",
+                "en": "I just happened to run into an old friend",
+                "distractors": ["runs", "ran", "running"]
+            },
+            {
+                "ko": "지나가는 길에 들렀어",
+                "en": "I just happened to be passing by",
+                "distractors": ["pass", "passes", "passed"]
+            },
+            {
+                "ko": "어쩌다 보니 걔 비밀을 알게 됐지 뭐야",
+                "en": "I just happened to find out about his secret",
+                "distractors": ["on", "at", "to"]
+            },
+            {
+                "ko": "마침 내 주머니에 여분 마스크가 있었어",
+                "en": "I just happened to have an extra mask in my pocket",
+                "distractors": ["on", "at", "to"]
+            },
+            {
+                "ko": "우연히 그 영화 예고편을 보게 됐어",
+                "en": "I just happened to see the trailer for that movie",
+                "distractors": ["sees", "saw", "seeing"]
+            }
+        ]
     }
 ]
