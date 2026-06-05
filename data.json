@@ -282,5 +282,119 @@
                 "distractors": ["sees", "saw", "seeing"]
             }
         ]
+    },
+
+    {
+        "title": "🍻 MT 준비",
+        "date": "2026-06-05",
+        "questions": [
+            {
+                "ko": "우리 MT 갈 때 장은 어디서 봐?",
+                "en": "Where should we grocery shop for the MT?",
+                "distractors": ["at", "in", "on"]
+            },
+            {
+                "ko": "마트 들렀다가 펜션으로 바로 가자",
+                "en": "Let's hit the mart and head straight to the villa",
+                "distractors": ["at", "in", "on"]
+            },
+            {
+                "ko": "고기는 얼마나 사야 할까?",
+                "en": "How much meat should we get?",
+                "distractors": ["gets", "got", "getting"]
+            },
+            {
+                "ko": "인당 300그램씩 잡으면 넉넉할 거야",
+                "en": "Around 300 grams per person should be plenty",
+                "distractors": ["for", "at", "by"]
+            },
+            {
+                "ko": "술이랑 음료수도 많이 필요하겠지?",
+                "en": "We're going to need a lot of booze and drinks, right?",
+                "distractors": ["needs", "needed", "needing"]
+            },
+            {
+                "ko": "응, 맥주랑 소주 둘 다 챙기자",
+                "en": "Yeah, let's grab both beer and soju",
+                "distractors": ["grabs", "grabbed", "grabbing"]
+            },
+            {
+                "ko": "방 배정은 어떻게 할 거야?",
+                "en": "How are we doing the room assignments?",
+                "distractors": ["do", "does", "done"]
+            },
+            {
+                "ko": "도착해서 사다리타기로 정하는 게 공평해",
+                "en": "It's fairest to do a random draw when we get there",
+                "distractors": ["while", "before", "after"]
+            },
+            {
+                "ko": "조별 게임 상품도 준비했어?",
+                "en": "Did you prep the prizes for the team games?",
+                "distractors": ["preps", "prepped", "prepping"]
+            },
+            {
+                "ko": "당연하지, 커피 쿠폰이랑 과자 잔뜩 샀어",
+                "en": "Of course, I bought coffee coupons and a bunch of snacks",
+                "distractors": ["buy", "buys", "buying"]
+            }
+        ]
+    },
+
+    {
+        "title": "🫂 이상형",
+        "date": "2026-06-05",
+        "questions": [
+            {
+                "ko": "넌 어떤 스타일의 사람을 좋아해?",
+                "en": "What's your type?",
+                "distractors": ["types", "typed", "typing"]
+            },
+            {
+                "ko": "난 대화가 잘 통하는 사람이 좋아",
+                "en": "I like someone I can easily talk to",
+                "distractors": ["easy", "easier", "easiest"]
+            },
+            {
+                "ko": "외모는 별로 안 봐?",
+                "en": "Don't you care about looks?",
+                "distractors": ["cares", "cared", "caring"]
+            },
+            {
+                "ko": "그냥 깔끔한 스타일이면 괜찮아",
+                "en": "Just someone with a clean look is fine",
+                "distractors": ["in", "at", "by"]
+            },
+            {
+                "ko": "성격은 어땠으면 좋겠어?",
+                "en": "What should their personality be like?",
+                "distractors": ["likes", "liked", "liking"]
+            },
+            {
+                "ko": "유머러스하고 긍정적인 사람이면 좋겠어",
+                "en": "Humorous and positive would be great",
+                "distractors": ["greatly", "greater", "greatest"]
+            },
+            {
+                "ko": "착한 사람 좋아하는구나",
+                "en": "You like kind people",
+                "distractors": ["likes", "liked", "liking"]
+            },
+            {
+                "ko": "맞아, 배려심 있는 사람이 끌리더라",
+                "en": "Yeah, I'm drawn to considerate people",
+                "distractors": ["draw", "draws", "drawing"]
+            },
+            {
+                "ko": "난 나랑 취미가 같은 사람이 좋아",
+                "en": "I prefer someone who shares my hobbies",
+                "distractors": ["share", "shared", "sharing"]
+            },
+            {
+                "ko": "그것도 중요하지, 같이 즐길 수 있으니까",
+                "en": "That's important too, since you can enjoy things together",
+                "distractors": ["enjoys", "enjoyed", "enjoying"]
+            }
+        ]
     }
 ]
