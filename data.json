@@ -396,5 +396,119 @@
                 "distractors": ["enjoys", "enjoyed", "enjoying"]
             }
         ]
+    },
+
+    {
+        "title": "🥛 식혜",
+        "date": "2026-06-09",
+        "questions": [
+            {
+                "ko": "식혜라는 한국 전통 음료를 마셔본 적 있어요?",
+                "en": "Have you ever tried sikhye, a traditional Korean drink?",
+                "distractors": ["try", "tries", "trying"]
+            },
+            {
+                "ko": "이건 쌀로 만든 달콤하고 시원한 음료예요",
+                "en": "It’s a sweet, refreshing drink made from rice.",
+                "distractors": ["in", "at", "on"]
+            },
+            {
+                "ko": "한국 사람들이 식사 후에 즐겨 마시는 국민 음료랍니다",
+                "en": "It’s a popular drink that Koreans love to have after a meal.",
+                "distractors": ["loves", "loved", "loving"]
+            },
+            {
+                "ko": "맛은 은은하게 달콤하고 아주 깔끔해요",
+                "en": "It tastes subtly sweet and very clean.",
+                "distractors": ["taste", "tasted", "tasting"]
+            },
+            {
+                "ko": "안에 들어있는 밥알을 씹는 식감이 정말 좋아요",
+                "en": "The chewy rice grains inside give it a great texture.",
+                "distractors": ["gives", "gave", "giving"]
+            },
+            {
+                "ko": "100% 천연 재료로 만들어서 아주 건강한 맛이에요",
+                "en": "It’s made with all-natural ingredients, so it’s quite healthy.",
+                "distractors": ["at", "in", "on"]
+            },
+            {
+                "ko": "특히 아주 차갑게 해서 마시면 최고예요",
+                "en": "It’s honestly the best when you drink it ice-cold.",
+                "distractors": ["drinks", "drank", "drinking"]
+            },
+            {
+                "ko": "찜질방에 가면 꼭 마셔야 하는 필수 코스이기도 하죠",
+                "en": "It’s a must-have treat whenever we go to a Korean sauna.",
+                "distractors": ["goes", "went", "going"]
+            },
+            {
+                "ko": "한번 마셔보면 분명히 좋아하실 거예요",
+                "en": "I’m sure you’ll love it once you try it.",
+                "distractors": ["loves", "loved", "loving"]
+            },
+            {
+                "ko": "정말 매력적인 한국의 맛이니까 꼭 도전해 보세요!",
+                "en": "It’s such a charming taste of Korea, so you should definitely give it a go!",
+                "distractors": ["gives", "gave", "giving"]
+            }
+        ]
+    },
+
+    {
+        "title": "📜 어차피 ~하게 되어있어",
+        "date": "2026-06-09",
+        "questions": [
+            {
+                "ko": "시간이 지나면 다 밝혀지게 되어 있어",
+                "en": "It's bound to come out sooner or later",
+                "distractors": ["comes", "came", "coming"]
+            },
+            {
+                "ko": "열심히 하면 언젠가 성공하기 마련이야",
+                "en": "You're bound to succeed if you work hard",
+                "distractors": ["succeeds", "succeeded", "succeeding"]
+            },
+            {
+                "ko": "살다 보면 실수를 할 수도 있는 법이지",
+                "en": "You're bound to make mistakes in life",
+                "distractors": ["at", "on", "by"]
+            },
+            {
+                "ko": "그런 식으로 운전하면 사고 나게 되어 있어",
+                "en": "He's bound to get into an accident driving like that",
+                "distractors": ["at", "on", "to"]
+            },
+            {
+                "ko": "우리 조만간 다시 만나게 될 거야",
+                "en": "We're bound to run into each other again soon",
+                "distractors": ["runs", "ran", "running"]
+            },
+            {
+                "ko": "처음에는 누구나 긴장하기 마련이야",
+                "en": "Everyone is bound to feel nervous at first",
+                "distractors": ["on", "in", "to"]
+            },
+            {
+                "ko": "비밀은 결국 탄로나게 되어 있어",
+                "en": "The truth is bound to be revealed eventually",
+                "distractors": ["reveal", "reveals", "revealing"]
+            },
+            {
+                "ko": "날씨가 추워지면 감기에 걸리기 쉽지",
+                "en": "You're bound to catch a cold when it gets freezing",
+                "distractors": ["catches", "caught", "catching"]
+            },
+            {
+                "ko": "계속 미루다 보면 언젠가 후회하게 되어 있어",
+                "en": "You're bound to regret it if you keep putting it off",
+                "distractors": ["on", "at", "for"]
+            },
+            {
+                "ko": "오해가 있으면 갈등이 생길 수밖에 없어",
+                "en": "There are bound to be conflicts if there's a misunderstanding",
+                "distractors": ["is", "am", "being"]
+            }
+        ]
     }
 ]
