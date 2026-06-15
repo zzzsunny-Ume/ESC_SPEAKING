@@ -579,7 +579,7 @@
                 "distractors": ["at", "in", "to"]
             },
             {
-                "ko": "응, 네이비즘 서버시간 켜놓고 새로고침 대기 중",
+                "ko": "응, 서버시간 켜놓고 새로고침 대기 중",
                 "en": "Yeah, I got the server clock up and ready to refresh",
                 "distractors": ["get", "gets", "getting"]
             },
@@ -622,6 +622,115 @@
                 "ko": "대박, 대단하다! 내 티켓도 구한 거 맞지?",
                 "en": "Awesome, you're the best! You got mine too, right?",
                 "distractors": ["get", "gets", "getting"]
+            }
+        ]
+    },
+
+    {
+        "title": "📜 그럴 줄 알았어 (I knew ~)",
+        "date": "2026-06-15",
+        "questions": [
+            {
+                "ko": "그럴 줄 알았어",
+                "en": "I knew it",
+                "distractors": ["know", "knows", "knowing"]
+            },
+            {
+                "ko": "그럴 줄 알았어, 걔 늦을 줄 알았지",
+                "en": "I knew he'd be late",
+                "distractors": ["lately", "later", "latest"]
+            },
+            {
+                "ko": "그럴 줄 알았어, 네가 그거 좋아할 줄 알았다고",
+                "en": "I knew you'd love it",
+                "distractors": ["love", "loves", "loving"]
+            },
+            {
+                "ko": "그럴 줄 알았어, 비 오기 시작하네",
+                "en": "I knew it was gonna rain",
+                "distractors": ["is", "am", "be"]
+            },
+            {
+                "ko": "그럴 줄 알았어, 이럴 대답이 나올 줄 알았지",
+                "en": "I knew you'd say that",
+                "distractors": ["say", "says", "saying"]
+            },
+            {
+                "ko": "그럴 줄 알았어, 결국 네가 해낼 줄 알았어",
+                "en": "I knew you could do it",
+                "distractors": ["can", "does", "doing"]
+            },
+            {
+                "ko": "그럴 줄 알았어, 생각보다 쉽지 않더라니까",
+                "en": "I knew it wouldn't be easy",
+                "distractors": ["easily", "easier", "easiest"]
+            },
+            {
+                "ko": "그럴 줄 알았어, 걔네 둘이 잘될 줄 알았어",
+                "en": "I knew they'd end up together",
+                "distractors": ["in", "at", "to"]
+            },
+            {
+                "ko": "그럴 줄 알았어, 내가 깜빡할 줄 알았다니까",
+                "en": "I knew I forgot something",
+                "distractors": ["forget", "forgets", "forgetting"]
+            },
+            {
+                "ko": "그럴 줄 알았어, 가격이 그 새 올랐네",
+                "en": "I knew the price went up",
+                "distractors": ["go", "goes", "going"]
+            }
+        ]
+    },
+
+    {
+        "title": "🗺️ 길안내",
+        "date": "2026-06-15",
+        "questions": [
+            {
+                "ko": "건너편에서 8번 버스를 타고 세 정거장 가세요",
+                "en": "Take the number 8 bus across the street and go three stops",
+                "distractors": ["through", "along", "into"]
+            },
+            {
+                "ko": "그 정류장의 이름은 기업은행 본점이에요",
+                "en": "The name of that stop is IBK Head Office",
+                "distractors": ["at", "in", "to"]
+            },
+            {
+                "ko": "거기에서 8000번 버스로 갈아타세요",
+                "en": "Transfer to the 8000 bus there",
+                "distractors": ["in", "at", "on"]
+            },
+            {
+                "ko": "택시는 너무 비싸니까 버스를 타세요",
+                "en": "Taxis are too expensive, so take the bus",
+                "distractors": ["takes", "took", "taking"]
+            },
+            {
+                "ko": "이 지하철은 반대 방향으로 가요",
+                "en": "This subway is going the opposite way",
+                "distractors": ["goes", "gone", "went"]
+            },
+            {
+                "ko": "개찰구에서 쉽게 역무원과 통화하는 버튼을 찾을 수 있어요",
+                "en": "You can easily find the helper button at the turnstile",
+                "distractors": ["in", "on", "to"]
+            },
+            {
+                "ko": "그 버튼을 누르고 반대편으로 가겠다고 말하세요",
+                "en": "Press that button and say you need to cross over",
+                "distractors": ["over", "under", "through"]
+            },
+            {
+                "ko": "그럼 반대편 문을 열어줄 거에요",
+                "en": "Then they'll open the gate for you",
+                "distractors": ["to", "at", "on"]
+            },
+            {
+                "ko": "거기서 지하철을 타고 10정거장 가세요",
+                "en": "Take the subway from there and go 10 stops",
+                "distractors": ["in", "at", "on"]
             }
         ]
     }
