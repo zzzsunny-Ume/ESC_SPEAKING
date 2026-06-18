@@ -734,4 +734,118 @@
             }
         ]
     },
+
+    {
+        "title": "📜 너 원래 ~하잖아",
+        "date": "2026-06-18",
+        "questions": [
+            {
+                "ko": "너 원래 아침 챙겨 먹잖아",
+                "en": "You usually eat breakfast",
+                "distractors": ["eats", "ate", "eating"]
+            },
+            {
+                "ko": "너 원래 주말에는 늦잠 자잖아",
+                "en": "You usually sleep in on weekends",
+                "distractors": ["at", "in", "to"]
+            },
+            {
+                "ko": "너 원래 이런 거 좋아하잖아",
+                "en": "You usually like this kind of stuff",
+                "distractors": ["likes", "liked", "liking"]
+            },
+            {
+                "ko": "너 원래 불평 잘 안 하잖아",
+                "en": "You don't usually complain",
+                "distractors": ["complains", "complained", "complaining"]
+            },
+            {
+                "ko": "너 원래 커피 안 마시잖아",
+                "en": "You don't usually drink coffee",
+                "distractors": ["drinks", "drank", "drinking"]
+            },
+            {
+                "ko": "너 원래 나한테 먼저 전화 잘 안 하잖아",
+                "en": "You don't usually call me first",
+                "distractors": ["calls", "called", "calling"]
+            },
+            {
+                "ko": "너 원래 이렇게 옷 안 입잖아",
+                "en": "You don't usually dress like this",
+                "distractors": ["dresses", "dressed", "dressing"]
+            },
+            {
+                "ko": "너 원래 의견 잘 안 굽히잖아",
+                "en": "You don't usually change your mind easily",
+                "distractors": ["easy", "easier", "easiest"]
+            },
+            {
+                "ko": "너 원래 약속 시간 잘 지키잖아",
+                "en": "You usually show up on time",
+                "distractors": ["at", "in", "by"]
+            },
+            {
+                "ko": "너 원래 비밀 잘 지키잖아",
+                "en": "You usually keep secrets well",
+                "distractors": ["keeps", "kept", "keeping"]
+            }
+        ]
+    },
+
+    {
+        "title": "🌦️ 기상 캐스터",
+        "date": "2026-06-18",
+        "questions": [
+            {
+                "ko": "오늘 전국적으로 화창한 날씨가 이어지겠습니다",
+                "en": "The weather will be sunny across the country today",
+                "distractors": ["through", "along", "into"]
+            },
+            {
+                "ko": "낮 최고 기온은 평년보다 조금 높겠습니다",
+                "en": "The daytime high temperature will be a little higher than average",
+                "distractors": ["highs", "highest", "highly"]
+            },
+            {
+                "ko": "외출하실 때 자외선 차단에 신경 써 주시기 바랍니다",
+                "en": "Please pay attention to UV protection when you go out",
+                "distractors": ["at", "in", "on"]
+            },
+            {
+                "ko": "대기가 다소 건조하니 화재 예방에 유의하세요",
+                "en": "The air is somewhat dry, so please be careful about fire prevention",
+                "distractors": ["at", "in", "on"]
+            },
+            {
+                "ko": "내일 오후부터는 전국에 비 소식이 있습니다",
+                "en": "There is news of rain nationwide starting tomorrow afternoon",
+                "distractors": ["start", "starts", "started"]
+            },
+            {
+                "ko": "이번 비는 모레 오전까지 이어질 전망입니다",
+                "en": "This rain is expected to continue until the morning after tomorrow",
+                "distractors": ["by", "since", "during"]
+            },
+            {
+                "ko": "비가 내리면서 기온이 크게 떨어지겠습니다",
+                "en": "As it rains, the temperature will drop significantly",
+                "distractors": ["drops", "dropped", "dropping"]
+            },
+            {
+                "ko": "일교차가 크니 옷차림에 각별히 유의해 주십시오",
+                "en": "The daily temperature range is large, so please be especially careful with your clothing",
+                "distractors": ["carefuly", "carefulness", "care"]
+            },
+            {
+                "ko": "우산을 미리 챙기시는 것이 좋겠습니다",
+                "en": "It would be good to bring an umbrella in advance",
+                "distractors": ["in", "on", "at"]
+            },
+            {
+                "ko": "이상 날씨 소식이었습니다",
+                "en": "That is all for the weather report",
+                "distractors": ["at", "in", "to"]
+            }
+        ]
+    }
 ]
