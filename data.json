@@ -847,5 +847,119 @@
                 "distractors": ["at", "in", "to"]
             }
         ]
+    },
+
+    {
+        "title": "📜 ~하려던 건 아니었어 (didn't mean to ~)",
+        "date": "2026-06-23",
+        "questions": [
+            {
+                "ko": "너한테 상처 주려던 건 아니었어",
+                "en": "I didn't mean to hurt you",
+                "distractors": ["mean", "means", "meaning"]
+            },
+            {
+                "ko": "기분 나쁘게 하려던 의도는 아니었어",
+                "en": "I didn't mean to offend you",
+                "distractors": ["offends", "offended", "offending"]
+            },
+            {
+                "ko": "방해하려던 건 아니었어",
+                "en": "I didn't mean to interrupt you",
+                "distractors": ["interrupts", "interrupted", "interrupting"]
+            },
+            {
+                "ko": "전화를 자꾸 하려던 건 아니었는데 미안",
+                "en": "I didn't mean to keep calling you",
+                "distractors": ["keeps", "kept", "keeping"]
+            },
+            {
+                "ko": "그렇게 무례하게 굴 생각은 아니었어",
+                "en": "I didn't mean to be rude",
+                "distractors": ["is", "am", "are"]
+            },
+            {
+                "ko": "그렇게 크게 일 키우려던 건 아니었어",
+                "en": "I didn't mean to make a big deal out of it",
+                "distractors": ["in", "at", "to"]
+            },
+            {
+                "ko": "네 비밀을 누설하려던 건 진짜 아니었어",
+                "en": "I didn't mean to let your secret out",
+                "distractors": ["in", "on", "at"]
+            },
+            {
+                "ko": "겁주려던 건 아니었으니까 진정해",
+                "en": "I didn't mean to scare you",
+                "distractors": ["scares", "scared", "scaring"]
+            },
+            {
+                "ko": "널 곤란하게 만들려던 건 아니었어",
+                "en": "I didn't mean to put you on the spot",
+                "distractors": ["in", "at", "to"]
+            },
+            {
+                "ko": "의심하려던 건 아닌데, 확인이 필요했어",
+                "en": "I didn't mean to doubt you",
+                "distractors": ["doubts", "doubted", "doubting"]
+            }
+        ]
+    },
+
+    {
+        "title": "🧳 가방 바뀜",
+        "date": "2026-06-23",
+        "questions": [
+            {
+                "ko": "저기요, 죄송한데 가방이 서로 바뀐 것 같아요",
+                "en": "Excuse me, but I think our bags got switched",
+                "distractors": ["switch", "switches", "switching"]
+            },
+            {
+                "ko": "아, 정말요? 제 캐리어랑 똑같이 생겨서 몰랐어요",
+                "en": "Oh, really? It looks exactly like mine, so I didn't realize",
+                "distractors": ["look", "looks", "looking"]
+            },
+            {
+                "ko": "여기 이름표 보시면 제 이름이 적혀 있거든요",
+                "en": "If you look at the name tag here, it has my name on it",
+                "distractors": ["in", "on", "to"]
+            },
+            {
+                "ko": "대박, 죄송해요! 급하게 나오느라 확인을 못 했네요",
+                "en": "Oh my god, I'm so sorry! I was in such a rush that I didn't check",
+                "distractors": ["at", "on", "by"]
+            },
+            {
+                "ko": "아니에요, 그럴 수 있죠. 가방은 문제없는 것 같아요",
+                "en": "No worries, it happens",
+                "distractors": ["happen", "happened", "happening"]
+            },
+            {
+                "ko": "제 가방도 흠집 하나 없이 그대로라 정말 다행이에요",
+                "en": "I'm so glad my bag doesn't have a single scratch either",
+                "distractors": ["don't", "has", "had"]
+            },
+            {
+                "ko": "안 그래도 가방 잃어버린 줄 알고 정말 깜짝 놀랐어요",
+                "en": "I was seriously freaking out, thinking I lost my bag",
+                "distractors": ["think", "thinks", "thought"]
+            },
+            {
+                "ko": "그러니까요, 이제라도 서로 찾아서 다행입니다",
+                "en": "I know, right? Good thing we found each other now",
+                "distractors": ["find", "finds", "finding"]
+            },
+            {
+                "ko": "그럼 조심히 가시고 즐거운 여행 되세요!",
+                "en": "Well, safe travels and have a great trip!",
+                "distractors": ["has", "had", "having"]
+            },
+            {
+                "ko": "네, 죄송했고 다시 한번 감사드립니다!",
+                "en": "Thanks again, and sorry for the mix-up!",
+                "distractors": ["at", "in", "to"]
+            }
+        ]
     }
 ]
