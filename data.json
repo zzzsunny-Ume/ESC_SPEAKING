@@ -961,5 +961,119 @@
                 "distractors": ["at", "in", "to"]
             }
         ]
+    },
+
+    {
+        "title": "🛒 캠핑 장보기",
+        "date": "2026-06-25",
+        "questions": [
+            {
+                "ko": "자기야, 카트 하나 챙겨서 신선코너부터 가자",
+                "en": "Babe, grab a cart and let's head to the produce section first",
+                "distractors": ["at", "in", "on"]
+            },
+            {
+                "ko": "바비큐 할 때 구워 먹게 삼겹살이랑 목살 둘 다 살까?",
+                "en": "Should we get both pork belly and shoulder for the BBQ?",
+                "distractors": ["at", "in", "to"]
+            },
+            {
+                "ko": "응, 소시지랑 버섯도 같이 구워 먹으면 맛있겠다",
+                "en": "Yeah, it'd be great to grill some sausages and mushrooms too",
+                "distractors": ["grills", "grilled", "grilling"]
+            },
+            {
+                "ko": "마시멜로도 꼭 사야 돼, 불멍할 때 구워 먹어야 하거든",
+                "en": "We definitely need marshmallows to roast over the campfire",
+                "distractors": ["under", "through", "during"]
+            },
+            {
+                "ko": "라면은 몇 개 정도 살까? 밤에 추우면 생각날 텐데",
+                "en": "How many ramen packs should we get? We'll want some if it gets cold tonight",
+                "distractors": ["get", "got", "getting"]
+            },
+            {
+                "ko": "한 번들 사두면 넉넉할 거야, 쌈장이랑 허브솔트도 챙겼어?",
+                "en": "One bundle should be plenty. Did you grab ssamjang and herb salt?",
+                "distractors": ["grabs", "grabbed", "grabbing"]
+            },
+            {
+                "ko": "당연하지, 아 참, 마실 물이랑 음료수도 큰 걸로 사야 해",
+                "en": "Of course. Oh, we also need to buy big bottles of water and drinks",
+                "distractors": ["buys", "bought", "buying"]
+            },
+            {
+                "ko": "대박, 하마터면 부탄가스랑 종이컵 깜빡할 뻔했다",
+                "en": "Oh my god, we almost forgot the butane gas and paper cups",
+                "distractors": ["forget", "forgets", "forgetting"]
+            },
+            {
+                "ko": "이 정도면 빠진 거 없지? 얼른 계산하고 출발하자",
+                "en": "Is that everything? Let's check out and get going",
+                "distractors": ["goes", "gone", "went"]
+            },
+            {
+                "ko": "이번 캠핑 진짜 기대된다, 날씨도 완전 완벽해!",
+                "en": "I'm so excited for this camping trip. The weather is absolutely perfect!",
+                "distractors": ["at", "in", "to"]
+            }
+        ]
+    },
+
+    {
+        "title": "📜 ~에 관해서라면 (When it comes to ~)",
+        "date": "2026-06-25",
+        "questions": [
+            {
+                "ko": "요리에 관해서라면 난 완전 초보야",
+                "en": "When it comes to cooking, I'm a total beginner",
+                "distractors": ["cook", "cooks", "cooked"]
+            },
+            {
+                "ko": "축구에 있어서만큼은 걔가 전문가야",
+                "en": "When it comes to soccer, he's an expert",
+                "distractors": ["in", "at", "on"]
+            },
+            {
+                "ko": "돈 문제에 관해서라면 다들 예민해지지",
+                "en": "When it comes to money, everyone gets sensitive",
+                "distractors": ["get", "got", "getting"]
+            },
+            {
+                "ko": "패션에 있어서만큼은 양보 못 해",
+                "en": "When it comes to fashion, I won't compromise",
+                "distractors": ["compromises", "compromised", "compromising"]
+            },
+            {
+                "ko": "게으름 피우는 거라면 걔가 1등이야",
+                "en": "When it comes to being lazy, she's the best",
+                "distractors": ["is", "am", "are"]
+            },
+            {
+                "ko": "거짓말하는 거라면 딱 보면 알지",
+                "en": "When it comes to lying, I can tell right away",
+                "distractors": ["lie", "lies", "lied"]
+            },
+            {
+                "ko": "매운 음식 먹는 거라면 나 자신 있어",
+                "en": "When it comes to eating spicy food, I'm confident",
+                "distractors": ["eat", "eats", "ate"]
+            },
+            {
+                "ko": "미루는 거라면 나도 할 말 없지",
+                "en": "When it comes to procrastinating, I'm guilty",
+                "distractors": ["procrastinate", "procrastinates", "procrastinated"]
+            },
+            {
+                "ko": "연애 상담에 관해서라면 나한테 물어봐",
+                "en": "When it comes to relationship advice, just ask me",
+                "distractors": ["at", "in", "for"]
+            },
+            {
+                "ko": "건강 챙기는 거라면 아무리 강조해도 지나치지 않아",
+                "en": "When it comes to taking care of your health, you can't be too careful",
+                "distractors": ["take", "takes", "took"]
+            }
+        ]
     }
 ]
