@@ -1075,5 +1075,119 @@
                 "distractors": ["take", "takes", "took"]
             }
         ]
+    },
+
+    {
+        "title": "🍞 빵집 직원",
+        "date": "2026-06-26",
+        "questions": [
+            {
+                "ko": "어서 오세요, 갓 구운 빵들이 지금 막 나왔습니다",
+                "en": "Welcome, the freshly baked bread just came out",
+                "distractors": ["come", "comes", "coming"]
+            },
+            {
+                "ko": "이 식빵은 오늘 아침에 바로 구워서 정말 부드러워요",
+                "en": "This loaf of bread was baked this morning, so it is really soft",
+                "distractors": ["in", "at", "on"]
+            },
+            {
+                "ko": "시식용으로 준비된 빵을 한번 드셔보시겠어요?",
+                "en": "Would you like to try the bread prepared for tasting?",
+                "distractors": ["at", "on", "to"]
+            },
+            {
+                "ko": "원하시는 빵을 쟁반에 담아서 카운터로 가져와 주세요",
+                "en": "Please put the bread you want on the tray and bring it to the counter",
+                "distractors": ["at", "in", "to"]
+            },
+            {
+                "ko": "이 빵은 오늘 안으로 드시는 게 가장 맛있습니다",
+                "en": "It is best to eat this bread within today for the best taste",
+                "distractors": ["at", "on", "to"]
+            },
+            {
+                "ko": "봉투에 넣어드릴까요, 아니면 바로 드시겠어요?",
+                "en": "Would you like me to put it in a bag, or will you eat it right away",
+                "distractors": ["at", "on", "to"]
+            },
+            {
+                "ko": "빵은 낱개로 포장해서 드릴게요",
+                "en": "I will pack the bread individually for you",
+                "distractors": ["at", "in", "on"]
+            },
+            {
+                "ko": "결제 도와드릴게요, 포인트 적립하시겠어요?",
+                "en": "I will help you with the payment; would you like to earn points",
+                "distractors": ["earns", "earned", "earning"]
+            },
+            {
+                "ko": "당일 생산한 제품이라 내일까지 드시는 걸 권장합니다",
+                "en": "Since it is a product made today, we recommend eating it by tomorrow",
+                "distractors": ["until", "for", "during"]
+            },
+            {
+                "ko": "방문해 주셔서 감사합니다, 맛있게 드세요!",
+                "en": "Thank you for visiting, and enjoy your meal",
+                "distractors": ["enjoys", "enjoyed", "enjoying"]
+            }
+        ]
+    },
+
+    {
+        "title": "📜~하면 좋겠다 (could use ~)",
+        "date": "2026-06-26",
+        "questions": [
+            {
+                "ko": "지금 시원한 커피 한잔 마시면 딱 좋겠다",
+                "en": "I could use a cold coffee right now",
+                "distractors": ["can", "shall", "will"]
+            },
+            {
+                "ko": "나 진짜 휴식이 좀 필요해",
+                "en": "I could really use a break",
+                "distractors": ["uses", "used", "using"]
+            },
+            {
+                "ko": "조언 한마디 해줄 수 있어? 도움이 좀 필요해서",
+                "en": "Could you give me some advice? I could use some help",
+                "distractors": ["gives", "gave", "giving"]
+            },
+            {
+                "ko": "오늘 밤은 잠을 좀 푹 자야겠어",
+                "en": "I could use a good night's sleep tonight",
+                "distractors": ["at", "in", "on"]
+            },
+            {
+                "ko": "너한테 칭찬 한마디 들으니까 힘이 나네",
+                "en": "I could use some encouragement",
+                "distractors": ["encourage", "encourages", "encouraged"]
+            },
+            {
+                "ko": "분위기 전환이 좀 필요한 타이밍이야",
+                "en": "We could use a change of scenery",
+                "distractors": ["in", "at", "to"]
+            },
+            {
+                "ko": "생각 정리할 시간이 좀 필요해",
+                "en": "I could use some time to think",
+                "distractors": ["thinks", "thought", "thinking"]
+            },
+            {
+                "ko": "손이 부족한데, 네 도움 좀 받을 수 있을까?",
+                "en": "I could use a hand here",
+                "distractors": ["in", "at", "on"]
+            },
+            {
+                "ko": "지금 나한테 가장 필요한 건 따뜻한 샤워야",
+                "en": "I could use a hot shower right now",
+                "distractors": ["can", "shall", "will"]
+            },
+            {
+                "ko": "너랑 이야기 좀 나눴으면 좋겠어",
+                "en": "I could use someone to talk to",
+                "distractors": ["talks", "talked", "talking"]
+            }
+        ]
     }
 ]
