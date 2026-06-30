@@ -1189,5 +1189,176 @@
                 "distractors": ["talks", "talked", "talking"]
             }
         ]
+    },
+
+    {
+        "title": "🍞 빵집 직원",
+        "date": "2026-06-26",
+        "questions": [
+            {
+                "ko": "어서 오세요, 갓 구운 빵들이 지금 막 나왔습니다",
+                "en": "Welcome, the freshly baked bread just came out",
+                "distractors": ["come", "comes", "coming"]
+            },
+            {
+                "ko": "이 식빵은 오늘 아침에 바로 구워서 정말 부드러워요",
+                "en": "This loaf of bread was baked this morning, so it is really soft",
+                "distractors": ["in", "at", "on"]
+            },
+            {
+                "ko": "시식용으로 준비된 빵을 한번 드셔보시겠어요?",
+                "en": "Would you like to try the bread prepared for tasting?",
+                "distractors": ["at", "on", "to"]
+            },
+            {
+                "ko": "원하시는 빵을 쟁반에 담아서 카운터로 가져와 주세요",
+                "en": "Please put the bread you want on the tray and bring it to the counter",
+                "distractors": ["at", "in", "to"]
+            },
+            {
+                "ko": "이 빵은 오늘 안으로 드시는 게 가장 맛있습니다",
+                "en": "It is best to eat this bread within today for the best taste",
+                "distractors": ["at", "on", "to"]
+            },
+            {
+                "ko": "봉투에 넣어드릴까요, 아니면 바로 드시겠어요?",
+                "en": "Would you like me to put it in a bag, or will you eat it right away",
+                "distractors": ["at", "on", "to"]
+            },
+            {
+                "ko": "빵은 낱개로 포장해서 드릴게요",
+                "en": "I will pack the bread individually for you",
+                "distractors": ["at", "in", "on"]
+            },
+            {
+                "ko": "결제 도와드릴게요, 포인트 적립하시겠어요?",
+                "en": "I will help you with the payment; would you like to earn points",
+                "distractors": ["earns", "earned", "earning"]
+            },
+            {
+                "ko": "당일 생산한 제품이라 내일까지 드시는 걸 권장합니다",
+                "en": "Since it is a product made today, we recommend eating it by tomorrow",
+                "distractors": ["until", "for", "during"]
+            },
+            {
+                "ko": "방문해 주셔서 감사합니다, 맛있게 드세요!",
+                "en": "Thank you for visiting, and enjoy your meal",
+                "distractors": ["enjoys", "enjoyed", "enjoying"]
+            }
+        ]
+    },
+
+    {
+        "title": "☕ 친구와 카페",
+        "date": "2026-06-30",
+        "questions": [
+            {
+                "ko": "날씨가 더우니까 시원한 아이스 아메리카노 한잔 마시자",
+                "en": "It's so hot today, let's grab a cold iced americano",
+                "distractors": ["grabs", "grabbed", "grabbing"]
+            },
+            {
+                "ko": "근처에 인스타에서 핫한 디저트 카페가 있더라고",
+                "en": "I heard there's a trendy dessert cafe nearby that's huge on Instagram",
+                "distractors": ["at", "in", "to"]
+            },
+            {
+                "ko": "잘됐다, 안 그래도 달달한 크로플이 당겼거든",
+                "en": "Perfect, I was actually craving some sweet croffles",
+                "distractors": ["crave", "craves", "craving"]
+            },
+            {
+                "ko": "매장 안이 에어컨 때문에 엄청 시원해서 살 것 같다",
+                "en": "The AC inside the shop is freezing, I can finally breathe",
+                "distractors": ["at", "on", "to"]
+            },
+            {
+                "ko": "넌 뭐 마실래? 내가 이번에 쏠게",
+                "en": "What do you want to drink? It's my treat this time",
+                "distractors": ["in", "on", "at"]
+            },
+            {
+                "ko": "그럼 난 시그니처 메뉴인 크림 라떼로 할래",
+                "en": "Then I'll go with the signature cream latte",
+                "distractors": ["at", "in", "to"]
+            },
+            {
+                "ko": "자리가 꽉 찼네, 테이크아웃해서 나갈까?",
+                "en": "It's packed, should we just get it to go?",
+                "distractors": ["at", "in", "on"]
+            },
+            {
+                "ko": "잠깐만, 저기 창가 쪽에 마침 자리가 났어!",
+                "en": "Wait a second, a spot just opened up over by the window!",
+                "distractors": ["open", "opens", "opening"]
+            },
+            {
+                "ko": "대박, 역시 우리 타이밍 하나는 끝내준다",
+                "en": "Oh my god, our timing is always spot on",
+                "distractors": ["at", "in", "to"]
+            },
+            {
+                "ko": "커피 나왔다, 마시면서 밀린 수다나 떨자",
+                "en": "Coffee is served, let's catch up while we drink",
+                "distractors": ["catches", "caught", "catching"]
+            }
+        ]
+    },
+
+    {
+        "title": "🧹 ~하는 김에 (while you're at it)",
+        "date": "2026-06-30",
+        "questions": [
+            {
+                "ko": "마트 가는 김에 내 것도 사다 줘",
+                "en": "Get mine while you're at it",
+                "distractors": ["in", "on", "to"]
+            },
+            {
+                "ko": "커피 타는 김에 내 것도 부탁해",
+                "en": "Make mine too while you're at it",
+                "distractors": ["in", "on", "to"]
+            },
+            {
+                "ko": "청소하는 김에 이것도 좀 치워줘",
+                "en": "Clean this too while you're at it",
+                "distractors": ["in", "on", "to"]
+            },
+            {
+                "ko": "나간 김에 쓰레기 좀 버려줘",
+                "en": "Take out the trash while you're at it",
+                "distractors": ["in", "on", "to"]
+            },
+            {
+                "ko": "편의점 가는 김에 물 좀 사다 줄래?",
+                "en": "Buy some water while you're at it",
+                "distractors": ["in", "on", "to"]
+            },
+            {
+                "ko": "폰 보는 김에 날씨 좀 봐줘",
+                "en": "Check the weather while you're at it",
+                "distractors": ["in", "on", "to"]
+            },
+            {
+                "ko": "나가는 김에 문 좀 닫아줘",
+                "en": "Close the door while you're at it",
+                "distractors": ["in", "on", "to"]
+            },
+            {
+                "ko": "일어난 김에 물 좀 떠다 줄래?",
+                "en": "Get me some water while you're at it",
+                "distractors": ["in", "on", "to"]
+            },
+            {
+                "ko": "사진 찍는 김에 내 것도 찍어줘",
+                "en": "Take my picture while you're at it",
+                "distractors": ["in", "on", "to"]
+            },
+            {
+                "ko": "불 끄는 김에 에어컨도 꺼줘",
+                "en": "Turn off the AC while you're at it",
+                "distractors": ["in", "on", "to"]
+            }
+        ]
     }
 ]
