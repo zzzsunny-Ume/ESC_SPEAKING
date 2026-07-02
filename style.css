@@ -137,3 +137,66 @@ body {
 .modal-subtitle { font-size: 16px; color: var(--text-secondary); margin-bottom: 8px; }
 .modal-correct-text { font-size: 22px; font-weight: 600; color: var(--text-main); margin-bottom: 32px; line-height: 1.5; }
 .modal-btn { background-color: var(--text-main); color: white; border: none; border-radius: 16px; padding: 16px 32px; font-size: 18px; font-weight: 600; cursor: pointer; }
+
+/*기존 코드 하단에 추가 또는 대체해주세요*/
+
+/* 홈 화면 헤더 내 드롭다운 배치 */
+.widget-header { 
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 26px; 
+    font-weight: 700; 
+    color: var(--text-main); 
+    margin-bottom: 20px; 
+}
+
+/* iOS 감성의 깔끔한 select 필터 디자인 */
+.type-filter {
+    background-color: #E5E5EA;
+    color: var(--text-main);
+    border: none;
+    border-radius: 10px;
+    padding: 6px 12px;
+    font-size: 14px;
+    font-weight: 600;
+    outline: none;
+    cursor: pointer;
+    font-family: inherit;
+}
+
+/* 타이틀과 뱃지 정렬 */
+.item-title-row {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 6px;
+}
+
+.item-title { 
+    font-size: 18px; 
+    font-weight: 600; 
+    color: var(--text-main); 
+    word-break: keep-all;
+}
+
+/* 숙제 타입 표시 미니 뱃지 */
+.item-type-badge {
+    font-size: 11px;
+    font-weight: 600;
+    background-color: #E5E5EA;
+    color: #555559;
+    padding: 3px 8px;
+    border-radius: 6px;
+    white-space: nowrap;
+    margin-left: 8px;
+}
+
+/* 데이터 없음 안내 스타일 */
+.empty-message {
+    text-align: center;
+    color: var(--text-secondary);
+    font-size: 15px;
+    padding: 60px 0;
+    font-weight: 500;
+}

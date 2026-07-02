@@ -10,7 +10,16 @@
 
     <div class="widget-container">
         <div id="home-view" class="view-panel">
-            <div class="widget-header">영어 숙제 목록</div>
+            <div class="widget-header">
+                <span>영어 숙제 목록</span>
+                <select id="type-filter" class="type-filter">
+                    <option value="all">전체</option>
+                    <option value="롤플레잉">롤플레잉</option>
+                    <option value="문장반복">문장반복</option>
+                    <option value="대화">대화</option>
+                    <option value="오픽">오픽</option>
+                </select>
+            </div>
             <div id="homework-list" class="list-container"></div>
         </div>
 

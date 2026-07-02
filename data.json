@@ -1,6 +1,7 @@
 [
     {
         "title": "📜 설마 아니지?",
+        "type": "문장반복",
         "date": "2026-06-01",
         "questions": [
             {
@@ -58,6 +59,7 @@
 
     {
         "title": "📜 ~해봤자 소용 없어",
+        "type": "문장반복",
         "date": "2026-06-01",
         "questions": [
             {
@@ -115,6 +117,7 @@
 
     {
         "title": "🏫 캠퍼스 소개",
+        "type": "롤플레잉",
         "date": "2026-04-30",
         "questions": [
             { 
@@ -172,6 +175,7 @@
 
     {
         "title": "🍦 아이스크림 케이크",
+        "type": "대화",
         "date": "2026-06-02",
         "questions": [
             {
@@ -229,6 +233,7 @@
 
     {
         "title": "📜 어쩌다 보니~",
+        "type": "문장반복",
         "date": "2026-06-02",
         "questions": [
             {
@@ -286,6 +291,7 @@
 
     {
         "title": "🍻 MT 준비",
+        "type": "대화",
         "date": "2026-06-05",
         "questions": [
             {
@@ -343,6 +349,7 @@
 
     {
         "title": "🫂 이상형",
+        "type": "대화",
         "date": "2026-06-05",
         "questions": [
             {
@@ -400,6 +407,7 @@
 
     {
         "title": "🥛 식혜",
+        "type": "롤플레잉",
         "date": "2026-06-09",
         "questions": [
             {
@@ -457,6 +465,7 @@
 
     {
         "title": "📜 어차피 ~하게 되어있어",
+        "type": "문장반복",
         "date": "2026-06-09",
         "questions": [
             {
@@ -514,6 +523,7 @@
 
     {
         "title": "📜 완전 동의해 (I'm all for ~)",
+        "type": "문장반복",
         "date": "2026-06-11",
         "questions": [
             {
@@ -571,6 +581,7 @@
 
     {
         "title": "🎫 티켓팅",
+        "type": "대화",
         "date": "2026-06-11",
         "questions": [
             {
@@ -628,6 +639,7 @@
 
     {
         "title": "📜 그럴 줄 알았어 (I knew ~)",
+        "type": "문장반복",
         "date": "2026-06-15",
         "questions": [
             {
@@ -685,6 +697,7 @@
 
     {
         "title": "🗺️ 길안내",
+        "type": "롤플레잉",
         "date": "2026-06-15",
         "questions": [
             {
@@ -737,6 +750,7 @@
 
     {
         "title": "📜 너 원래 ~하잖아",
+        "type": "문장반복",
         "date": "2026-06-18",
         "questions": [
             {
@@ -794,6 +808,7 @@
 
     {
         "title": "🌦️ 기상 캐스터",
+        "type": "롤플레잉",
         "date": "2026-06-18",
         "questions": [
             {
@@ -851,6 +866,7 @@
 
     {
         "title": "📜 ~하려던 건 아니었어 (didn't mean to ~)",
+        "type": "문장반복",
         "date": "2026-06-23",
         "questions": [
             {
@@ -908,6 +924,7 @@
 
     {
         "title": "🧳 가방 바뀜",
+        "type": "대화",
         "date": "2026-06-23",
         "questions": [
             {
@@ -965,6 +982,7 @@
 
     {
         "title": "🛒 캠핑 장보기",
+        "type": "대화",
         "date": "2026-06-25",
         "questions": [
             {
@@ -1022,6 +1040,7 @@
 
     {
         "title": "📜 ~에 관해서라면 (When it comes to ~)",
+        "type": "문장반복",
         "date": "2026-06-25",
         "questions": [
             {
@@ -1079,6 +1098,7 @@
 
     {
         "title": "🍞 빵집 직원",
+        "type": "롤플레잉",
         "date": "2026-06-26",
         "questions": [
             {
@@ -1136,6 +1156,7 @@
 
     {
         "title": "📜~하면 좋겠다 (could use ~)",
+        "type": "문장반복",
         "date": "2026-06-26",
         "questions": [
             {
@@ -1192,64 +1213,8 @@
     },
 
     {
-        "title": "🍞 빵집 직원",
-        "date": "2026-06-26",
-        "questions": [
-            {
-                "ko": "어서 오세요, 갓 구운 빵들이 지금 막 나왔습니다",
-                "en": "Welcome, the freshly baked bread just came out",
-                "distractors": ["come", "comes", "coming"]
-            },
-            {
-                "ko": "이 식빵은 오늘 아침에 바로 구워서 정말 부드러워요",
-                "en": "This loaf of bread was baked this morning, so it is really soft",
-                "distractors": ["in", "at", "on"]
-            },
-            {
-                "ko": "시식용으로 준비된 빵을 한번 드셔보시겠어요?",
-                "en": "Would you like to try the bread prepared for tasting?",
-                "distractors": ["at", "on", "to"]
-            },
-            {
-                "ko": "원하시는 빵을 쟁반에 담아서 카운터로 가져와 주세요",
-                "en": "Please put the bread you want on the tray and bring it to the counter",
-                "distractors": ["at", "in", "to"]
-            },
-            {
-                "ko": "이 빵은 오늘 안으로 드시는 게 가장 맛있습니다",
-                "en": "It is best to eat this bread within today for the best taste",
-                "distractors": ["at", "on", "to"]
-            },
-            {
-                "ko": "봉투에 넣어드릴까요, 아니면 바로 드시겠어요?",
-                "en": "Would you like me to put it in a bag, or will you eat it right away",
-                "distractors": ["at", "on", "to"]
-            },
-            {
-                "ko": "빵은 낱개로 포장해서 드릴게요",
-                "en": "I will pack the bread individually for you",
-                "distractors": ["at", "in", "on"]
-            },
-            {
-                "ko": "결제 도와드릴게요, 포인트 적립하시겠어요?",
-                "en": "I will help you with the payment; would you like to earn points",
-                "distractors": ["earns", "earned", "earning"]
-            },
-            {
-                "ko": "당일 생산한 제품이라 내일까지 드시는 걸 권장합니다",
-                "en": "Since it is a product made today, we recommend eating it by tomorrow",
-                "distractors": ["until", "for", "during"]
-            },
-            {
-                "ko": "방문해 주셔서 감사합니다, 맛있게 드세요!",
-                "en": "Thank you for visiting, and enjoy your meal",
-                "distractors": ["enjoys", "enjoyed", "enjoying"]
-            }
-        ]
-    },
-
-    {
         "title": "☕ 친구와 카페",
+        "type": "대화",
         "date": "2026-06-30",
         "questions": [
             {
@@ -1306,7 +1271,8 @@
     },
 
     {
-        "title": "🧹 ~하는 김에 (while you're at it)",
+        "title": "📜 ~하는 김에 (while you're at it)",
+        "type": "문장반복",
         "date": "2026-06-30",
         "questions": [
             {
@@ -1358,6 +1324,122 @@
                 "ko": "불 끄는 김에 에어컨도 꺼줘",
                 "en": "Turn off the AC while you're at it",
                 "distractors": ["in", "on", "to"]
+            }
+        ]
+    },
+
+    {
+        "title": "🏊 물놀이",
+        "type": "대화",
+        "date": "2026-07-02",
+        "questions": [
+            {
+                "ko": "야, 물 진짜 시원하다! 얼른 들어와 봐!",
+                "en": "Hey, the water is so refreshing! Get in here quick",
+                "distractors": ["at", "in", "on"]
+            },
+            {
+                "ko": "나 선크림 좀 제대로 바르고 갈게, 살 다 타겠다",
+                "en": "Let me put on some sunscreen first, or I'll get totally fried",
+                "distractors": ["get", "gets", "getting"]
+            },
+            {
+                "ko": "튜브랑 구명조끼는 저기서 빌리면 되는 거지?",
+                "en": "We can rent tubes and life vests over there, right?",
+                "distractors": ["at", "in", "on"]
+            },
+            {
+                "ko": "응, 내가 가서 빌려올 테니까 넌 돗자리 좀 깔아줘",
+                "en": "Yeah, I'll go grab them, so you go set up the mat",
+                "distractors": ["grabs", "grabbed", "grabbing"]
+            },
+            {
+                "ko": "대박, 저기 워터슬라이드 줄 장난 아니다, 저것부터 탈래?",
+                "en": "Oh my god, the line for that water slide is insane, want to hit that first?",
+                "distractors": ["at", "in", "to"]
+            },
+            {
+                "ko": "좋아, 더 길어지기 전에 얼른 가서 줄 서자",
+                "en": "Sounds good, let's go line up before it gets any longer",
+                "distractors": ["while", "after", "during"]
+            },
+            {
+                "ko": "물총 싸움 하느라 물 잔뜩 먹었어, 배고프다",
+                "en": "I swallowed so much water during the water gun fight, I'm starving",
+                "distractors": ["through", "along", "while"]
+            },
+            {
+                "ko": "물놀이 후에 먹는 컵라면이 진짜 진리인 거 알지?",
+                "en": "You know ramen right after swimming is the absolute best, right?",
+                "distractors": ["before", "during", "while"]
+            },
+            {
+                "ko": "마침 저기 매점 있네, 떡볶이랑 라면 고?",
+                "en": "There's a snack bar right over there, tteokbokki and ramen?",
+                "distractors": ["at", "in", "on"]
+            },
+            {
+                "ko": "완전 콜! 다 먹고 파도 풀 운영 시간 맞춰서 또 가자",
+                "en": "I'm so down! Let's eat and head back in time for the wave pool",
+                "distractors": ["at", "on", "by"]
+            }
+        ]
+    },
+
+    {
+        "title": "📜 나 그때 ~했어",
+        "type": "문장반복",
+        "date": "2026-07-02",
+        "questions": [
+            {
+                "ko": "나 그때 진짜 완전 당황했잖아",
+                "en": "I was like, \"Oh my god\"",
+                "distractors": ["am", "are", "being"]
+            },
+            {
+                "ko": "나 속으로 '이게 뭐지?' 싶었어",
+                "en": "I was like, \"What is this?\"",
+                "distractors": ["am", "is", "be"]
+            },
+            {
+                "ko": "나 그때 진짜 말문이 막히더라",
+                "en": "I was like, \"No way\"",
+                "distractors": ["am", "are", "being"]
+            },
+            {
+                "ko": "걔가 그러니까 난 속으로 '진짜?' 했지",
+                "en": "I was like, \"Are you serious?\"",
+                "distractors": ["am", "are", "been"]
+            },
+            {
+                "ko": "난 그냥 '뭐 어때' 하고 넘겼어",
+                "en": "I was like, \"Whatever\"",
+                "distractors": ["am", "are", "being"]
+            },
+            {
+                "ko": "나 그때 완전 신났었잖아",
+                "en": "I was like, \"Yay!\"",
+                "distractors": ["am", "are", "been"]
+            },
+            {
+                "ko": "나 속으로 '헐, 망했다' 싶더라니까",
+                "en": "I was like, \"Uh oh\"",
+                "distractors": ["am", "are", "being"]
+            },
+            {
+                "ko": "난 그냥 '안 해!' 하고 관뒀어",
+                "en": "I was like, \"I'm done\"",
+                "distractors": ["is", "are", "be"]
+            },
+            {
+                "ko": "나 속으로 '말도 안 돼' 라고 생각했어",
+                "en": "I was like, \"That's crazy\"",
+                "distractors": ["am", "are", "being"]
+            },
+            {
+                "ko": "걔가 물어보길래 난 '글쎄' 라고 했지",
+                "en": "I was like, \"I don't know\"",
+                "distractors": ["am", "are", "been"]
             }
         ]
     }
