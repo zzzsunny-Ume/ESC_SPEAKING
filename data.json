@@ -1442,5 +1442,119 @@
                 "distractors": ["am", "are", "been"]
             }
         ]
+    },
+
+    {
+        "title": "🥩 고기 구매",
+        "date": "2026-07-06",
+        "questions": [
+            {
+                "ko": "오늘 저녁에 가족들이랑 같이 먹을 삼겹살을 사려고 해요",
+                "en": "I'm going to buy some pork belly to eat with my family this evening",
+                "distractors": ["at", "in", "on"]
+            },
+            {
+                "ko": "여기 있는 고기가 아주 신선하고 맛있어 보이네요",
+                "en": "The meat here looks very fresh and delicious",
+                "distractors": ["look", "looking", "looked"]
+            },
+            {
+                "ko": "삼겹살 600그램만 주세요, 두껍게 썰어 주시면 좋겠어요",
+                "en": "Please give me 600 grams of pork belly, and I'd like it cut thick",
+                "distractors": ["gives", "gave", "giving"]
+            },
+            {
+                "ko": "상추랑 깻잎 같은 쌈 채소도 같이 파시나요?",
+                "en": "Do you also sell leafy vegetables for wrapping like lettuce and perilla leaves?",
+                "distractors": ["likes", "liked", "liking"]
+            },
+            {
+                "ko": "집에서 고기 구워 먹을 때 찍어 먹을 쌈장도 하나 필요해요",
+                "en": "I also need one container of ssamjang to dip the meat in when I grill it at home",
+                "distractors": ["at", "on", "to"]
+            },
+            {
+                "ko": "고기 비린내를 잡으려고 하는데 혹시 추천해주실 양념이 있나요?",
+                "en": "I'm trying to get rid of the meat odor, do you have any seasoning to recommend?",
+                "distractors": ["try", "tries", "tried"]
+            },
+            {
+                "ko": "오늘 여기서 산 고기로 맛있게 구워 먹어야겠어요",
+                "en": "I'm going to grill the meat I bought here today and enjoy it",
+                "distractors": ["buy", "buys", "buying"]
+            },
+            {
+                "ko": "카드 결제 가능한가요, 아니면 현금으로 내야 하나요?",
+                "en": "Can I pay by card, or do I have to pay in cash?",
+                "distractors": ["at", "on", "to"]
+            },
+            {
+                "ko": "여기 고기랑 채소까지 다 담아주셔서 정말 감사합니다",
+                "en": "Thank you so much for packing all the meat and vegetables here",
+                "distractors": ["at", "in", "on"]
+            },
+            {
+                "ko": "고기가 정말 좋아 보이는데 다음에도 또 들를게요",
+                "en": "The meat looks really good, so I'll visit again next time",
+                "distractors": ["visits", "visited", "visiting"]
+            }
+        ]
+    },
+
+    {
+        "title": "📜 참고로 (Just so you know ~)",
+        "date": "2026-07-06",
+        "questions": [
+            {
+                "ko": "참고로 나 내일 쉬어",
+                "en": "Just so you know, I'm off tomorrow",
+                "distractors": ["in", "at", "to"]
+            },
+            {
+                "ko": "미리 말해두는데, 나 매운 거 못 먹어",
+                "en": "Just so you know, I can't eat spicy food",
+                "distractors": ["eat", "eats", "eating"]
+            },
+            {
+                "ko": "참고로 그거 내 잘못 아니야",
+                "en": "Just so you know, it's not my fault",
+                "distractors": ["is", "am", "be"]
+            },
+            {
+                "ko": "미리 말해두는데, 나 돈 없어",
+                "en": "Just so you know, I don't have money",
+                "distractors": ["has", "had", "having"]
+            },
+            {
+                "ko": "참고로 걔 벌써 출발했어",
+                "en": "Just so you know, he already left",
+                "distractors": ["leave", "leaves", "leaving"]
+            },
+            {
+                "ko": "미리 말해두는데, 그거 내 거야",
+                "en": "Just so you know, that's mine",
+                "distractors": ["is", "am", "be"]
+            },
+            {
+                "ko": "참고로 나 비밀로 할 거야",
+                "en": "Just so you know, I'll keep it a secret",
+                "distractors": ["keeps", "kept", "keeping"]
+            },
+            {
+                "ko": "미리 말해두는데, 나 늦을 수도 있어",
+                "en": "Just so you know, I might be late",
+                "distractors": ["lately", "later", "latest"]
+            },
+            {
+                "ko": "참고로 이거 공짜 아니야",
+                "en": "Just so you know, this isn't free",
+                "distractors": ["is", "am", "be"]
+            },
+            {
+                "ko": "미리 말해두는데, 나 아직 결정 안 했어",
+                "en": "Just so you know, I haven't decided yet",
+                "distractors": ["decide", "decides", "deciding"]
+            }
+        ]
     }
 ]
