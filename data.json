@@ -1446,6 +1446,7 @@
 
     {
         "title": "🥩 고기 구매",
+        "type": "롤플레잉",
         "date": "2026-07-06",
         "questions": [
             {
@@ -1503,6 +1504,7 @@
 
     {
         "title": "📜 참고로 (Just so you know ~)",
+        "type": "문장반복",
         "date": "2026-07-06",
         "questions": [
             {
