@@ -1558,5 +1558,121 @@
                 "distractors": ["decide", "decides", "deciding"]
             }
         ]
+    },
+
+    {
+        "title": "⚾ 야구장 직관",
+        "type":"대화",
+        "date": "2026-07-07",
+        "questions": [
+            {
+                "ko": "처음 야구장 왔는데 분위기 진짜 대박이다!",
+                "en": "It's my first time at a ballpark, the vibe is amazing!",
+                "distractors": ["in", "on", "to"]
+            },
+            {
+                "ko": "응, 이게 직관의 맛이지! 내가 규칙 다 알려줄게",
+                "en": "Yeah, this is the thrill of being here! I'll teach you all the rules",
+                "distractors": ["teaches", "taught", "teaching"]
+            },
+            {
+                "ko": "저 투수 공 엄청 빠르다, 다들 어떻게 저걸 쳐?",
+                "en": "That pitcher's ball is so fast, how does anyone hit that?",
+                "distractors": ["hits", "hitting", "hitted"]
+            },
+            {
+                "ko": "저게 바로 시속 150km 강속구야, 진짜 대단하지?",
+                "en": "That's a 150 km/h fastball, pretty impressive, right?",
+                "distractors": ["impressed", "impression", "impressively"]
+            },
+            {
+                "ko": "방금 공 멀리 날아갔는데 저게 홈런이야?",
+                "en": "The ball just flew really far, is that a home run?",
+                "distractors": ["fly", "flies", "flying"]
+            },
+            {
+                "ko": "아쉽게 잡혔어, 저건 그냥 아웃이야",
+                "en": "Too bad it got caught, that's just an out",
+                "distractors": ["catch", "catches", "catching"]
+            },
+            {
+                "ko": "아, 그럼 주자가 한 바퀴 다 돌면 점수 나는 거야?",
+                "en": "Oh, so do they score if the runner goes around all the bases?",
+                "distractors": ["go", "gone", "went"]
+            },
+            {
+                "ko": "정답! 1점 냈을 때 다 같이 응원하는 게 제일 재밌어",
+                "en": "Exactly! Cheering together when we score a run is the best part",
+                "distractors": ["at", "in", "on"]
+            },
+            {
+                "ko": "오, 우리 팀 점수 났다! 다들 진짜 신나 보인다",
+                "en": "Oh, we scored! Everyone looks so excited",
+                "distractors": ["look", "looking", "looked"]
+            },
+            {
+                "ko": "이제 재미 붙었지? 우리 끝까지 신나게 응원하자!",
+                "en": "You're getting into it, right? Let's keep cheering hard!",
+                "distractors": ["get", "got", "gotten"]
+            }
+        ]
+    },
+
+    {
+        "title": "📜 드디어 미루던 일을 했어 (got around to ~)",
+        "type":"문장반복",
+        "date": "2026-07-07",
+        "questions": [
+            {
+                "ko": "드디어 방 청소 좀 했어",
+                "en": "I finally got around to cleaning my room",
+                "distractors": ["clean", "cleans", "cleaned"]
+            },
+            {
+                "ko": "미루던 이메일 답장을 드디어 보냈어",
+                "en": "I got around to replying to the email",
+                "distractors": ["reply", "replies", "replied"]
+            },
+            {
+                "ko": "드디어 그 영화를 봤잖아",
+                "en": "I got around to watching that movie",
+                "distractors": ["watch", "watches", "watched"]
+            },
+            {
+                "ko": "미뤄둔 빨래를 드디어 다 했어",
+                "en": "I got around to doing the laundry",
+                "distractors": ["do", "does", "did"]
+            },
+            {
+                "ko": "걔한테 드디어 전화했어",
+                "en": "I got around to calling him",
+                "distractors": ["call", "calls", "called"]
+            },
+            {
+                "ko": "미루던 책을 드디어 읽기 시작했어",
+                "en": "I got around to reading that book",
+                "distractors": ["read", "reads", "readed"]
+            },
+            {
+                "ko": "드디어 미용실에 다녀왔어",
+                "en": "I got around to getting a haircut",
+                "distractors": ["get", "gets", "got"]
+            },
+            {
+                "ko": "밀린 영수증 정리를 드디어 끝냈어",
+                "en": "I got around to organizing the receipts",
+                "distractors": ["organize", "organizes", "organized"]
+            },
+            {
+                "ko": "드디어 그 차를 고쳤어",
+                "en": "I got around to fixing the car",
+                "distractors": ["fix", "fixes", "fixed"]
+            },
+            {
+                "ko": "미루던 헬스장 등록을 드디어 했어",
+                "en": "I got around to signing up for the gym",
+                "distractors": ["in", "at", "on"]
+            }
+        ]
     }
 ]
