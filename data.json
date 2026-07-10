@@ -1674,5 +1674,121 @@
                 "distractors": ["in", "at", "on"]
             }
         ]
+    },
+
+    {
+        "title": "🏫 유치원/어린이집 일상",
+        "type":"롤플레잉",
+        "date": "2026-07-10",
+        "questions": [
+            {
+                "ko": "얘들아, 이제 다 같이 모여서 앉아볼까?",
+                "en": "Kids, shall we all gather around and sit down?",
+                "distractors": ["at", "in", "on"]
+            },
+            {
+                "ko": "오늘 날씨가 정말 좋으니까 조금 있다가 나가서 놀자",
+                "en": "The weather is really nice today, so let's go out and play in a little bit",
+                "distractors": ["at", "on", "to"]
+            },
+            {
+                "ko": "차례를 지키면서 줄을 서는 게 정말 멋지다!",
+                "en": "It's so cool that you're waiting in line one by one!",
+                "distractors": ["at", "on", "to"]
+            },
+            {
+                "ko": "선생님이 재미있는 동화책 한 권 읽어줄게, 잘 들어봐",
+                "en": "I'll read you an interesting storybook, so listen carefully",
+                "distractors": ["careful", "carefulness", "care"]
+            },
+            {
+                "ko": "장난감을 다 가지고 놀았으면 스스로 정리해 볼까?",
+                "en": "If you're done playing with the toys, shall we tidy them up ourselves?",
+                "distractors": ["do", "does", "did"]
+            },
+            {
+                "ko": "밥 먹기 전에 우리 손을 깨끗하게 씻으러 가자",
+                "en": "Let's go wash our hands clean before we eat",
+                "distractors": ["eats", "ate", "eating"]
+            },
+            {
+                "ko": "우리 친구들이 사이좋게 지내는 모습이 정말 예쁘네",
+                "en": "It's so lovely to see you all getting along well",
+                "distractors": ["at", "in", "to"]
+            },
+            {
+                "ko": "속상한 일이 있으면 선생님한테 언제든 말해도 돼",
+                "en": "If you're upset about anything, you can tell me anytime",
+                "distractors": ["at", "on", "to"]
+            },
+            {
+                "ko": "낮잠 잘 시간이야, 이제 눈을 감고 편하게 쉬자",
+                "en": "It's nap time, so close your eyes and rest comfortably now",
+                "distractors": ["comfortable", "comfort", "comforting"]
+            },
+            {
+                "ko": "오늘 하루도 정말 고생 많았어, 내일 또 만나자!",
+                "en": "You all worked hard today, see you again tomorrow!",
+                "distractors": ["work", "works", "working"]
+            }
+        ]
+    },
+
+    {
+        "title": "⚖️ ~를 고려하면 (Given ~)",
+        "type":"문장반복",
+        "date": "2026-07-10",
+        "questions": [
+            {
+                "ko": "가격을 고려하면 이게 제일 나아",
+                "en": "Given the price, this is the best",
+                "distractors": ["Give", "Gives", "Giving"]
+            },
+            {
+                "ko": "상황을 생각하면 어쩔 수 없었어",
+                "en": "Given the situation, I had no choice",
+                "distractors": ["has", "have", "having"]
+            },
+            {
+                "ko": "나이를 생각하면 걔 진짜 잘하는 거야",
+                "en": "Given his age, he's doing really well",
+                "distractors": ["do", "does", "did"]
+            },
+            {
+                "ko": "날씨를 고려하면 나가지 않는 게 좋겠어",
+                "en": "Given the weather, we shouldn't go out",
+                "distractors": ["at", "in", "on"]
+            },
+            {
+                "ko": "남은 시간을 생각하면 서둘러야 해",
+                "en": "Given the time left, we need to hurry",
+                "distractors": ["leave", "leaves", "leaving"]
+            },
+            {
+                "ko": "조건을 고려하면 나쁜 제안은 아니야",
+                "en": "Given the conditions, it's not a bad offer",
+                "distractors": ["at", "in", "on"]
+            },
+            {
+                "ko": "경험이 없다는 점을 생각하면 잘한 거지",
+                "en": "Given her lack of experience, she did a good job",
+                "distractors": ["do", "does", "doing"]
+            },
+            {
+                "ko": "건강 상태를 고려하면 쉬는 게 맞아",
+                "en": "Given your health, you should rest",
+                "distractors": ["shall", "will", "would"]
+            },
+            {
+                "ko": "배경을 생각하면 이해가 가네",
+                "en": "Given the background, it makes sense",
+                "distractors": ["make", "makes", "making"]
+            },
+            {
+                "ko": "사실을 고려하면 그게 맞지",
+                "en": "Given the facts, that is correct",
+                "distractors": ["am", "are", "be"]
+            }
+        ]
     }
 ]
