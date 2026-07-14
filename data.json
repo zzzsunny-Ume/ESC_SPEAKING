@@ -1790,5 +1790,122 @@
                 "distractors": ["am", "are", "be"]
             }
         ]
+    },
+
+    {
+        "title": "📅 약속 잡기",
+        "type": "대화",
+        "date": "2026-07-14",
+        "questions": [
+            {
+                "ko": "우리 다음 주에 시간 맞춰서 얼굴 한번 보자",
+                "en": "Let's match our schedules and meet up next week",
+                "distractors": ["at", "in", "on"]
+            },
+            {
+                "ko": "좋아, 안 그래도 안 본 지 오래돼서 보고 싶었어",
+                "en": "Sounds good, I've been wanting to see you since it's been a while",
+                "distractors": ["want", "wants", "wanted"]
+            },
+            {
+                "ko": "주말이랑 평일 저녁 중에 언제쯤이 편해?",
+                "en": "Which is better for you, the weekend or a weekday evening?",
+                "distractors": ["good", "best", "well"]
+            },
+            {
+                "ko": "난 목요일 저녁이나 토요일 오후가 널널해",
+                "en": "I'm pretty free on Thursday evening or Saturday afternoon",
+                "distractors": ["at", "in", "to"]
+            },
+            {
+                "ko": "그럼 토요일에 만날까? 점심 같이 먹자",
+                "en": "Then should we meet on Saturday? Let's grab lunch together",
+                "distractors": ["grabs", "grabbed", "grabbing"]
+            },
+            {
+                "ko": "완전 콜! 맛있는 거 먹으러 가자, 장소는 어디가 좋아?",
+                "en": "I'm so down! Let's go get something good, where do you want to meet?",
+                "distractors": ["goes", "gone", "went"]
+            },
+            {
+                "ko": "중간 지점인 홍대나 신촌 쪽에서 보면 어때?",
+                "en": "How about meeting around Hongdae or Sinchon since it's in the middle?",
+                "distractors": ["at", "in", "on"]
+            },
+            {
+                "ko": "좋네, 내가 인스타에서 봐둔 힙한 파스타집 있어",
+                "en": "Perfect, there's a trendy pasta place I saved on Instagram",
+                "distractors": ["at", "in", "to"]
+            },
+            {
+                "ko": "대박, 벌써 군침 돈다. 거기 미리 예약해야 해?",
+                "en": "Oh my god, my mouth is watering already. Do we need to book it in advance?",
+                "distractors": ["book", "books", "booked"]
+            },
+            {
+                "ko": "응, 주말엔 웨이팅 길어서 내가 오늘 퇴근하고 예약해 둘게",
+                "en": "Yeah, the wait is long on weekends, so I'll book it after work today",
+                "distractors": ["at", "in", "to"]
+            }
+        ]
+    },
+
+    {
+        "title": "📜 ~를 깨닫게 되었어 (I've come to realize ~)",
+        "type": "문장반복",
+        "date": "2026-07-14",
+        "questions": [
+            {
+                "ko": "시간이 지나니 건강이 최고라는 걸 깨닫게 되었어",
+                "en": "I've come to realize that health is everything",
+                "distractors": ["came", "comes", "coming"]
+            },
+            {
+                "ko": "나 이제서야 내 잘못을 깨닫게 되었어",
+                "en": "I've come to realize my mistake",
+                "distractors": ["mistakes", "mistaken", "mistaking"]
+            },
+            {
+                "ko": "그 사람이 좋은 사람이라는 걸 드디어 알게 되었어",
+                "en": "I've come to realize he is a good person",
+                "distractors": ["am", "are", "be"]
+            },
+            {
+                "ko": "돈이 전부가 아니라는 걸 깨닫게 되었지",
+                "en": "I've come to realize that money isn't everything",
+                "distractors": ["don't", "not", "no"]
+            },
+            {
+                "ko": "가족의 소중함을 이제야 깨닫게 되었어",
+                "en": "I've come to realize how important family is",
+                "distractors": ["importance", "importantly", "import"]
+            },
+            {
+                "ko": "내가 걔를 좋아하고 있었다는 걸 깨닫게 되었어",
+                "en": "I've come to realize that I like her",
+                "distractors": ["likes", "liked", "liking"]
+            },
+            {
+                "ko": "이게 생각보다 쉽지 않다는 걸 알게 되었어",
+                "en": "I've come to realize this isn't easy",
+                "distractors": ["easily", "easier", "easiest"]
+            },
+            {
+                "ko": "나 혼자서는 할 수 없다는 걸 깨닫게 되었지",
+                "en": "I've come to realize I can't do it alone",
+                "distractors": ["lonely", "alones", "loneliness"]
+            },
+            {
+                "ko": "매일 꾸준히 하는 게 중요하다는 걸 알게 되었어",
+                "en": "I've come to realize consistency is key",
+                "distractors": ["consistent", "consistently", "consist"]
+            },
+            {
+                "ko": "세상에 공짜는 없다는 걸 깨닫게 되었어",
+                "en": "I've come to realize there's no free lunch",
+                "distractors": ["a", "the", "any"]
+            }
+        ]
     }
+
 ]
