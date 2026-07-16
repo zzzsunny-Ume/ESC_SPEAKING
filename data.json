@@ -1906,6 +1906,237 @@
                 "distractors": ["a", "the", "any"]
             }
         ]
-    }
+    },
 
+    {
+        "title": "📜 나 ~하는 중이야 (I'm on ~)",
+        "type":"문장반복",
+        "date": "2026-07-16",
+        "questions": [
+            {
+                "ko": "나 가고 있어. (출발했어.)",
+                "en": "I'm on my way",
+                "distractors": ["in", "at", "to"]
+            },
+            {
+                "ko": "나 전화 통화 중이야.",
+                "en": "I'm on the phone",
+                "distractors": ["in", "at", "to"]
+            },
+            {
+                "ko": "나 다이어트 중이야.",
+                "en": "I'm on a diet",
+                "distractors": ["in", "at", "to"]
+            },
+            {
+                "ko": "나 지금 휴가 중이야.",
+                "en": "I'm on vacation",
+                "distractors": ["in", "at", "to"]
+            },
+            {
+                "ko": "나 요새 약 먹고 있어.",
+                "en": "I'm on medication",
+                "distractors": ["in", "at", "to"]
+            },
+            {
+                "ko": "나 인스타그램 하는 중이야.",
+                "en": "I'm on Instagram",
+                "distractors": ["in", "at", "to"]
+            },
+            {
+                "ko": "나 지금 일하는 중(근무 중)이야.",
+                "en": "I'm on duty right now",
+                "distractors": ["in", "at", "to"]
+            },
+            {
+                "ko": "나 예산이 빡빡해서 아껴 써야 해.",
+                "en": "I'm on a tight budget",
+                "distractors": ["in", "at", "to"]
+            },
+            {
+                "ko": "나 비행기 탈 준비(탑승 중)하고 있어.",
+                "en": "I'm on the plane already",
+                "distractors": ["in", "at", "to"]
+            },
+            {
+                "ko": "나 이제 상황을 완전히 파악했어. (흐름을 타기 시작했어.)",
+                "en": "I'm on top of things now",
+                "distractors": ["in", "at", "to"]
+            }
+        ]
+    },
+
+    {
+        "title": "📜 언제든 얼마든지 ~해도 돼 (You're more than welcome to ~)",
+        "type":"문장반복",
+        "date": "2026-07-16",
+        "questions": [
+            {
+                "ko": "얼마든지 여기 있어도 돼",
+                "en": "You're more than welcome to stay",
+                "distractors": ["stays", "stayed", "staying"]
+            },
+            {
+                "ko": "언제든 편하게 질문해도 돼",
+                "en": "You're more than welcome to ask",
+                "distractors": ["asks", "asked", "asking"]
+            },
+            {
+                "ko": "마음에 들면 얼마든지 가져가도 돼",
+                "en": "You're more than welcome to take it",
+                "distractors": ["takes", "took", "taking"]
+            },
+            {
+                "ko": "필요하면 언제든 이거 써도 돼",
+                "en": "You're more than welcome to use this",
+                "distractors": ["uses", "used", "using"]
+            },
+            {
+                "ko": "언제든 편하게 우리 집에 놀러 와도 돼",
+                "en": "You're more than welcome to visit us",
+                "distractors": ["visits", "visited", "visiting"]
+            },
+            {
+                "ko": "같이 먹고 싶으면 얼마든지 끼어도 돼",
+                "en": "You're more than welcome to join us",
+                "distractors": ["joins", "joined", "joining"]
+            },
+            {
+                "ko": "언제든 편하게 내 차 타고 가도 돼",
+                "en": "You're more than welcome to use my car",
+                "distractors": ["uses", "used", "using"]
+            },
+            {
+                "ko": "생각 바뀌면 언제든지 내게 전화해도 돼",
+                "en": "You're more than welcome to call me back",
+                "distractors": ["calls", "called", "calling"]
+            },
+            {
+                "ko": "시간 더 필요하면 얼마든지 천천히 해도 돼",
+                "en": "You're more than welcome to take your time",
+                "distractors": ["takes", "took", "taking"]
+            },
+            {
+                "ko": "더 알고 싶은 게 있다면 얼마든지 나한테 물어봐도 돼",
+                "en": "You're more than welcome to ask for more details",
+                "distractors": ["asks", "asked", "asking"]
+            }
+        ]
+    },
+
+    {
+        "title": "📜 ~해서 손해 볼 건 없잖아 (It doesn't hurt to ~)",
+        "type":"문장반복",
+        "date": "2026-07-16",
+        "questions": [
+            {
+                "ko": "물어봐서 손해 볼 건 없잖아",
+                "en": "It doesn't hurt to ask",
+                "distractors": ["asks", "asked", "asking"]
+            },
+            {
+                "ko": "한번 시도해 봐서 나쁠 건 없지",
+                "en": "It doesn't hurt to try",
+                "distractors": ["tries", "tried", "trying"]
+            },
+            {
+                "ko": "체크해 봐서 손해 볼 건 없잖아",
+                "en": "It doesn't hurt to check",
+                "distractors": ["checks", "checked", "checking"]
+            },
+            {
+                "ko": "조심해서 나쁠 건 없지",
+                "en": "It doesn't hurt to be careful",
+                "distractors": ["am", "are", "been"]
+            },
+            {
+                "ko": "미리 준비해 둬서 손해 볼 건 없어",
+                "en": "It doesn't hurt to prepare",
+                "distractors": ["prepares", "prepared", "preparing"]
+            },
+            {
+                "ko": "걔한테 사과해서 나쁠 건 없잖아",
+                "en": "It doesn't hurt to apologize",
+                "distractors": ["apologizes", "apologized", "apologizing"]
+            },
+            {
+                "ko": "혹시 모르니까 가져가 봐서 나쁠 건 없지",
+                "en": "It doesn't hurt to bring it with you",
+                "distractors": ["brings", "brought", "bringing"]
+            },
+            {
+                "ko": "조금 더 기다려 봐서 손해 볼 건 없잖아",
+                "en": "It doesn't hurt to wait a little longer",
+                "distractors": ["waits", "waited", "waiting"]
+            },
+            {
+                "ko": "결정하기 전에 다른 의견도 들어봐서 나쁠 건 없지",
+                "en": "It doesn't hurt to get a second opinion",
+                "distractors": ["gets", "got", "getting"]
+            },
+            {
+                "ko": "그 사람 기분 좋게 칭찬 한마디 해줘서 손해 볼 건 없잖아",
+                "en": "It doesn't hurt to give them a nice compliment",
+                "distractors": ["gives", "gave", "giving"]
+            }
+        ]
+    },
+
+    {
+        "title": "✈️ 비행기 부기장",
+        "type":"롤플레잉",
+        "date": "2026-07-16",
+        "questions": [
+            {
+                "ko": "오늘 비행 스케줄 확인했나요? 이륙 준비 시작할게요",
+                "en": "Did you check the flight schedule for today? Let's start the takeoff preparations",
+                "distractors": ["at", "in", "on"]
+            },
+            {
+                "ko": "기장님, 현재 기상 상태가 좋지 않으니 경로를 살짝 변경하죠",
+                "en": "Captain, the weather conditions aren't great, let's slightly change our route",
+                "distractors": ["slight", "slightest", "slightness"]
+            },
+            {
+                "ko": "모든 계기판 정상 작동합니다, 고도 3만 피트까지 올라갑니다",
+                "en": "All instruments are working normally; climbing to an altitude of 30,000 feet",
+                "distractors": ["at", "in", "on"]
+            },
+            {
+                "ko": "승객분들께 안전벨트 착용 안내 방송 부탁드려요",
+                "en": "Please make an announcement for the passengers to fasten their seatbelts",
+                "distractors": ["makes", "made", "making"]
+            },
+            {
+                "ko": "착륙하기 전에 관제탑에 연락해서 입항 허가받아야 해요",
+                "en": "We need to contact the control tower and get landing clearance before we go in",
+                "distractors": ["at", "on", "to"]
+            },
+            {
+                "ko": "오늘 바람이 좀 부니까 착륙할 때 집중해야겠어요",
+                "en": "It's a bit windy today, so we'll need to stay focused during the landing",
+                "distractors": ["while", "through", "along"]
+            },
+            {
+                "ko": "활주로가 보입니다, 이제 자동 조종 장치 끄고 수동으로 할게요",
+                "en": "I see the runway; I'm switching off the autopilot and taking manual control now",
+                "distractors": ["at", "in", "on"]
+            },
+            {
+                "ko": "부드럽게 착륙 성공했습니다, 다들 수고 많으셨어요",
+                "en": "Landing was smooth and successful; great job everyone",
+                "distractors": ["smoothly", "smoothness", "smoother"]
+            },
+            {
+                "ko": "엔진 정지하고 게이트 연결할 준비 마쳤습니다",
+                "en": "Engine shut down and ready to connect to the gate",
+                "distractors": ["connects", "connected", "connecting"]
+            },
+            {
+                "ko": "오늘 비행도 안전하게 마무리해서 정말 다행입니다",
+                "en": "I'm really glad we finished this flight safely as well",
+                "distractors": ["safe", "safety", "safeness"]
+            }
+        ]
+    }
 ]
