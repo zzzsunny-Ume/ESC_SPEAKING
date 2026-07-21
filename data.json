@@ -2138,5 +2138,121 @@
                 "distractors": ["safe", "safety", "safeness"]
             }
         ]
+    },
+
+    {
+        "title": "📜 ~를 진짜 좋아해 (be fond of ~)",
+        "type":"문장반복",
+        "date": "2026-07-21",
+        "questions": [
+            {
+                "ko": "나 걔 별로 안 좋아해",
+                "en": "I'm not very fond of him",
+                "distractors": ["at", "with", "for"]
+            },
+            {
+                "ko": "우리 할머니는 단거 진짜 좋아하셔",
+                "en": "My grandma is really fond of sweets",
+                "distractors": ["at", "with", "to"]
+            },
+            {
+                "ko": "나 걔한테 좀 호감이 생겼어",
+                "en": "I've grown quite fond of her",
+                "distractors": ["grow", "grew", "growing"]
+            },
+            {
+                "ko": "나 옛날 사진들 보는 거 되게 좋아해",
+                "en": "I'm fond of looking at old photos",
+                "distractors": ["look", "looked", "looks"]
+            },
+            {
+                "ko": "너 걔 엄청 챙기고 아끼는구나",
+                "en": "You seem really fond of your dog",
+                "distractors": ["seemed", "seeming", "seems"]
+            },
+            {
+                "ko": "나 사실 매운 음식 별로 안 좋아해",
+                "en": "I'm not particularly fond of spicy food",
+                "distractors": ["particular", "particularity", "particulars"]
+            },
+            {
+                "ko": "너 밤에 산책하는 거 되게 좋아하더라",
+                "en": "You're pretty fond of late-night walks",
+                "distractors": ["walk", "walked", "walking"]
+            },
+            {
+                "ko": "우리 팀장님은 긴 회의 별로 안 좋아하셔",
+                "en": "My boss isn't too fond of long meetings",
+                "distractors": ["am", "are", "be"]
+            },
+            {
+                "ko": "나 어릴 때 추억들이 아직도 참 좋아",
+                "en": "I have fond memories of my childhood",
+                "distractors": ["has", "had", "having"]
+            },
+            {
+                "ko": "걔네 둘이 생각보다 되게 친해진 것 같아",
+                "en": "They seem to have become quite fond of each other",
+                "distractors": ["becomes", "becoming", "became"]
+            }
+        ]
+    },
+
+    {
+        "title": "🚕 택시 이용 (Taking a Taxi)",
+        "type":"기초회화",
+        "date": "2026-07-21",
+        "questions": [
+            {
+                "ko": "택시 타는 곳이 어디예요?",
+                "en": "Where is the taxi stand?",
+                "distractors": ["stands", "standing", "stood"]
+            },
+            {
+                "ko": "이 주소로 가주세요",
+                "en": "Please take me to this address",
+                "distractors": ["takes", "took", "taking"]
+            },
+            {
+                "ko": "공항까지 얼마나 걸리나요?",
+                "en": "How long will it take to the airport?",
+                "distractors": ["takes", "took", "taking"]
+            },
+            {
+                "ko": "대략 얼마 정도 나올까요?",
+                "en": "About how much will it cost?",
+                "distractors": ["costs", "costing", "costed"]
+            },
+            {
+                "ko": "제일 빠른 길로 가주세요",
+                "en": "Please take the fastest route",
+                "distractors": ["fast", "faster", "fastly"]
+            },
+            {
+                "ko": "미터기 켜주세요",
+                "en": "Please turn on the meter",
+                "distractors": ["turns", "turned", "turning"]
+            },
+            {
+                "ko": "여기서 내려주세요",
+                "en": "Please drop me off here",
+                "distractors": ["drops", "dropped", "dropping"]
+            },
+            {
+                "ko": "저기 신호등 근처에서 세워주세요",
+                "en": "You can let me out near that traffic light",
+                "distractors": ["lets", "letting", "allowed"]
+            },
+            {
+                "ko": "카드 결제 가능한가요?",
+                "en": "Can I pay by card?",
+                "distractors": ["with", "for", "on"]
+            },
+            {
+                "ko": "영수증 주세요",
+                "en": "Could I get a receipt, please?",
+                "distractors": ["gets", "got", "getting"]
+            }
+        ]
     }
 ]
