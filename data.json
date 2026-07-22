@@ -2254,5 +2254,121 @@
                 "distractors": ["gets", "got", "getting"]
             }
         ]
+    },
+
+    {
+        "title": "🍽️ 식당",
+        "type":"기초회화",
+        "date": "2026-07-23",
+        "questions": [
+            {
+                "ko": "식당에 예약하고 싶어요",
+                "en": "I'd like to make a reservation",
+                "distractors": ["makes", "made", "making"]
+            },
+            {
+                "ko": "2명 자리 있나요?",
+                "en": "Do you have a table for two?",
+                "distractors": ["has", "had", "having"]
+            },
+            {
+                "ko": "얼마나 기다려야 하나요?",
+                "en": "How long is the wait?",
+                "distractors": ["are", "was", "were"]
+            },
+            {
+                "ko": "대기 명단에 이름 올릴 수 있나요?",
+                "en": "Can I put my name on the list?",
+                "distractors": ["puts", "putting", "place"]
+            },
+            {
+                "ko": "야외 테이블로 앉을 수 있을까요?",
+                "en": "Could we sit outside?",
+                "distractors": ["sits", "sat", "sitting"]
+            },
+            {
+                "ko": "여기서 가장 인기 있는 메뉴가 뭐예요?",
+                "en": "What's the most popular dish here?",
+                "distractors": ["more", "much", "many"]
+            },
+            {
+                "ko": "이건 어떤 음식인가요?",
+                "en": "What kind of dish is this?",
+                "distractors": ["kinds", "kindly", "kindness"]
+            },
+            {
+                "ko": "이걸로 주시겠어요?",
+                "en": "I'll have this one, please",
+                "distractors": ["has", "had", "having"]
+            },
+            {
+                "ko": "고수 빼주세요",
+                "en": "Please leave out the cilantro",
+                "distractors": ["leaves", "left", "leaving"]
+            },
+            {
+                "ko": "계산서 좀 갖다주세요",
+                "en": "Could we get the check, please?",
+                "distractors": ["gets", "got", "getting"]
+            }
+        ]
+    },
+
+    {
+        "title": "📜 얘기 나와서 말인데 (Speaking of ~)",
+        "type":"문장반복",
+        "date": "2026-07-23",
+        "questions": [
+            {
+                "ko": "말 나온 김에, 너 혹시 걔 소식 들었어?",
+                "en": "Speaking of him, have you heard from him lately?",
+                "distractors": ["hears", "hearing", "hear"]
+            },
+            {
+                "ko": "그 얘기가 나와서 말인데, 우리 다음 주 회의 언제 하지?",
+                "en": "Speaking of meetings, when are we having our next one?",
+                "distractors": ["has", "had", "have"]
+            },
+            {
+                "ko": "음식 얘기 나와서 말인데, 근처에 맛집 새로 생겼더라",
+                "en": "Speaking of food, a new restaurant just opened nearby",
+                "distractors": ["opens", "opening", "openly"]
+            },
+            {
+                "ko": "여행 얘기 나와서 말인데, 너 이번 여름에 어디 가?",
+                "en": "Speaking of traveling, are you going anywhere this summer?",
+                "distractors": ["goes", "went", "gone"]
+            },
+            {
+                "ko": "돈 얘기 나와서 말인데, 너 아까 정산한 거 줬어?",
+                "en": "Speaking of money, did you send me your share yet?",
+                "distractors": ["sends", "sending", "sent"]
+            },
+            {
+                "ko": "영화 얘기 나와서 말인데, 너 그 신작 봤어?",
+                "en": "Speaking of movies, have you seen the new one yet?",
+                "distractors": ["saw", "see", "seeing"]
+            },
+            {
+                "ko": "날씨 얘기 나와서 말인데, 오늘 비 온다고 하지 않았어?",
+                "en": "Speaking of the weather, wasn't it supposed to rain today?",
+                "distractors": ["suppose", "supposing", "supposes"]
+            },
+            {
+                "ko": "일 얘기 나와서 말인데, 그 프로젝트 어떻게 돼가?",
+                "en": "Speaking of work, how is that project coming along?",
+                "distractors": ["comes", "came", "come"]
+            },
+            {
+                "ko": "시간 얘기 나와서 말인데, 우리 이제 슬슬 출발해야 하지 않아?",
+                "en": "Speaking of time, shouldn't we be heading out soon?",
+                "distractors": ["heads", "headed", "head"]
+            },
+            {
+                "ko": "살 빼는 얘기 나와서 말인데, 너 요즘도 운동해?",
+                "en": "Speaking of working out, are you still going to the gym?",
+                "distractors": ["goes", "went", "gone"]
+            }
+        ]
     }
 ]
