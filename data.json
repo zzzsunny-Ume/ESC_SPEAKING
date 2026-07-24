@@ -2370,5 +2370,121 @@
                 "distractors": ["goes", "went", "gone"]
             }
         ]
+    },
+
+    {
+        "title": "🗣️ 리액션 & 뒷소문 / 감정 표현",
+        "type":"기초회화",
+        "date": "2026-07-24",
+        "questions": [
+            {
+                "ko": "너 그거 진짜진짜 잘했다!",
+                "en": "You absolutely nailed it!",
+                "distractors": ["nails", "nailing", "nailer"]
+            },
+            {
+                "ko": "나 방금 소름 돋았어",
+                "en": "I just got goosebumps",
+                "distractors": ["gets", "getting", "gotten"]
+            },
+            {
+                "ko": "완전 멘붕 터졌잖아",
+                "en": "I completely freaked out",
+                "distractors": ["complete", "completeness", "completing"]
+            },
+            {
+                "ko": "너무 억울해!",
+                "en": "That is so unfair!",
+                "distractors": ["fair", "fairly", "fairness"]
+            },
+            {
+                "ko": "나 완전 서운해",
+                "en": "I feel so hurt",
+                "distractors": ["feels", "feeling", "felt"]
+            },
+            {
+                "ko": "걔 완전 뻔뻔해",
+                "en": "She has so much nerve",
+                "distractors": ["nervous", "nervously", "nerves"]
+            },
+            {
+                "ko": "뒷담화 까는 거 아니거든?",
+                "en": "I'm not talking behind their back",
+                "distractors": ["talks", "talked", "talker"]
+            },
+            {
+                "ko": "진짜 오지랖도 넓다",
+                "en": "Mind your own business",
+                "distractors": ["minds", "minded", "minding"]
+            },
+            {
+                "ko": "기분 상하게 하려던 건 아니었어",
+                "en": "I didn't mean to offend you",
+                "distractors": ["means", "meaning", "meant"]
+            },
+            {
+                "ko": "마음이 너무 복잡하다",
+                "en": "I have mixed feelings about this",
+                "distractors": ["mix", "mixes", "mixing"]
+            }
+        ]
+    },
+    
+    {
+        "title": "📜 ~하는 거 지긋지긋하다 (I'm fed up with ~)",
+        "type":"문장반복",
+        "date": "2026-07-24",
+        "questions": [
+            {
+                "ko": "나 걔 변명 듣는 거 진짜 지긋지긋해",
+                "en": "I'm fed up with his excuses",
+                "distractors": ["feeds", "feeding", "feeder"]
+            },
+            {
+                "ko": "나 이 지긋지긋한 교통체증에 질려버렸어",
+                "en": "I'm fed up with this traffic",
+                "distractors": ["at", "on", "to"]
+            },
+            {
+                "ko": "걔네 둘이 맨날 싸우는 거 이제 진절머리 난다",
+                "en": "I'm fed up with their constant fighting",
+                "distractors": ["constantly", "constancy", "constants"]
+            },
+            {
+                "ko": "나 걔가 자꾸 약속 늦는 거에 해탈했어/질렸어",
+                "en": "I'm fed up with her always showing up late",
+                "distractors": ["shows", "showed", "shown"]
+            },
+            {
+                "ko": "유튜브 보는데 광고 계속 나오는 거 진짜 짜증 나",
+                "en": "I'm fed up with all these non-stop ads",
+                "distractors": ["this", "that", "there"]
+            },
+            {
+                "ko": "회사에서 정치질하는 거 진짜 지쳐",
+                "en": "I'm fed up with all the office politics",
+                "distractors": ["political", "politically", "politician"]
+            },
+            {
+                "ko": "나 이 낡은 컴퓨터 자꾸 튕기는 거에 질렸어",
+                "en": "I'm fed up with this computer crashing all the time",
+                "distractors": ["crashes", "crashed", "crash"]
+            },
+            {
+                "ko": "말만 번지르르하게 하고 행동은 안 하는 거에 질렸어",
+                "en": "I'm fed up with all talk and no action",
+                "distractors": ["talking", "talked", "talks"]
+            },
+            {
+                "ko": "매일 야근하는 거 이제 진짜 지긋지긋하다",
+                "en": "I'm fed up with working overtime every single day",
+                "distractors": ["works", "worked", "worker"]
+            },
+            {
+                "ko": "날씨가 며칠째 계속 비만 오니까 진이 빠지네",
+                "en": "I'm fed up with this rain that won't stop",
+                "distractors": ["stops", "stopped", "stopping"]
+            }
+        ]
     }
 ]
