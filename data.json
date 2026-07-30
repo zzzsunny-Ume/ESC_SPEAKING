@@ -2601,5 +2601,121 @@
                 "distractors": ["gets", "got", "getting"]
             }
         ]
+    },
+
+    {
+        "title": "👟 운동 일상 대화",
+        "type":"기초회화",
+        "date": "2026-07-30",
+        "questions": [
+            {
+                "ko": "요즘 슬슬 몸이 굳는 게 느껴져",
+                "en": "I feel like my body is getting rusty lately",
+                "distractors": ["rusts", "rusted", "rusting"]
+            },
+            {
+                "ko": "처음엔 재미로 시작했는데 완전 빠졌어",
+                "en": "I started it just for fun, but now I'm totally hooked",
+                "distractors": ["hooks", "hooking", "hooker"]
+            },
+            {
+                "ko": "하다 보니까 조금씩 실력이 늘더라고",
+                "en": "As I kept doing it, I started getting better bit by bit",
+                "distractors": ["keeps", "kept", "keeper"]
+            },
+            {
+                "ko": "나 요즘 매일 꾸준히 하려고 노력 중이야",
+                "en": "I'm trying to stay consistent every day these days",
+                "distractors": ["consistently", "consistency", "consist"]
+            },
+            {
+                "ko": "아무 생각 없이 집중할 수 있어서 좋아",
+                "en": "I like it because I can clear my head and focus",
+                "distractors": ["clears", "cleared", "clearing"]
+            },
+            {
+                "ko": "마음은 굴뚝같은데 몸이 안 따라주네",
+                "en": "The passion is there, but my body won't follow",
+                "distractors": ["follows", "followed", "following"]
+            },
+            {
+                "ko": "중간에 슬럼프 와서 잠깐 쉬었잖아",
+                "en": "I hit a slump in the middle, so I took a short break",
+                "distractors": ["hits", "hitting", "hitter"]
+            },
+            {
+                "ko": "이거 장비 빨도 좀 무시 못 하겠더라",
+                "en": "I have to admit, having the right gear makes a big difference",
+                "distractors": ["admits", "admitted", "admitting"]
+            },
+            {
+                "ko": "같이 연습하니까 혼자 할 때보다 훨씬 재밌다",
+                "en": "Practice is way more fun together than doing it alone",
+                "distractors": ["practices", "practiced", "practicing"]
+            },
+            {
+                "ko": "우리의 꾸준함이 언젠가 빛을 발할 거야!",
+                "en": "Our consistency will pay off eventually!",
+                "distractors": ["pays", "paid", "paying"]
+            }
+        ]
+    },
+
+    {
+        "title": "🙅‍♂️ ~하는 편은 아니야 (Not much of a ~)",
+        "type":"문장반복",
+        "date": "2026-07-30",
+        "questions": [
+            {
+                "ko": "나 술 잘 못 마셔 / 술 별로 안 좋아해",
+                "en": "I'm not much of a drinker",
+                "distractors": ["drink", "drinks", "drinking"]
+            },
+            {
+                "ko": "나 아침에 일찍 일어나는 편 아니야",
+                "en": "I'm not much of a morning person",
+                "distractors": ["mornings", "morn", "morned"]
+            },
+            {
+                "ko": "그는 요리 잘 못해 / 잘 안 해",
+                "en": "He's not much of a cook",
+                "distractors": ["cooker", "cooking", "cooked"]
+            },
+            {
+                "ko": "나 수다 떠는 거 별로 안 좋아해",
+                "en": "I'm not much of a talker",
+                "distractors": ["talk", "talks", "talking"]
+            },
+            {
+                "ko": "나 운동이랑은 별로 안 친해",
+                "en": "I'm not much of a gym person",
+                "distractors": ["gyms", "gymnast", "gymnastic"]
+            },
+            {
+                "ko": "나 파티 같은 데 가는 스타일 아니야",
+                "en": "I'm not much of a party person",
+                "distractors": ["parties", "partying", "partied"]
+            },
+            {
+                "ko": "그녀는 책은 별로 안 읽는 편이야",
+                "en": "She's not much of a reader",
+                "distractors": ["read", "reads", "reading"]
+            },
+            {
+                "ko": "나 달콤한 건 별로 안 즐겨",
+                "en": "I'm not much of a sweet tooth",
+                "distractors": ["sweets", "sweetly", "sweetness"]
+            },
+            {
+                "ko": "나 게임 잘 못해 / 즐겨 하진 않아",
+                "en": "I'm not much of a gamer",
+                "distractors": ["game", "games", "gaming"]
+            },
+            {
+                "ko": "나 내 얘기 남한테 잘 안 하는 편이야",
+                "en": "I'm not much of a sharer",
+                "distractors": ["share", "shares", "sharing"]
+            }
+        ]
     }
 ]
