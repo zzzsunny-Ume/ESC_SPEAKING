@@ -2784,11 +2784,11 @@
         "questions": [
             {
                 "ko": "그건 인정, 네 말이 맞아",
-                "en": "I'll give you that, you were right about him",
+                "en": "I'll give you that, you were right",
                 "distractors": ["gives", "gave", "giving"]
             },
             {
-                "ko": "그래, 그 부분은 인정한다",
+                "ko": "그래, 그 부분은 인정한다. 진짜 재밌었어.",
                 "en": "Okay, I'll give you that. It was actually funny",
                 "distractors": ["gives", "given", "giving"]
             },
