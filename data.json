@@ -2717,5 +2717,121 @@
                 "distractors": ["share", "shares", "sharing"]
             }
         ]
+    },
+
+    {
+        "title": "🛒 쇼핑 & 쇼핑몰 / 마트 (Shopping & Retail)",
+        "type":"기초회화",
+        "date": "2026-07-31",
+        "questions": [
+            {
+                "ko": "이거 혹시 입어보거나 대볼 수 있나요?",
+                "en": "Can I try this on?",
+                "distractors": ["tries", "tried", "trying"]
+            },
+            {
+                "ko": "생각했던 것보다 사이즈가 좀 작게 나왔네요",
+                "en": "It runs a bit smaller than I expected",
+                "distractors": ["expects", "expecting", "expectation"]
+            },
+            {
+                "ko": "혹시 다른 색상이나 재고 더 있나요?",
+                "en": "Do you have this in another color or in stock?",
+                "distractors": ["has", "had", "having"]
+            },
+            {
+                "ko": "충동구매 안 하려고 진짜 꾹 참았어",
+                "en": "I tried so hard to resist impulse buying",
+                "distractors": ["resists", "resisted", "resisting"]
+            },
+            {
+                "ko": "이건 가성비가 진짜 좋은 것 같아",
+                "en": "I think this is a great bang for the buck",
+                "distractors": ["thinks", "thought", "thinking"]
+            },
+            {
+                "ko": "혹시 이거 할인이나 행사는 따로 안 하나요?",
+                "en": "Is there any discount or promotion on this?",
+                "distractors": ["are", "was", "were"]
+            },
+            {
+                "ko": "실수로 결제가 두 번 되었어요",
+                "en": "I think I was charged twice by mistake",
+                "distractors": ["charges", "charging", "charge"]
+            },
+            {
+                "ko": "영수증 가지고 왔는데 환불 처리 될까요?",
+                "en": "Can I get a refund? I brought the receipt",
+                "distractors": ["brings", "bringing", "bringer"]
+            },
+            {
+                "ko": "택도 안 뗬는데 교환 가능할까요?",
+                "en": "Can I exchange this? The tag is still on",
+                "distractors": ["exchanges", "exchanged", "exchanging"]
+            },
+            {
+                "ko": "사놓고 안 써서 당근에 팔아야겠어",
+                "en": "I never use it, so I should sell it secondhand",
+                "distractors": ["sells", "sold", "selling"]
+            }
+        ]
+    },
+
+    {
+        "title": "📜 그건 ㅇㅈ (I'll give you that ~)",
+        "type":"문장반복",
+        "date": "2026-07-31",
+        "questions": [
+            {
+                "ko": "그건 인정, 네 말이 맞아",
+                "en": "I'll give you that, you were right about him",
+                "distractors": ["gives", "gave", "giving"]
+            },
+            {
+                "ko": "그래, 그 부분은 인정한다",
+                "en": "Okay, I'll give you that. It was actually funny",
+                "distractors": ["gives", "given", "giving"]
+            },
+            {
+                "ko": "걔가 일 하나는 진짜 끝내주게 하긴 해",
+                "en": "He's pretty good at his job, I'll give you that",
+                "distractors": ["well", "better", "best"]
+            },
+            {
+                "ko": "가격은 좀 비싸도 맛있긴 하네",
+                "en": "It's expensive, but it tastes amazing, I'll give you that",
+                "distractors": ["taste", "tasted", "tasting"]
+            },
+            {
+                "ko": "걔가 고집은 세도 거짓말은 안 해",
+                "en": "She's stubborn, but she's honest, I'll give you that",
+                "distractors": ["honestly", "honesty", "honor"]
+            },
+            {
+                "ko": "솔직히 그 아이디어는 인정할 만하네",
+                "en": "That's actually a solid idea, I'll give you that",
+                "distractors": ["solidly", "solidity", "solidness"]
+            },
+            {
+                "ko": "좀 힘들긴 해도 해볼 만한 가치는 있어",
+                "en": "It's tough, but it's worth a shot, I'll give you that",
+                "distractors": ["shots", "shooting", "shotgun"]
+            },
+            {
+                "ko": "디자인 하나는 진짜 잘 뽑았다",
+                "en": "It looks really sleek, I'll give you that",
+                "distractors": ["looking", "looked", "look"]
+            },
+            {
+                "ko": "걔가 말은 그렇게 해도 속정은 깊어",
+                "en": "He's blunt, but he's got a good heart, I'll give you that",
+                "distractors": ["bluntly", "bluntness", "blunted"]
+            },
+            {
+                "ko": "그건 그렇네, 네 논리가 맞다",
+                "en": "Fair enough, I'll give you that point",
+                "distractors": ["fairly", "fairness", "fairs"]
+            }
+        ]
     }
 ]
