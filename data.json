@@ -2833,5 +2833,121 @@
                 "distractors": ["fairly", "fairness", "fairs"]
             }
         ]
+    },
+
+    {
+        "title": "🧹 집안일 일상 대화",
+        "type":"기초회화",
+        "date": "2026-08-04",
+        "questions": [
+            {
+                "ko": "집이 완전 난장판이라 빨리 치워야 해",
+                "en": "My place is a total mess, I need to clean up ASAP",
+                "distractors": ["cleans", "cleaned", "cleaning"]
+            },
+            {
+                "ko": "분리수거랑 음식물 쓰레기 버리고 올게",
+                "en": "I'm going out to take out the trash and recycling",
+                "distractors": ["takes", "took", "taking"]
+            },
+            {
+                "ko": "빨래가 엄청 밀려서 세탁기 계속 돌아가고 있어",
+                "en": "Laundry has piled up, so the washer is running nonstop",
+                "distractors": ["piles", "piling", "pile"]
+            },
+            {
+                "ko": "냉장고에 유통기한 지난 거 다 비워야겠어",
+                "en": "I need to clean out all the expired stuff in the fridge",
+                "distractors": ["expires", "expiring", "expire"]
+            },
+            {
+                "ko": "자취하니까 챙겨야 할 게 한두 개가 아니야",
+                "en": "Living on my own, there's so much to take care of",
+                "distractors": ["cares", "cared", "caring"]
+            },
+            {
+                "ko": "에어컨 켜기 전에 필터 청소부터 해야겠다",
+                "en": "I should clean the filter before turning on the AC",
+                "distractors": ["turns", "turned", "turn"]
+            },
+            {
+                "ko": "배달 음식 쟁여두지 말고 해 먹어야 하는데",
+                "en": "I should cook at home instead of relying on delivery",
+                "distractors": ["relies", "relied", "rely"]
+            },
+            {
+                "ko": "택배 박스 치우는 게 진짜 세상에서 제일 귀찮아",
+                "en": "Breaking down delivery boxes is the biggest chore",
+                "distractors": ["Breaks", "Broke", "Break"]
+            },
+            {
+                "ko": "집 한 바퀴 돌면서 청소기 좀 돌릴게",
+                "en": "I'm gonna vacuum around the house real quick",
+                "distractors": ["vacuums", "vacuumed", "vacuuming"]
+            },
+            {
+                "ko": "드디어 청소 끝났다, 이제 좀 집 같다!",
+                "en": "Finally done cleaning, now it actually feels like home!",
+                "distractors": ["feel", "felt", "feeling"]
+            }
+        ]
+    },
+
+    {
+        "title": "📜 내심 ~하고 싶어 (Part of me ~)",
+        "type":"문장반복",
+        "date": "2026-08-04",
+        "questions": [
+            {
+                "ko": "솔직히 한편으로는 그냥 다 때려치우고 싶기도 해",
+                "en": "Part of me just wants to quit everything",
+                "distractors": ["wanted", "wanting", "wants to"]
+            },
+            {
+                "ko": "마음 한편으로는 걔가 좀 질투했으면 좋겠어",
+                "en": "Part of me hopes he gets a little jealous",
+                "distractors": ["hoped", "hoping", "hopeful"]
+            },
+            {
+                "ko": "내심 오늘 약속이 취소되길 바라는 마음도 있었어",
+                "en": "Part of me wished the plans would get canceled",
+                "distractors": ["wishes", "wishing", "wishful"]
+            },
+            {
+                "ko": "한편으로는 걔 말이 맞는 것 같다는 생각도 들어",
+                "en": "Part of me thinks she might be right",
+                "distractors": ["thought", "thinking", "thinker"]
+            },
+            {
+                "ko": "솔직히 마음 한구석엔 좀 미안한 감정도 있어",
+                "en": "Part of me actually feels bad about it",
+                "distractors": ["felt", "feeling", "feelings"]
+            },
+            {
+                "ko": "내심 안 들켜서 다행이다 싶은 마음도 들더라",
+                "en": "Part of me is glad we didn't get caught",
+                "distractors": ["are", "was", "were"]
+            },
+            {
+                "ko": "한편으로는 이게 진짜 맞는 선택인지 계속 의심이 가",
+                "en": "Part of me wonders if I made the right choice",
+                "distractors": ["wondered", "wondering", "wonderment"]
+            },
+            {
+                "ko": "마음 한편으로는 그냥 아무도 안 만나고 혼자 있고 싶어",
+                "en": "Part of me just wants to be left alone",
+                "distractors": ["leaves", "leaving", "leaver"]
+            },
+            {
+                "ko": "솔직히 걔한테 먼저 연락이 왔으면 하는 마음도 있어",
+                "en": "Part of me is still hoping he'll text me first",
+                "distractors": ["hopes", "hoped", "hopeful"]
+            },
+            {
+                "ko": "한편으로는 차라리 모르는 게 나았을 텐데 싶어",
+                "en": "Part of me feels like I was better off not knowing",
+                "distractors": ["knows", "knew", "knowledge"]
+            }
+        ]
     }
 ]
