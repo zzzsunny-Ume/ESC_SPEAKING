@@ -2949,5 +2949,121 @@
                 "distractors": ["knows", "knew", "knowledge"]
             }
         ]
+    },
+
+    {
+        "title": "📅 약속 & 일정 잡기 (Making Plans & Scheduling)",
+        "type":"기초회화",
+        "date": "2026-08-06",
+        "questions": [
+            {
+                "ko": "이번 주말에 특별한 계획 있어?",
+                "en": "Do you have any plans this weekend?",
+                "distractors": ["has", "had", "having"]
+            },
+            {
+                "ko": "우리 조만간 따로 얼굴 한 번 보자!",
+                "en": "We should hang out sometime soon!",
+                "distractors": ["hangs", "hung", "hanging"]
+            },
+            {
+                "ko": "나 갑자기 급한 일 생겨서 못 갈 것 같아.",
+                "en": "Something came up, so I don't think I can make it.",
+                "distractors": ["come", "comes", "coming"]
+            },
+            {
+                "ko": "시간 내서 와줘서 진짜 고마워.",
+                "en": "Thanks for making time to come.",
+                "distractors": ["make", "makes", "made"]
+            },
+            {
+                "ko": "늦어서 진짜 미안, 차가 너무 막혔어.",
+                "en": "So sorry I'm late, I got stuck in traffic.",
+                "distractors": ["stick", "sticks", "sticking"]
+            },
+            {
+                "ko": "혹시 약속 시간을 좀 미룰 수 있을까?",
+                "en": "Can we push back the time a bit?",
+                "distractors": ["pushes", "pushed", "pushing"]
+            },
+            {
+                "ko": "내가 일정 확인해 보고 바로 연락 줄게.",
+                "en": "Let me check my schedule and get back to you.",
+                "distractors": ["checks", "checked", "checking"]
+            },
+            {
+                "ko": "이번엔 내가 쏠 테니까 부담 갖지 마.",
+                "en": "It's on me this time, so don't worry.",
+                "distractors": ["worries", "worried", "worrying"]
+            },
+            {
+                "ko": "다음 주 중에 괜찮은 날 아무 때나 말해줘.",
+                "en": "Just let me know whatever day works for you next week.",
+                "distractors": ["work", "worked", "working"]
+            },
+            {
+                "ko": "우리 다음을 기약하자, 미안해!",
+                "en": "Can I take a rain check? I'm so sorry!",
+                "distractors": ["takes", "took", "taking"]
+            }
+        ]
+    },
+
+    {
+        "title": "📜 굳이 ~해서 뭐해? (Why bother?)",
+        "type":"문장반복",
+        "date": "2026-08-06",
+        "questions": [
+            {
+                "ko": "어차피 내 말 듣지도 않을 텐데 뭐 하러 말해?",
+                "en": "He's not going to listen anyway, so why bother?",
+                "distractors": ["listens", "listened", "listening"]
+            },
+            {
+                "ko": "걔는 오지도 않을 건데 굳이 왜 초대해?",
+                "en": "She's not even going to show up, so why bother inviting her?",
+                "distractors": ["invite", "invites", "invited"]
+            },
+            {
+                "ko": "비 오는데 세차를 뭐 하러 해?",
+                "en": "Why bother washing the car when it's just going to rain?",
+                "distractors": ["wash", "washes", "washed"]
+            },
+            {
+                "ko": "굳이 뭐 하러 해? 어차피 아무도 신경 안 쓸 텐데.",
+                "en": "Why bother? Nobody's going to care anyway.",
+                "distractors": ["cares", "cared", "caring"]
+            },
+            {
+                "ko": "답장도 안 할 텐데 굳이 왜 문자를 보내?",
+                "en": "Why bother texting him if he never replies?",
+                "distractors": ["text", "texts", "texted"]
+            },
+            {
+                "ko": "이미 다 망쳤는데 이제 와서 사과해 봤자 무슨 소용이야?",
+                "en": "The damage is already done, so why bother apologizing now?",
+                "distractors": ["apologize", "apologizes", "apologized"]
+            },
+            {
+                "ko": "어차피 금방 다시 어질러질 텐데 청소를 뭐 하러 해?",
+                "en": "Why bother cleaning up when it's just going to get messy again?",
+                "distractors": ["clean", "cleans", "cleaned"]
+            },
+            {
+                "ko": "어차피 떨어질 거 뻔한데 굳이 지원해서 뭐 해?",
+                "en": "I know I'm going to get rejected, so why bother applying?",
+                "distractors": ["apply", "applies", "applied"]
+            },
+            {
+                "ko": "이미 끝난 일인데 굳이 설명해 봐야 입만 아프지.",
+                "en": "It's over. Why bother explaining myself?",
+                "distractors": ["explain", "explains", "explained"]
+            },
+            {
+                "ko": "굳이 뭐 하러 그렇게 애써? 그냥 대충 해.",
+                "en": "Why bother trying so hard? Just wing it.",
+                "distractors": ["try", "tries", "tried"]
+            }
+        ]
     }
 ]
