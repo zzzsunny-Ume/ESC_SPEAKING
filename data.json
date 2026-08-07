@@ -3065,5 +3065,120 @@
                 "distractors": ["try", "tries", "tried"]
             }
         ]
+    },
+
+    {
+        "title": "🤧 컨디션 & 건강 상태 (Health & Condition)",
+        "type":"기초회화",
+        "date": "2026-08-07",
+        "questions": [
+            {
+                "ko": "오늘따라 아침에 눈이 잘 안 떠지더라.",
+                "en": "It was so hard to open my eyes this morning.",
+                "distractors": ["opens", "opened", "opening"]
+            },
+            {
+                "ko": "요즘 스트레스 받아서 잠을 잘 못 자.",
+                "en": "I'm having trouble sleeping because I'm so stressed lately.",
+                "distractors": ["sleeps", "slept", "sleep"]
+            },
+            {
+                "ko": "눈이 피로해서 인공눈물 좀 넣어 야겠어.",
+                "en": "My eyes are dry, I need to use some eye drops.",
+                "distractors": ["uses", "used", "using"]
+            },
+            {
+                "ko": "목이 칼칼한 게 감기 기운이 좀 있는 것 같아.",
+                "en": "My throat feels scratchy, I think I'm coming down with something.",
+                "distractors": ["comes", "came", "come"]
+            },
+            {
+                "ko": "요즘 체력이 예전 같지 않아서 속상해.",
+                "en": "I'm upset because my stamina isn't what it used to be.",
+                "distractors": ["uses", "using", "use"]
+            },
+            {
+                "ko": "어깨랑 목이 너무 뻐근해서 담 걸릴 것 같아.",
+                "en": "My shoulders and neck are so stiff.",
+                "distractors": ["stiffly", "stiffness", "stiffs"]
+            },
+            {
+                "ko": "비타민이랑 영양제 매일 챙겨 먹는 중이야.",
+                "en": "I'm trying to take my vitamins every day.",
+                "distractors": ["takes", "took", "taking"]
+            },
+            {
+                "ko": "무리하지 말고 오늘은 일찍 자.",
+                "en": "Don't overdo it and get an early night today.",
+                "distractors": ["overdoes", "overdid", "overdoing"]
+            },
+            {
+                "ko": "컨디션 관리 잘해야 다음 주에 안 고생해.",
+                "en": "Take good care of yourself so you don't struggle next week.",
+                "distractors": ["struggles", "struggled", "struggling"]
+            },
+            {
+                "ko": "몸 좀 풀게 스트레칭이나 해야겠다.",
+                "en": "I should do some stretching to loosen up.",
+                "distractors": ["loosens", "loosened", "loosening"]
+            }
+        ]
+    },
+
+    {
+        "title": "📜 ~에 속아 넘어가다 / 낚이다 (be taken in by ~)",
+        "date": "2026-08-07",
+        "questions": [
+            {
+                "ko": "나 걔 거짓말에 완전 속아 넘어갔잖아.",
+                "en": "I was completely taken in by his lies.",
+                "distractors": ["takes", "took", "taking"]
+            },
+            {
+                "ko": "걔 겉모습(이나 매력)만 보고 속지 마.",
+                "en": "Don't be taken in by his appearance.",
+                "distractors": ["take", "took", "taking"]
+            },
+            {
+                "ko": "우리가 그 가짜 뉴스에 완전 낚였네.",
+                "en": "We were completely taken in by that fake news.",
+                "distractors": ["takes", "took", "taking"]
+            },
+            {
+                "ko": "그 사기꾼한테 속아 넘어간 사람이 한둘이 아니야.",
+                "en": "A lot of people were taken in by the scammer.",
+                "distractors": ["takes", "took", "taking"]
+            },
+            {
+                "ko": "걔 눈물 연기에 홀라당 넘어갈 뻔했지 뭐야.",
+                "en": "I was almost taken in by her fake tears.",
+                "distractors": ["takes", "took", "taking"]
+            },
+            {
+                "ko": "걔네들 화려한 말솜씨에 절대 넘어가지 마.",
+                "en": "Don't be taken in by their fancy words.",
+                "distractors": ["take", "took", "taking"]
+            },
+            {
+                "ko": "조건이 너무 좋아서 나도 모르게 속아 넘어갔어.",
+                "en": "The deal was so good that I was easily taken in.",
+                "distractors": ["takes", "took", "taking"]
+            },
+            {
+                "ko": "나도 처음엔 걔 착한 척하는 거에 감쪽같이 속았었어.",
+                "en": "I was taken in by his nice-guy act at first, too.",
+                "distractors": ["takes", "took", "taking"]
+            },
+            {
+                "ko": "어떻게 그렇게 뻔한 수작에 넘어갈 수가 있어?",
+                "en": "How could you be taken in by such an obvious trick?",
+                "distractors": ["take", "took", "taking"]
+            },
+            {
+                "ko": "그 과장 광고에 속아서 돈 낭비하지 마.",
+                "en": "Don't waste your money being taken in by that ad.",
+                "distractors": ["take", "took", "taking"]
+            }
+        ]
     }
 ]
