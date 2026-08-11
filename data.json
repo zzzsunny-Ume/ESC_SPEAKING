@@ -3127,6 +3127,7 @@
 
     {
         "title": "📜 ~에 속아 넘어가다 / 낚이다 (be taken in by ~)",
+        "type":"문장반복",
         "date": "2026-08-07",
         "questions": [
             {
@@ -3178,6 +3179,180 @@
                 "ko": "그 과장 광고에 속아서 돈 낭비하지 마.",
                 "en": "Don't waste your money being taken in by that ad.",
                 "distractors": ["take", "took", "taking"]
+            }
+        ]
+    },
+
+    {
+        "title": "🤫 비밀 & 깜짝 소식 (Secrets & Surprises)",
+        "type":"기초회화",
+        "date": "2026-08-11",
+        "questions": [
+            {
+                "ko": "무슨 일이 있었는지 절대 못 맞출걸!",
+                "en": "You will never guess what happened.",
+                "distractors": ["guesses", "guessed", "guessing"]
+            },
+            {
+                "ko": "내가 너한테 줄 엄청난 깜짝 소식이 있어.",
+                "en": "I have a big surprise for you.",
+                "distractors": ["has", "had", "having"]
+            },
+            {
+                "ko": "헐, 대박! 뭔데? 빨리 말해봐!",
+                "en": "No way, what is it? Spill it!",
+                "distractors": ["Spills", "Spilled", "Spilling"]
+            },
+            {
+                "ko": "이거 진짜 우리끼리만 아는 비밀이야.",
+                "en": "This is just between you and me.",
+                "distractors": ["among", "with", "for"]
+            },
+            {
+                "ko": "아직 다른 사람한테는 절대 말하면 안 돼.",
+                "en": "You can't tell anyone else yet.",
+                "distractors": ["tells", "told", "telling"]
+            },
+            {
+                "ko": "당분간은 너만 알고 있어야 해, 알겠지?",
+                "en": "You have to keep it to yourself, got it?",
+                "distractors": ["keeps", "kept", "keeping"]
+            },
+            {
+                "ko": "걱정 마, 내 입은 완전 무거워.",
+                "en": "Don't worry, my lips are sealed.",
+                "distractors": ["seals", "seal", "sealing"]
+            },
+            {
+                "ko": "이 이야기는 무덤까지 가져갈게.",
+                "en": "I will take this to the grave.",
+                "distractors": ["takes", "took", "taking"]
+            },
+            {
+                "ko": "아무한테도 말 안 한다고 약속할게.",
+                "en": "You have my word.",
+                "distractors": ["has", "had", "having"]
+            },
+            {
+                "ko": "진짜 기대해도 좋아!",
+                "en": "You can look forward to it!",
+                "distractors": ["looks", "looked", "looking"]
+            }
+        ]
+    },
+
+    {
+        "title": "📚 스터디 & 모임 진행 (Study & Gathering)",
+        "type":"기초회화",
+        "date": "2026-08-11",
+        "questions": [
+            {
+                "ko": "오늘 모임에는 몇 명이나 오기로 했어?",
+                "en": "How many people are showing up for the gathering today?",
+                "distractors": ["shows", "showed", "show"]
+            },
+            {
+                "ko": "다들 모였으니 슬슬 시작해 볼까요?",
+                "en": "Since everyone is here, shall we get started?",
+                "distractors": ["gets", "got", "getting"]
+            },
+            {
+                "ko": "대본을 보고 각자 맡을 캐릭터를 정해 보자.",
+                "en": "Let's look at the script and assign roles for each character.",
+                "distractors": ["assigns", "assigned", "assigning"]
+            },
+            {
+                "ko": "이번 데일리 미션은 평소보다 약간 까다롭네.",
+                "en": "This daily mission is a bit more challenging than usual.",
+                "distractors": ["challenges", "challenged", "challenge"]
+            },
+            {
+                "ko": "어떻게 하는 건지 내가 먼저 시범을 보여줄게.",
+                "en": "Let me show you how it's done first.",
+                "distractors": ["shows", "showed", "showing"]
+            },
+            {
+                "ko": "계속 연습하더니 억양이 진짜 많이 자연스러워졌다!",
+                "en": "You've been practicing, and your intonation has gotten so natural!",
+                "distractors": ["get", "gets", "getting"]
+            },
+            {
+                "ko": "완벽하게 하려고 너무 부담 갖지 말고 편하게 말해.",
+                "en": "Don't feel pressured to be perfect, just speak comfortably.",
+                "distractors": ["speaks", "spoke", "speaking"]
+            },
+            {
+                "ko": "문법 조금 틀려도 아무도 신경 안 쓰니까 자신감 있게 해!",
+                "en": "Nobody cares about minor mistakes, so just be confident!",
+                "distractors": ["care", "cared", "caring"]
+            },
+            {
+                "ko": "벌써 시간이 이렇게 됐네, 오늘은 여기서 마무리하자.",
+                "en": "Look at the time, let's wrap it up for today.",
+                "distractors": ["wraps", "wrapped", "wrapping"]
+            },
+            {
+                "ko": "다들 적극적으로 참여해 줘서 너무 고마워, 수고했어!",
+                "en": "Thanks for participating actively everyone, great job today!",
+                "distractors": ["participates", "participated", "participate"]
+            }
+        ]
+    },
+
+    {
+        "title": "📜 ~는 커녕 (let alone)",
+        "type":"문장반복",
+        "date": "2026-08-11",
+        "questions": [
+            {
+                "ko": "나 물 마실 시간조차 없어, 밥은커녕.",
+                "en": "I don't even have time to drink water, let alone eat.",
+                "distractors": ["eats", "ate", "eating"]
+            },
+            {
+                "ko": "나는 자전거 살 돈도 없어, 차는커녕.",
+                "en": "I can't even afford a bike, let alone a car.",
+                "distractors": ["affords", "afforded", "affording"]
+            },
+            {
+                "ko": "걔는 자기 앞가림도 못 해, 남을 돕기는커녕.",
+                "en": "He can't even take care of himself, let alone others.",
+                "distractors": ["takes", "took", "taking"]
+            },
+            {
+                "ko": "나 서 있을 힘도 없어, 뛰는 건 고사하고.",
+                "en": "I barely have the energy to stand, let alone run.",
+                "distractors": ["stands", "stood", "standing"]
+            },
+            {
+                "ko": "걔는 나한테 아는 척도 안 하더라, 고맙다는 말은커녕.",
+                "en": "She didn't even say hi to me, let alone say thank you.",
+                "distractors": ["says", "said", "saying"]
+            },
+            {
+                "ko": "그 일은 올해 안에도 다 못 끝내, 이번 달은커녕.",
+                "en": "We can't finish it this year, let alone this month.",
+                "distractors": ["finishes", "finished", "finishing"]
+            },
+            {
+                "ko": "나는 불어는커녕 영어도 잘 못해.",
+                "en": "I can barely speak English, let alone French.",
+                "distractors": ["speaks", "spoke", "speaking"]
+            },
+            {
+                "ko": "요리는 고사하고 라면 물도 제대로 못 맞춰.",
+                "en": "I can't even boil water for ramen, let alone cook a real meal.",
+                "distractors": ["cooks", "cooked", "cooking"]
+            },
+            {
+                "ko": "걔는 사과는커녕 내 문자도 안 읽어.",
+                "en": "He hasn't even read my text, let alone apologized.",
+                "distractors": ["apologize", "apologizes", "apologizing"]
+            },
+            {
+                "ko": "나 오늘 폰 확인할 시간도 없었어, 뉴스 보는 건커녕.",
+                "en": "I haven't had time to check my phone today, let alone watch the news.",
+                "distractors": ["watches", "watched", "watching"]
             }
         ]
     }
