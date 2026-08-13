@@ -3355,5 +3355,121 @@
                 "distractors": ["watches", "watched", "watching"]
             }
         ]
+    },
+
+    {
+        "title": "☕ 디저트 러버",
+        "type":"기초회화",
+        "date": "2026-08-13",
+        "questions": [
+            {
+                "ko": "단 거 엄청 땡기는데 와플이나 빙수 어때?",
+                "en": "I'm craving something sweet, how about waffles or bingsu?",
+                "distractors": ["craves", "craved", "crave"]
+            },
+            {
+                "ko": "우유 대신 오트 밀크로 변경 가능한가요?",
+                "en": "Can I substitute oat milk for regular milk?",
+                "distractors": ["substitutes", "substituted", "substituting"]
+            },
+            {
+                "ko": "혹시 제철 과일 타르트 품절됐나요?",
+                "en": "Are the seasonal fruit tarts sold out?",
+                "distractors": ["sell", "sells", "selling"]
+            },
+            {
+                "ko": "이 도넛들 좀 포장해 주실 수 있나요?",
+                "en": "Could you pack these donuts to go?",
+                "distractors": ["packs", "packed", "packing"]
+            },
+            {
+                "ko": "당고랑 생크림 빵도 하나씩 나눠 먹자.",
+                "en": "Let's get one of each to share, a dango and a fresh cream pastry.",
+                "distractors": ["shares", "shared", "sharing"]
+            },
+            {
+                "ko": "이 케이크 많이 안 달아서 완전 내 취향이야.",
+                "en": "This cake is not too sweet, which is exactly my style.",
+                "distractors": ["sweetly", "sweetness", "sweets"]
+            },
+            {
+                "ko": "나 진짜 단것만 보면 환장하잖아.",
+                "en": "You know I have such a sweet tooth.",
+                "distractors": ["teeth", "tooths", "toothing"]
+            },
+            {
+                "ko": "배불러도 디저트 배는 따로 있는 거 알지?",
+                "en": "You know there is always room for dessert, right?",
+                "distractors": ["rooms", "rooming", "roomed"]
+            },
+            {
+                "ko": "저기 창가 자리 나면 옮겨도 될까요?",
+                "en": "Can we move to the window seat if it opens up?",
+                "distractors": ["moves", "moved", "moving"]
+            },
+            {
+                "ko": "우리 진짜 접시 바닥까지 싹 다 긁어 먹었네.",
+                "en": "We literally cleared the plates!",
+                "distractors": ["clears", "clear", "clearing"]
+            }
+        ]
+    },
+
+    {
+        "title": "📜 차마 ~할 수가 없어 (can't bring myself to ~)",
+        "type":"문장반복",
+        "date": "2026-08-13",
+        "questions": [
+            {
+                "ko": "차마 걔한테 진실을 말할 수가 없었어.",
+                "en": "I couldn't bring myself to tell him the truth.",
+                "distractors": ["tells", "told", "telling"]
+            },
+            {
+                "ko": "도저히 그 비싼 돈을 주고 살 엄두가 안 나.",
+                "en": "I can't bring myself to pay that much for it.",
+                "distractors": ["pays", "paid", "paying"]
+            },
+            {
+                "ko": "추억이 많아서 차마 이걸 버릴 수가 없어.",
+                "en": "I can't bring myself to throw this away.",
+                "distractors": ["throws", "threw", "throwing"]
+            },
+            {
+                "ko": "내 입으로는 차마 그 말을 못 하겠어.",
+                "en": "I can't bring myself to say it out loud.",
+                "distractors": ["says", "said", "saying"]
+            },
+            {
+                "ko": "도저히 아침 일찍 일어날 엄두가 안 나.",
+                "en": "I can't bring myself to wake up that early.",
+                "distractors": ["wakes", "woke", "waking"]
+            },
+            {
+                "ko": "도저히 오늘 그 모임에 갈 기분이 안 생겨.",
+                "en": "I can't bring myself to go to that gathering today.",
+                "distractors": ["goes", "went", "going"]
+            },
+            {
+                "ko": "차마 그 좋은 제안을 거절할 수가 없더라고.",
+                "en": "I couldn't bring myself to turn down such a good offer.",
+                "distractors": ["turns", "turned", "turning"]
+            },
+            {
+                "ko": "결말이 너무 슬플까 봐 그 영화를 차마 못 보겠어.",
+                "en": "I can't bring myself to watch that movie because the ending might be too sad.",
+                "distractors": ["watches", "watched", "watching"]
+            },
+            {
+                "ko": "먼저 사과할 용기가 도저히 안 나.",
+                "en": "I can't bring myself to apologize first.",
+                "distractors": ["apologizes", "apologized", "apologizing"]
+            },
+            {
+                "ko": "너무 끔찍해서 차마 끝까지 볼 수가 없었어.",
+                "en": "I couldn't bring myself to watch it to the end.",
+                "distractors": ["brings", "brought", "bringing"]
+            }
+        ]
     }
 ]
