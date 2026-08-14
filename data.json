@@ -3471,5 +3471,121 @@
                 "distractors": ["brings", "brought", "bringing"]
             }
         ]
+    },
+
+    {
+        "title": "📜 난 ~인 줄 알았지 (I was under the impression that ~)",
+        "type":"문장반복",
+        "date": "2026-08-14",
+        "questions": [
+            {
+                "ko": "난 우리가 같은 생각(입장)인 줄 알았지.",
+                "en": "I was under the impression that we were on the same page.",
+                "distractors": ["was", "are", "is"]
+            },
+            {
+                "ko": "난 그거 공짜인 줄 알았어.",
+                "en": "I was under the impression that it was free.",
+                "distractors": ["is", "are", "were"]
+            },
+            {
+                "ko": "난 네가 오늘 안 오는 줄 알았지!",
+                "en": "I was under the impression that you weren't coming today!",
+                "distractors": ["come", "comes", "came"]
+            },
+            {
+                "ko": "난 그 프로젝트 이미 다 끝난 줄 알았는데.",
+                "en": "I was under the impression that the project was already finished.",
+                "distractors": ["finish", "finishes", "finishing"]
+            },
+            {
+                "ko": "난 네가 매운 거 잘 먹는 줄 알았어.",
+                "en": "I was under the impression that you handled spicy food well.",
+                "distractors": ["handle", "handles", "handling"]
+            },
+            {
+                "ko": "난 이거 오늘까지 내야 하는 줄 알았어.",
+                "en": "I was under the impression that this was due today.",
+                "distractors": ["is", "are", "were"]
+            },
+            {
+                "ko": "난 걔네 둘이 별로 안 친한 줄 알았지.",
+                "en": "I was under the impression that they didn't get along.",
+                "distractors": ["gets", "got", "getting"]
+            },
+            {
+                "ko": "난 네가 이 일에 관심 없는 줄 알았어.",
+                "en": "I was under the impression that you weren't interested in this job.",
+                "distractors": ["interest", "interests", "interesting"]
+            },
+            {
+                "ko": "난 우리가 내일 만나는 줄 알고 있었어.",
+                "en": "I was under the impression that we were meeting tomorrow.",
+                "distractors": ["meet", "meets", "met"]
+            },
+            {
+                "ko": "난 모든 게 다 잘 해결된 줄 알았지.",
+                "en": "I was under the impression that everything was settled.",
+                "distractors": ["settle", "settles", "settling"]
+            }
+        ]
+    },
+
+    {
+        "title": "🫂 위로 & 격려 / 감정 공감 (Comfort & Encouragement)",
+        "type":"기초회화",
+        "date": "2026-08-14",
+        "questions": [
+            {
+                "ko": "무슨 일 있어? 안색이 안 좋아 보여.",
+                "en": "Is something wrong? You don't look so good.",
+                "distractors": ["looks", "looked", "looking"]
+            },
+            {
+                "ko": "너무 무리하지 마, 건강이 제일 중요하지.",
+                "en": "Don't overdo it, your health is the most important thing.",
+                "distractors": ["overdoes", "overdid", "overdoing"]
+            },
+            {
+                "ko": "다 잘 될 거야, 너무 걱정하지 마.",
+                "en": "Everything will turn out fine, try not to worry too much.",
+                "distractors": ["worries", "worried", "worrying"]
+            },
+            {
+                "ko": "내가 뭐 도와줄 일 있으면 언제든 편하게 말해.",
+                "en": "Let me know if there's anything I can do to help.",
+                "distractors": ["helps", "helped", "helping"]
+            },
+            {
+                "ko": "네 마음이 어떤지 충분히 이해해.",
+                "en": "I completely understand how you feel.",
+                "distractors": ["understands", "understood", "understanding"]
+            },
+            {
+                "ko": "누구나 실수할 수 있어, 너무 자책하지 마.",
+                "en": "Everyone makes mistakes, don't beat yourself up over it.",
+                "distractors": ["beats", "beaten", "beating"]
+            },
+            {
+                "ko": "넌 지금도 충분히 잘하고 있으니까 기운 내!",
+                "en": "You're doing great, so cheer up!",
+                "distractors": ["cheers", "cheered", "cheering"]
+            },
+            {
+                "ko": "무슨 일이 있어도 난 항상 네 편인 거 알지?",
+                "en": "You know I'm always on your side no matter what, right?",
+                "distractors": ["knows", "knew", "knowing"]
+            },
+            {
+                "ko": "우리 맛있는 거나 먹으면서 기분 풀자.",
+                "en": "Let's grab something good to eat and shake it off.",
+                "distractors": ["grabs", "grabbed", "grabbing"]
+            },
+            {
+                "ko": "시간이 약이라는 말도 있잖아, 조금만 버텨보자.",
+                "en": "You know what they say, time heals all wounds, so hang in there.",
+                "distractors": ["heal", "healed", "healing"]
+            }
+        ]
     }
 ]
