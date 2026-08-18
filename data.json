@@ -3587,5 +3587,121 @@
                 "distractors": ["heal", "healed", "healing"]
             }
         ]
+    },
+
+    {
+        "title": "📜 기껏해야 (~ at best)",
+        "type":"문장반복",
+        "date": "2026-08-18",
+        "questions": [
+            {
+                "ko": "그 아이디어는 기껏해야 평범한 수준이야.",
+                "en": "The idea is mediocre at best.",
+                "distractors": ["are", "was", "were"]
+            },
+            {
+                "ko": "내 스페인어 실력은 기껏해야 초보 수준이야.",
+                "en": "My Spanish is elementary at best.",
+                "distractors": ["element", "elements", "elemental"]
+            },
+            {
+                "ko": "그 사람 변명은 잘해봐야 억지야 (전혀 설득력이 없어).",
+                "en": "His excuse is unconvincing at best.",
+                "distractors": ["unconvinced", "convince", "convinced"]
+            },
+            {
+                "ko": "우리가 지금 출발해도 잘해봐야 딱 제시간에 도착할 거야.",
+                "en": "Even if we leave now, we'll be on time at best.",
+                "distractors": ["leaves", "left", "leaving"]
+            },
+            {
+                "ko": "그 식당 유명하긴 한데, 맛은 기껏해야 평범한 수준이던데.",
+                "en": "The restaurant is average at best.",
+                "distractors": ["averages", "averaged", "averaging"]
+            },
+            {
+                "ko": "이번에 우리가 기대할 수 있는 건 기껏해야 본전치기야.",
+                "en": "We can hope to break even at best.",
+                "distractors": ["breaks", "broke", "breaking"]
+            },
+            {
+                "ko": "이 낡은 노트북은 잘해봐야 1년 더 쓸 수 있을 거야.",
+                "en": "This laptop will last another year at best.",
+                "distractors": ["lasts", "lasted", "lasting"]
+            },
+            {
+                "ko": "그 영화는 기껏해야 킬링타임용이야.",
+                "en": "The movie is entertaining at best.",
+                "distractors": ["entertain", "entertains", "entertained"]
+            },
+            {
+                "ko": "오늘 파티에 아무리 많이 와도 잘해봐야 10명 정도 모일 거야.",
+                "en": "There will be ten people at best.",
+                "distractors": ["is", "are", "was"]
+            },
+            {
+                "ko": "그 사람의 사과는 잘해봐야 마지못해 하는 느낌이었어.",
+                "en": "His apology was half-hearted at best.",
+                "distractors": ["is", "are", "were"]
+            }
+        ]
+    },
+
+    {
+        "title": "📱 전화 & 문자 (Phone Calls & Texting)",
+        "type":"기초회화",
+        "date": "2026-08-18",
+        "questions": [
+            {
+                "ko": "지금 통화하기 괜찮아?",
+                "en": "Is this a good time to talk?",
+                "distractors": ["talks", "talked", "talking"]
+            },
+            {
+                "ko": "미안, 지금 좀 바빠서 내가 다시 걸게.",
+                "en": "Sorry, I'm a bit busy. I'll call you right back.",
+                "distractors": ["calls", "called", "calling"]
+            },
+            {
+                "ko": "목소리가 자꾸 끊겨서 잘 안 들려.",
+                "en": "I can't hear you well, you're breaking up.",
+                "distractors": ["breaks", "broke", "break"]
+            },
+            {
+                "ko": "배터리가 거의 다 돼서 폰이 곧 꺼질 것 같아.",
+                "en": "My battery is low, my phone is about to die.",
+                "distractors": ["dies", "died", "dying"]
+            },
+            {
+                "ko": "방금 전화했었어? 무음으로 해놔서 못 받았네.",
+                "en": "Did you just call? I missed your call because my phone was on silent.",
+                "distractors": ["miss", "misses", "missing"]
+            },
+            {
+                "ko": "아까 문자 봤는데 깜빡하고 답장을 못 했어.",
+                "en": "I saw your text earlier but I forgot to reply.",
+                "distractors": ["forget", "forgets", "forgetting"]
+            },
+            {
+                "ko": "도착하면 도착했다고 문자 하나 남겨줘.",
+                "en": "Please shoot me a text when you get there.",
+                "distractors": ["shoots", "shot", "shooting"]
+            },
+            {
+                "ko": "내가 이따가 잊어버리지 않게 링크 보내놓을게.",
+                "en": "I'll send you the link so I don't forget later.",
+                "distractors": ["sends", "sent", "sending"]
+            },
+            {
+                "ko": "급한 일 아니니까 나중에 시간 날 때 답장해.",
+                "en": "It's not urgent, so just get back to me when you have time.",
+                "distractors": ["gets", "got", "getting"]
+            },
+            {
+                "ko": "우리 전화로 하기엔 기니까 이따 만나서 얘기하자.",
+                "en": "This is too long for a call, let's talk in person later.",
+                "distractors": ["talks", "talked", "talking"]
+            }
+        ]
     }
 ]
