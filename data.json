@@ -3703,5 +3703,121 @@
                 "distractors": ["talks", "talked", "talking"]
             }
         ]
+    },
+
+    {
+        "title": "📜 전반적으로 (By and large)",
+        "type":"문장반복",
+        "date": "2026-08-20",
+        "questions": [
+            {
+                "ko": "전반적으로 보면 그 프로젝트는 꽤 성공적이었어.",
+                "en": "By and large, the project was a success.",
+                "distractors": ["is", "are", "were"]
+            },
+            {
+                "ko": "세세한 문제들은 좀 있었지만, 대체로 다 잘 진행됐어.",
+                "en": "By and large, things went well despite a few minor issues.",
+                "distractors": ["goes", "go", "going"]
+            },
+            {
+                "ko": "전반적으로 난 이 동네 사는 거 만족해.",
+                "en": "I'm happy living in this neighborhood, by and large.",
+                "distractors": ["live", "lives", "lived"]
+            },
+            {
+                "ko": "대체로 네 말이 다 맞아.",
+                "en": "By and large, you are completely right.",
+                "distractors": ["is", "am", "was"]
+            },
+            {
+                "ko": "대체로 여기 사람들은 다 친절한 편이야.",
+                "en": "The people here are very friendly, by and large.",
+                "distractors": ["friend", "friends", "friendship"]
+            },
+            {
+                "ko": "전반적으로 올해는 꽤 무난하게 좋은 한 해였어.",
+                "en": "By and large, it's been a pretty decent year.",
+                "distractors": ["be", "being", "is"]
+            },
+            {
+                "ko": "자잘한 불만은 있어도, 대체로 난 내 일이 좋아.",
+                "en": "By and large, I love my job even with the minor complaints.",
+                "distractors": ["loves", "loved", "loving"]
+            },
+            {
+                "ko": "전반적으로 이번 영화가 전작보다 훨씬 낫더라.",
+                "en": "By and large, this movie is much better than the previous one.",
+                "distractors": ["good", "best", "well"]
+            },
+            {
+                "ko": "솔직히 그 회의는 대체로 별 소득이 없었어.",
+                "en": "The meeting was, by and large, unproductive.",
+                "distractors": ["is", "are", "were"]
+            },
+            {
+                "ko": "전반적으로 우리가 예상했던 결과 그대로 나왔어.",
+                "en": "By and large, the results were exactly what we expected.",
+                "distractors": ["expects", "expect", "expecting"]
+            }
+        ]
+    },
+
+    {
+        "title": "🍽️ 외식",
+        "type":"기초회화",
+        "date": "2026-08-20",
+        "questions": [
+            {
+                "ko": "점심 메뉴로 특별히 땡기는 거 있어?",
+                "en": "Is there anything you are craving for lunch?",
+                "distractors": ["craves", "craved", "crave"]
+            },
+            {
+                "ko": "저희 일행 세 명인데 지금 자리 있나요?",
+                "en": "Do you have a table for a party of three?",
+                "distractors": ["has", "had", "having"]
+            },
+            {
+                "ko": "저기요, 저희 이제 주문할게요!",
+                "en": "Excuse me, we are ready to order!",
+                "distractors": ["orders", "ordered", "ordering"]
+            },
+            {
+                "ko": "여기서 제일 잘나가는 메뉴로 추천해 주시겠어요?",
+                "en": "Could you recommend your most popular dish?",
+                "distractors": ["recommends", "recommended", "recommending"]
+            },
+            {
+                "ko": "제가 매운 걸 잘 못 먹어서, 덜 맵게 해 주실 수 있나요?",
+                "en": "I can't handle spicy food well, could you make it less spicy?",
+                "distractors": ["handles", "handled", "handling"]
+            },
+            {
+                "ko": "음식 나오는 데 시간은 대략 얼마나 걸릴까요?",
+                "en": "How long will it take for the food to come out?",
+                "distractors": ["takes", "took", "taking"]
+            },
+            {
+                "ko": "혹시 밑반찬 좀 더 가져다주실 수 있나요?",
+                "en": "Could we get some more side dishes, please?",
+                "distractors": ["gets", "got", "getting"]
+            },
+            {
+                "ko": "남은 음식 좀 포장해 주실 수 있나요?",
+                "en": "Could you pack this up to go, please?",
+                "distractors": ["packs", "packed", "packing"]
+            },
+            {
+                "ko": "계산은 각자 따로 나눠서 할게요.",
+                "en": "We'd like to split the bill, please.",
+                "distractors": ["splits", "splitted", "splitting"]
+            },
+            {
+                "ko": "음식 입에 잘 맞아? 맛있게 먹어!",
+                "en": "Is it to your liking? Enjoy your meal!",
+                "distractors": ["Enjoys", "Enjoyed", "Enjoying"]
+            }
+        ]
     }
 ]
