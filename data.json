@@ -3819,5 +3819,121 @@
                 "distractors": ["Enjoys", "Enjoyed", "Enjoying"]
             }
         ]
+    },
+
+    {
+        "title": "📜 너무 ~하고 싶어 (longing to ~)",
+        "type":"문장반복",
+        "date": "2026-08-21",
+        "questions": [
+            {
+                "ko": "나 진짜 휴가 떠나고 싶어 죽겠어.",
+                "en": "I'm longing to go on a vacation.",
+                "distractors": ["goes", "went", "going"]
+            },
+            {
+                "ko": "너 진짜 다시 보고 싶었어. (널 다시 만나기를 고대했어.)",
+                "en": "I've been longing to see you again.",
+                "distractors": ["sees", "saw", "seeing"]
+            },
+            {
+                "ko": "나 이 소식 너한테 엄청 말해주고 싶었어!",
+                "en": "I've been longing to tell you this news!",
+                "distractors": ["tells", "told", "telling"]
+            },
+            {
+                "ko": "다들 평범한 일상으로 돌아가기를 간절히 바라고 있어.",
+                "en": "Everyone is longing to return to normal.",
+                "distractors": ["returns", "returned", "returning"]
+            },
+            {
+                "ko": "요즘 혼자만의 시간이 너무 간절해.",
+                "en": "I'm longing to have some time to myself.",
+                "distractors": ["has", "had", "having"]
+            },
+            {
+                "ko": "이 답답한 곳을 당장 벗어나고 싶어 미치겠어.",
+                "en": "I'm longing to get out of this place.",
+                "distractors": ["gets", "got", "getting"]
+            },
+            {
+                "ko": "사람들은 누구나 진심으로 이해받기를 갈구하잖아.",
+                "en": "People are always longing to be understood.",
+                "distractors": ["understand", "understands", "understanding"]
+            },
+            {
+                "ko": "나 그 식당 예전부터 진짜 가보고 싶었거든.",
+                "en": "I've been longing to try that restaurant.",
+                "distractors": ["tries", "tried", "trying"]
+            },
+            {
+                "ko": "요즘은 그냥 아무 생각 없이 푹 자고 싶은 마음뿐이야.",
+                "en": "I'm longing to get a good night's sleep.",
+                "distractors": ["gets", "got", "getting"]
+            },
+            {
+                "ko": "나 다시 일을 시작하고 싶은 마음이 굴뚝같아.",
+                "en": "I'm longing to start working again.",
+                "distractors": ["starts", "started", "starting"]
+            }
+        ]
+    },
+
+    {
+        "title": "✈️ 휴가 계획",
+        "type":"기초회화",
+        "date": "2026-08-21",
+        "questions": [
+            {
+                "ko": "이번 휴가 때 어디 놀러 갈 계획 있어?",
+                "en": "Are you going anywhere for your vacation?",
+                "distractors": ["goes", "went", "gone"]
+            },
+            {
+                "ko": "비행기 표랑 숙소는 미리 다 예약했어?",
+                "en": "Did you book your flights and accommodation in advance?",
+                "distractors": ["books", "booked", "booking"]
+            },
+            {
+                "ko": "여행 가기 전에 짐 싸는 게 제일 귀찮은 것 같아.",
+                "en": "Packing my bags is such a hassle.",
+                "distractors": ["Packs", "Packed", "Pack"]
+            },
+            {
+                "ko": "탑승 수속은 어디서 하는지 아시나요?",
+                "en": "Do you know where I should check in for my flight?",
+                "distractors": ["checks", "checked", "checking"]
+            },
+            {
+                "ko": "화장실 가기 편하게 복도 쪽 자리로 주실 수 있나요?",
+                "en": "Could I get an aisle seat, please?",
+                "distractors": ["gets", "got", "getting"]
+            },
+            {
+                "ko": "수하물 찾는 곳이 어디로 가야 하나요?",
+                "en": "Which way is the baggage claim?",
+                "distractors": ["are", "was", "were"]
+            },
+            {
+                "ko": "시차 적응하느라 하루 종일 정신이 몽롱해.",
+                "en": "I feel so out of it because of the jet lag.",
+                "distractors": ["feels", "felt", "feeling"]
+            },
+            {
+                "ko": "일정 너무 빡빡하게 짜지 말고 그냥 여유롭게 다니자.",
+                "en": "Let's not make our itinerary too tight and just take it easy.",
+                "distractors": ["makes", "made", "making"]
+            },
+            {
+                "ko": "배경 다 나오게 저희 사진 한 장만 찍어주실 수 있나요?",
+                "en": "Could you take a picture of us, please?",
+                "distractors": ["takes", "took", "taking"]
+            },
+            {
+                "ko": "벌써 휴가가 끝났다니 진짜 믿기지 않아.",
+                "en": "I can't believe my vacation is already over.",
+                "distractors": ["believes", "believed", "believing"]
+            }
+        ]
     }
 ]
