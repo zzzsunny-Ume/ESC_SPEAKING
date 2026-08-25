@@ -3935,5 +3935,179 @@
                 "distractors": ["believes", "believed", "believing"]
             }
         ]
+    },
+
+    {
+        "title": "💰 돈 & 소비 / 금전 관리 (Money & Spending)",
+        "type":"기초회화",
+        "date": "2026-08-25",
+        "questions": [
+            {
+                "ko": "나 이번 달에 돈을 너무 많이 써서 완전 거지야.",
+                "en": "I spent too much this month, I'm so broke.",
+                "distractors": ["spend", "spends", "spending"]
+            },
+            {
+                "ko": "월급이 들어오자마자 통장을 스쳐 지나갔어.",
+                "en": "My paycheck just flew right out of my account.",
+                "distractors": ["fly", "flies", "flying"]
+            },
+            {
+                "ko": "나 요즘 여행 가려고 돈 모으는 중이야.",
+                "en": "I'm trying to save up money for a trip these days.",
+                "distractors": ["saves", "saved", "saving"]
+            },
+            {
+                "ko": "당분간은 외식이나 배달 음식을 좀 줄여야겠어.",
+                "en": "I need to cut back on eating out and delivery for a while.",
+                "distractors": ["cuts", "cutting", "cutter"]
+            },
+            {
+                "ko": "그거 진짜 비싸게 샀네, 완전 바가지 썼어!",
+                "en": "You paid way too much for that, you completely got ripped off!",
+                "distractors": ["pay", "pays", "paying"]
+            },
+            {
+                "ko": "며칠 내내 고민하다가 결국 큰맘 먹고 질렀어!",
+                "en": "I thought about it for days and finally decided to splurge on it!",
+                "distractors": ["splurges", "splurged", "splurging"]
+            },
+            {
+                "ko": "혹시 만 원만 빌려줄 수 있어? 내일 바로 갚을게.",
+                "en": "Can you lend me ten bucks? I'll pay you back tomorrow.",
+                "distractors": ["lends", "lent", "lending"]
+            },
+            {
+                "ko": "결제는 3개월 할부로 해 주시겠어요?",
+                "en": "I'd like to pay in three-month installments, please.",
+                "distractors": ["pays", "paid", "paying"]
+            },
+            {
+                "ko": "생각보다 예산을 너무 많이 초과해 버렸어.",
+                "en": "We went way over budget than I expected.",
+                "distractors": ["go", "goes", "going"]
+            },
+            {
+                "ko": "나도 사고 싶은데 지금 당장 여유가 안 되네.",
+                "en": "I want to buy it too, but I can't afford it right now.",
+                "distractors": ["affords", "afforded", "affording"]
+            }
+        ]
+    },
+
+    {
+        "title": "📜 ~할지 아직 결정 못했어 (on the fence)",
+        "type":"문장반복",
+        "date": "2026-08-25",
+        "questions": [
+            {
+                "ko": "이번 여름에 몽골 여행 갈지 말지 아직 고민 중이야.",
+                "en": "I'm on the fence about traveling to Mongolia this summer.",
+                "distractors": ["travel", "travels", "traveled"]
+            },
+            {
+                "ko": "솔직히 그 아이디어에 대해서는 아직 반신반의해.",
+                "en": "I'm on the fence about that idea, to be honest.",
+                "distractors": ["fences", "fenced", "fencing"]
+            },
+            {
+                "ko": "나 아직 구독 연장할지 말지 마음이 반반이야.",
+                "en": "I'm on the fence about renewing my subscription.",
+                "distractors": ["renew", "renews", "renewed"]
+            },
+            {
+                "ko": "오늘 저녁에 동호회 모임 나갈지 말지 결정 못 했어.",
+                "en": "I'm on the fence about going to the gathering tonight.",
+                "distractors": ["go", "goes", "went"]
+            },
+            {
+                "ko": "나 그 스카우트 제안 받아들일지 계속 망설이고 있거든.",
+                "en": "I'm still on the fence about taking the offer.",
+                "distractors": ["take", "takes", "took"]
+            },
+            {
+                "ko": "그 두 가지 옵션(해결책) 사이에서 아직도 결정을 못 내리겠어.",
+                "en": "I'm completely on the fence between the two options.",
+                "distractors": ["complete", "completes", "completed"]
+            },
+            {
+                "ko": "새 기기로 바꿀지 말지 계속 고민 중이야.",
+                "en": "I'm on the fence about upgrading to the new device.",
+                "distractors": ["upgrade", "upgrades", "upgraded"]
+            },
+            {
+                "ko": "나 앞머리 자를지 말지 진짜 반반이야.",
+                "en": "I'm on the fence about getting bangs.",
+                "distractors": ["get", "gets", "got"]
+            },
+            {
+                "ko": "걔를 이번 일정에 낄지 말지 좀 망설여지네.",
+                "en": "I'm on the fence about including him in this schedule.",
+                "distractors": ["include", "includes", "included"]
+            },
+            {
+                "ko": "솔직히 말해서 그 사람에 대해서는 아직 잘 모르겠어 (좋은 사람인지 아닌지 반반이야).",
+                "en": "I'm still on the fence about him.",
+                "distractors": ["is", "are", "were"]
+            }
+        ]
+    },
+
+    {
+        "title": "📜 완전 ~느낌/재질이야 (It's giving ~)",
+        "type":"문장반복",
+        "date": "2026-08-25",
+        "questions": [
+            {
+                "ko": "이거 완전 90년대 바이브 나는데.",
+                "en": "It's giving 90s vibes.",
+                "distractors": ["gives", "gave", "given"]
+            },
+            {
+                "ko": "너 오늘 완전 주인공 재질이야 (주인공 포스 작렬이야).",
+                "en": "It's giving main character energy.",
+                "distractors": ["energies", "energetic", "energize"]
+            },
+            {
+                "ko": "이 옷 완전 가을 느낌 물씬 나네.",
+                "en": "It's giving fall.",
+                "distractors": ["gives", "gave", "given"]
+            },
+            {
+                "ko": "이거 엄청 비싸 보이고 고급스럽다.",
+                "en": "It's giving expensive.",
+                "distractors": ["expensively", "expense", "expenses"]
+            },
+            {
+                "ko": "그건 좀 억지로 애쓰는(무리수 두는) 느낌인데.",
+                "en": "It's giving try-hard.",
+                "distractors": ["gives", "gave", "given"]
+            },
+            {
+                "ko": "너 오늘 완전 대표님(보스) 포스 작렬이야.",
+                "en": "It's giving CEO.",
+                "distractors": ["gives", "gave", "given"]
+            },
+            {
+                "ko": "그 사람 행동 약간 좀 절박하고 애잔한 느낌이야.",
+                "en": "It's giving desperate.",
+                "distractors": ["desperately", "desperation", "despairs"]
+            },
+            {
+                "ko": "완전 딱 '나 신경 안 써' 하는 쿨한 느낌인데.",
+                "en": "It's giving \"I don't care.\"",
+                "distractors": ["cares", "cared", "caring"]
+            },
+            {
+                "ko": "이거 너무 투머치한 느낌이야 (좀 과해).",
+                "en": "It's giving too much.",
+                "distractors": ["many", "more", "most"]
+            },
+            {
+                "ko": "(칭찬할 때) 이거 완전 딱 원하던 그 느낌 그대로야! 찢었다!",
+                "en": "It's giving exactly what it's supposed to give.",
+                "distractors": ["exact", "exactness", "exacting"]
+            }
+        ]
     }
 ]
