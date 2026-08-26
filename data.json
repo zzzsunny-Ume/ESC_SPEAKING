@@ -4109,5 +4109,121 @@
                 "distractors": ["exact", "exactness", "exacting"]
             }
         ]
+    },
+
+    {
+        "title": "🥗 다이어트 & 운동 (Diet & Exercise)",
+        "type":"기초회화",
+        "date": "2026-08-26",
+        "questions": [
+            {
+                "ko": "나 오늘부터 진짜 다이어트할 거야!",
+                "en": "I'm officially going on a diet starting today!",
+                "distractors": ["goes", "went", "gone"]
+            },
+            {
+                "ko": "어제 야식 먹고 잤더니 얼굴이 완전 부었어.",
+                "en": "My face is so puffy because I had a late-night snack yesterday.",
+                "distractors": ["has", "have", "having"]
+            },
+            {
+                "ko": "헬스장 끊어 놓고 한 달째 안 가고 있어.",
+                "en": "I signed up for the gym but haven't been there for a month.",
+                "distractors": ["signs", "sign", "signing"]
+            },
+            {
+                "ko": "근육통 때문에 계단 내려갈 때마다 너무 아파.",
+                "en": "My muscles are so sore, it hurts every time I walk down the stairs.",
+                "distractors": ["hurt", "hurting", "hurter"]
+            },
+            {
+                "ko": "살 빼려면 일단 식단 조절이 제일 중요하대.",
+                "en": "They say watching what you eat is the most important part of losing weight.",
+                "distractors": ["lose", "loses", "lost"]
+            },
+            {
+                "ko": "오늘 저녁은 그냥 가볍게 샐러드나 먹을까 해.",
+                "en": "I think I'll just have a light salad for dinner tonight.",
+                "distractors": ["has", "had", "having"]
+            },
+            {
+                "ko": "땀 한바탕 쫙 흘리고 나니까 진짜 개운하다!",
+                "en": "I feel so refreshed after working up a good sweat!",
+                "distractors": ["work", "works", "worked"]
+            },
+            {
+                "ko": "예전에 입던 바지가 이제 허리가 안 맞아.",
+                "en": "The pants I used to wear don't fit me anymore.",
+                "distractors": ["wears", "wore", "wearing"]
+            },
+            {
+                "ko": "작심삼일 안 되게 이번엔 진짜 꾸준히 해보려고.",
+                "en": "I'm going to stick to it this time so I don't give up after three days.",
+                "distractors": ["sticks", "stuck", "sticking"]
+            },
+            {
+                "ko": "무리해서 굶지 말고 우리 건강하게 빼자.",
+                "en": "Let's not starve ourselves, let's lose weight the healthy way.",
+                "distractors": ["starves", "starved", "starving"]
+            }
+        ]
+    },
+
+    {
+        "title": "📜 도저히 이해가 안 가 (can't wrap my head around)",
+        "type":"문장반복",
+        "date": "2026-08-26",
+        "questions": [
+            {
+                "ko": "걔가 왜 그런 짓을 했는지 도저히 이해가 안 가.",
+                "en": "I can't wrap my head around why he did that.",
+                "distractors": ["do", "does", "doing"]
+            },
+            {
+                "ko": "사람들이 왜 그렇게 거기에 열광하는지 도저히 모르겠어.",
+                "en": "I can't wrap my head around why people are so crazy about it.",
+                "distractors": ["is", "was", "were"]
+            },
+            {
+                "ko": "이 새로운 시스템은 아무리 봐도 도저히 이해가 안 되네.",
+                "en": "I can't wrap my head around this new system.",
+                "distractors": ["wraps", "wrapped", "wrapping"]
+            },
+            {
+                "ko": "걔네들이 벌써 헤어졌다는 게 진짜 믿기지가 않아 (납득 불가야).",
+                "en": "I can't wrap my head around the fact that they broke up already.",
+                "distractors": ["break", "breaks", "breaking"]
+            },
+            {
+                "ko": "그게 도대체 어떻게 가능한 건지 진짜 이해가 안 돼.",
+                "en": "I can't wrap my head around how that's even possible.",
+                "distractors": ["is", "are", "were"]
+            },
+            {
+                "ko": "그렇게 많은 돈을 한 번에 쓴다는 게 내 상식으론 이해 불가야.",
+                "en": "I can't wrap my head around spending that much money at once.",
+                "distractors": ["spend", "spends", "spent"]
+            },
+            {
+                "ko": "이 복잡한 규칙들은 도무지 머리에 안 들어와.",
+                "en": "I can't wrap my head around these complicated rules.",
+                "distractors": ["complicate", "complicates", "complicating"]
+            },
+            {
+                "ko": "네가 어떻게 나한테 그럴 수 있는지 난 도저히 납득이 안 가.",
+                "en": "I can't wrap my head around how you could do that to me.",
+                "distractors": ["does", "did", "doing"]
+            },
+            {
+                "ko": "걔가 나한테 거짓말을 했다는 게 아직도 믿기지가 않아.",
+                "en": "I still can't wrap my head around him lying to me.",
+                "distractors": ["lie", "lies", "lay"]
+            },
+            {
+                "ko": "그 사고가 일어났다는 걸 아직도 받아들이기 힘들어(실감이 안 나).",
+                "en": "I still can't wrap my head around the accident.",
+                "distractors": ["wraps", "wrapped", "wrapping"]
+            }
+        ]
     }
 ]
