@@ -4225,5 +4225,179 @@
                 "distractors": ["wraps", "wrapped", "wrapping"]
             }
         ]
+    },
+
+    {
+        "title": "📜 그렇긴 하지만 (That being said)",
+        "type":"문장반복",
+        "date": "2026-08-28",
+        "questions": [
+            {
+                "ko": "재택근무가 편하고 좋긴 해. 그렇긴 하지만, 가끔은 밖에서 사람들 만나는 게 그립더라.",
+                "en": "I love working from home. That being said, I miss going out and seeing people sometimes.",
+                "distractors": ["loves", "loved", "loving"]
+            },
+            {
+                "ko": "이번 프로젝트 진짜 빡세. 그렇긴 하지만, 덕분에 엄청 많이 배우고 있어.",
+                "en": "This project is really tough. That being said, I'm learning a lot from it.",
+                "distractors": ["are", "was", "were"]
+            },
+            {
+                "ko": "그 식당이 좀 비싸긴 했어. 그렇긴 하지만, 맛은 진짜 최고더라.",
+                "en": "The restaurant was a bit overpriced. That being said, the food was amazing.",
+                "distractors": ["is", "are", "were"]
+            },
+            {
+                "ko": "새 업데이트에 자잘한 버그가 좀 있네. 그래도, 예전 버전보다는 훨씬 나아.",
+                "en": "The new update has some minor bugs. That being said, it's still way better than the old version.",
+                "distractors": ["have", "had", "having"]
+            },
+            {
+                "ko": "춤추는 게 체력적으로 좀 힘들긴 해. 그렇긴 하지만, 스트레스 풀기엔 최고야.",
+                "en": "Dancing is a bit physically exhausting. That being said, it's the best way to relieve stress.",
+                "distractors": ["are", "was", "were"]
+            },
+            {
+                "ko": "우리 지금 시간 별로 안 남았어. 그렇긴 하지만, 대충 서두르면 안 돼.",
+                "en": "We don't have much time left. That being said, we shouldn't just rush it.",
+                "distractors": ["has", "had", "having"]
+            },
+            {
+                "ko": "원래 집에서 시켜 먹는 걸 좋아하긴 해. 그렇긴 하지만, 오늘 밤엔 나가서 먹는 것도 재밌겠다.",
+                "en": "I usually prefer ordering food at home. That being said, going out tonight sounds fun.",
+                "distractors": ["prefers", "preferred", "preferring"]
+            },
+            {
+                "ko": "너 엄청 바쁜 거 알아. 그렇긴 하지만, 지금 당장 네 도움이 진짜 필요해.",
+                "en": "I know you're super busy. That being said, we really need your help right now.",
+                "distractors": ["knows", "knew", "knowing"]
+            },
+            {
+                "ko": "취미 생활에 돈이 꽤 들긴 해. 그래도, 나한테 그만한 즐거움을 주니까 괜찮아.",
+                "en": "My hobby is quite expensive. That being said, it brings me a lot of joy, so it's fine.",
+                "distractors": ["are", "was", "were"]
+            },
+            {
+                "ko": "영화가 너무 길긴 했어. 그렇긴 하지만, 결말은 진짜 완벽했어.",
+                "en": "The movie was a bit too long. That being said, the ending was absolutely perfect.",
+                "distractors": ["is", "are", "were"]
+            }
+        ]
+    },
+
+    {
+        "title": "⚖️ 성선설 vs 성악설 (Philosophy & Human Nature)",
+        "type":"기초회화",
+        "date": "2026-08-28",
+        "questions": [
+            {
+                "ko": "인간은 본래 선하게 태어날까, 아니면 악하게 태어날까?",
+                "en": "Are humans inherently good or evil?",
+                "distractors": ["Is", "Was", "Were"]
+            },
+            {
+                "ko": "난 사람은 태어날 때부터 선하다고 믿어. (성선설)",
+                "en": "I believe people are born good.",
+                "distractors": ["believes", "believed", "believing"]
+            },
+            {
+                "ko": "아니야, 인간은 이기적인 본성을 가지고 태어나. (성악설)",
+                "en": "No, humans are born with a selfish nature.",
+                "distractors": ["is", "was", "were"]
+            },
+            {
+                "ko": "순수한 아이들을 보면 성선설이 맞는 것 같기도 해.",
+                "en": "Looking at innocent children, I think we are good by nature.",
+                "distractors": ["thinks", "thought", "thinking"]
+            },
+            {
+                "ko": "사람은 원래 착한데 환경이 사람을 나쁘게 만드는 거야.",
+                "en": "People are originally good, but the environment makes them bad.",
+                "distractors": ["make", "made", "making"]
+            },
+            {
+                "ko": "법이나 규칙이 없었다면 세상은 엉망진창이 됐을걸.",
+                "en": "Without laws or rules, the world would be in total chaos.",
+                "distractors": ["is", "are", "being"]
+            },
+            {
+                "ko": "사람은 교육과 훈련을 통해 올바르게 자랄 수 있어.",
+                "en": "People can grow up to be righteous through education and discipline.",
+                "distractors": ["grows", "grew", "growing"]
+            },
+            {
+                "ko": "가끔 끔찍한 뉴스를 보면 진짜 인간의 바닥을 보는 것 같아.",
+                "en": "Sometimes watching the news, I feel like I'm seeing the rock bottom of humanity.",
+                "distractors": ["feels", "felt", "feeling"]
+            },
+            {
+                "ko": "아무리 세상이 각박해도 난 아직 사람들의 선의를 믿고 싶어.",
+                "en": "No matter how harsh the world is, I still want to believe in the goodwill of others.",
+                "distractors": ["wants", "wanted", "wanting"]
+            },
+            {
+                "ko": "결국 선과 악은 태어나는 게 아니라 우리가 매일 선택하는 문제 아닐까?",
+                "en": "In the end, aren't good and evil a matter of the choices we make every day, rather than how we are born?",
+                "distractors": ["makes", "made", "making"]
+            }
+        ]
+    },
+
+    {
+        "title": "🗳️ 투표 & 선거 (Voting & Election)",
+        "type":"기초회화",
+        "date": "2026-08-28",
+        "questions": [
+            {
+                "ko": "오늘 투표하러 갈 계획 있어?",
+                "en": "Are you planning to vote today?",
+                "distractors": ["plans", "planned", "plan"]
+            },
+            {
+                "ko": "난 붐빌까 봐 미리 사전 투표하고 왔지.",
+                "en": "I already voted early to avoid the crowd.",
+                "distractors": ["vote", "votes", "voting"]
+            },
+            {
+                "ko": "아직 누구한테 표를 줄지 확실히 못 정했어.",
+                "en": "I haven't decided who to vote for yet.",
+                "distractors": ["decide", "decides", "deciding"]
+            },
+            {
+                "ko": "우리 모두 소중한 한 표를 꼭 행사하자!",
+                "en": "Let's all make sure to make our vote count!",
+                "distractors": ["makes", "made", "making"]
+            },
+            {
+                "ko": "아침부터 투표소에 대기 줄이 엄청 길더라.",
+                "en": "The line at the polling station was so long this morning.",
+                "distractors": ["is", "are", "were"]
+            },
+            {
+                "ko": "이번 선거는 진짜 결과가 박빙일 것 같아.",
+                "en": "I think this election is going to be neck and neck.",
+                "distractors": ["thinks", "thought", "thinking"]
+            },
+            {
+                "ko": "오늘 저녁에 치킨 먹으면서 개표 방송 보자!",
+                "en": "Let's watch the election coverage tonight with some fried chicken!",
+                "distractors": ["watches", "watched", "watching"]
+            },
+            {
+                "ko": "투표 안 했으면 나중에 불평할 자격도 없어.",
+                "en": "If you don't vote, you have no right to complain.",
+                "distractors": ["votes", "voted", "voting"]
+            },
+            {
+                "ko": "손등에 도장 찍고 투표 인증샷 남기는 거 잊지 마.",
+                "en": "Don't forget to take a proof shot with the stamp on your hand.",
+                "distractors": ["forgets", "forgot", "forgetting"]
+            },
+            {
+                "ko": "결과가 어떻게 나올지 너무 긴장돼서 조마조마해.",
+                "en": "I'm on the edge of my seat wondering what the result will be.",
+                "distractors": ["wonder", "wonders", "wondered"]
+            }
+        ]
     }
 ]
