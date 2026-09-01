@@ -4399,5 +4399,121 @@
                 "distractors": ["wonder", "wonders", "wondered"]
             }
         ]
+    },
+
+    {
+        "title": "🎭Personality TEST",
+        "type":"기초회화",
+        "date": "2026-09-01",
+        "questions": [
+            {
+                "meaning": "성격",
+                "answers": ["personality"],
+                "sentence": "Have you ever taken a ___ test?"
+            },
+            {
+                "meaning": "낯을 가리는 / 부끄러워하는",
+                "answers": ["shy"],
+                "sentence": "I'm a bit ___ around strangers."
+            },
+            {
+                "meaning": "외향적인",
+                "answers": ["outgoing"],
+                "sentence": "You seem so energetic and ___."
+            },
+            {
+                "meaning": "즉흥적인",
+                "answers": ["spontaneous"],
+                "sentence": "I'm very ___ rather than making detailed plans."
+            },
+            {
+                "meaning": "계획한 / 계획된",
+                "answers": ["plan", "planned"],
+                "sentence": "I get so stressed when things don't go as ___."
+            },
+            {
+                "meaning": "(에너지를) 재충전하다",
+                "answers": ["recharge"],
+                "sentence": "After socializing, I absolutely need alone time to ___ my batteries."
+            },
+            {
+                "meaning": "팩트 폭력 / 뼈 때리는 말",
+                "answers": ["truth bomb", "truth bombs"],
+                "sentence": "Stop dropping ___, that hurts."
+            },
+            {
+                "meaning": "반대 (성향의 사람)",
+                "answers": ["opposite", "opposites"],
+                "sentence": "Even though we are total ___, we actually click really well."
+            },
+            {
+                "meaning": "공감하다",
+                "answers": ["empathize"],
+                "sentence": "I find it a bit hard to fully ___ with emotions."
+            },
+            {
+                "meaning": "완전 내 얘기다 / 나 그 자체다",
+                "answers": ["so me"],
+                "sentence": "Wow, reading this description, this is ___!"
+            }
+        ]
+    },
+
+    {
+        "title": "📜 꼭 ~하려고 하는 편이야 (make a point of / make it point to)",
+        "type":"기초회화",
+        "date": "2026-09-01",
+        "questions": [
+            {
+                "meaning": "연습하다",
+                "answers": ["practice", "practicing"],
+                "sentence": "I make a point of ___ the speaking scripts every day."
+            },
+            {
+                "meaning": "디버깅하다 / 오류를 수정하다",
+                "answers": ["debug", "debugging"],
+                "sentence": "I make a point of checking the memory structure first when ___."
+            },
+            {
+                "meaning": "지역의 / 동네의 (로컬)",
+                "answers": ["local"],
+                "sentence": "When I travel, I make it a point to visit ___ neighborhood restaurants."
+            },
+            {
+                "meaning": "꼭 ~하려고 하다 (뒤에 동명사 ing가 오는 형태)",
+                "answers": ["make a point of"],
+                "sentence": "I ___ drinking oat milk or soy milk instead of regular milk."
+            },
+            {
+                "meaning": "흐름",
+                "answers": ["flow"],
+                "sentence": "I make a point of writing at least a little bit before bed so the ___ doesn't break."
+            },
+            {
+                "meaning": "꼼꼼히 / 철저히",
+                "answers": ["thoroughly"],
+                "sentence": "I make it a point to stretch ___ before dance practice."
+            },
+            {
+                "meaning": "꼭 ~하려고 하다 (뒤에 to 부정사가 오는 형태)",
+                "answers": ["make it a point"],
+                "sentence": "I ___ to reply to important emails on the same day."
+            },
+            {
+                "meaning": "재차 확인하다 / 더블체크하다",
+                "answers": ["double-check", "double-checking"],
+                "sentence": "I make a point of ___ everything before submitting it."
+            },
+            {
+                "meaning": "약속 (일정 등 정해진 만남)",
+                "answers": ["appointment", "appointments"],
+                "sentence": "I make it a point not to be late for ___."
+            },
+            {
+                "meaning": "재택근무를 하다",
+                "answers": ["work from home"],
+                "sentence": "Even if I ___, I make a point of doing outdoor activities on weekends."
+            }
+        ]
     }
 ]
