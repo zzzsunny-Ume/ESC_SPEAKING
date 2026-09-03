@@ -4515,5 +4515,179 @@
                 "sentence": "Even if I ___, I make a point of doing outdoor activities on weekends."
             }
         ]
+    },
+
+    {
+        "title": "🏢 회사 동료1",
+        "type":"기초회화",
+        "date": "2026-09-03",
+        "questions": [
+            {
+                "ko": "오늘 회의가 길어져서 내 일을 하나도 못 했어.",
+                "en": "The meeting went on so long that I couldn't get any work done.",
+                "distractors": ["gets", "got", "getting"]
+            },
+            {
+                "ko": "내일 마감이라서 오늘 야근해야 할 것 같아.",
+                "en": "I think I have to work overtime today because of tomorrow's deadline.",
+                "distractors": ["thinks", "thought", "thinking"]
+            },
+            {
+                "ko": "이번 주 금요일에 연차 내고 좀 쉬려고 해.",
+                "en": "I'm planning to take a day off this Friday and rest.",
+                "distractors": ["takes", "took", "taking"]
+            },
+            {
+                "ko": "요즘 업무량이 너무 많아서 감당이 안 돼.",
+                "en": "The workload is too heavy lately, I can't handle it.",
+                "distractors": ["handles", "handled", "handling"]
+            },
+            {
+                "ko": "퇴근 시간만 되면 너무 신나!",
+                "en": "I get so excited when it's time to get off work!",
+                "distractors": ["gets", "got", "getting"]
+            },
+            {
+                "ko": "그 이메일 보낼 때 저도 참조로 넣어주세요.",
+                "en": "Please cc me on that email when you send it.",
+                "distractors": ["sends", "sent", "sending"]
+            },
+            {
+                "ko": "오늘 점심은 밖으로 안 나가고 대충 먹자.",
+                "en": "Let's just grab a quick bite inside for lunch.",
+                "distractors": ["grabs", "grabbed", "grabbing"]
+            },
+            {
+                "ko": "복사기에 종이가 걸렸는데 어떻게 빼는지 모르겠네.",
+                "en": "There's a paper jam in the copier, and I don't know how to fix it.",
+                "distractors": ["knows", "knew", "knowing"]
+            },
+            {
+                "ko": "이 프로젝트 마감일이 정확히 언제인가요?",
+                "en": "When is the exact deadline for this project?",
+                "distractors": ["are", "was", "were"]
+            },
+            {
+                "ko": "드디어 금요일이다! 이번 주 진짜 길었지.",
+                "en": "Thank God it's Friday! It's been such a long week, hasn't it?",
+                "distractors": ["has", "have", "had"]
+            }
+        ]
+    },
+
+    {
+        "title": "📜 점점 좋아지네 / 정이 가 (growing on me)",
+        "type":"기초회화",
+        "date": "2026-09-03",
+        "questions": [
+            {
+                "ko": "처음엔 별로였는데 점점 좋아지더라고.",
+                "en": "I didn't like it at first, but it's growing on me.",
+                "distractors": ["grow", "grows", "grew"]
+            },
+            {
+                "ko": "이 노래 처음엔 이상했는데 갈수록 끌리네.",
+                "en": "This song is really growing on me.",
+                "distractors": ["grow", "grows", "grew"]
+            },
+            {
+                "ko": "그 사람 첫인상은 깐깐해 보였는데, 볼수록 정이 가.",
+                "en": "He seemed strict at first, but he's growing on me.",
+                "distractors": ["seem", "seems", "seeming"]
+            },
+            {
+                "ko": "이 동네가 갈수록 마음에 들기 시작했어.",
+                "en": "This neighborhood is starting to grow on me.",
+                "distractors": ["start", "starts", "started"]
+            },
+            {
+                "ko": "처음엔 맛이 좀 이상했는데, 먹다 보니 점점 괜찮네.",
+                "en": "The taste is slowly growing on me.",
+                "distractors": ["grow", "grows", "grew"]
+            },
+            {
+                "ko": "새로 바뀐 UI 디자인이 처음엔 어색했는데 갈수록 눈에 익고 좋아.",
+                "en": "The new UI design is growing on me.",
+                "distractors": ["grow", "grows", "grew"]
+            },
+            {
+                "ko": "그 캐릭터 처음엔 밉상이었는데 볼수록 매력 있어.",
+                "en": "That character is definitely growing on me.",
+                "distractors": ["grow", "grows", "grew"]
+            },
+            {
+                "ko": "처음엔 이 춤이 너무 어려웠는데, 계속 연습하다 보니 점점 재밌어지네.",
+                "en": "This choreography is growing on me.",
+                "distractors": ["grow", "grows", "grew"]
+            },
+            {
+                "ko": "내 새 헤어스타일이 이제야 좀 적응되고 마음에 들어.",
+                "en": "My new haircut is finally growing on me.",
+                "distractors": ["grow", "grows", "grew"]
+            },
+            {
+                "ko": "처음엔 좀 낯설겠지만, 결국엔 점점 좋아질 거야.",
+                "en": "It might feel weird at first, but it will grow on you.",
+                "distractors": ["grows", "grew", "growing"]
+            }
+        ]
+    },
+
+    {
+        "title": "🤷 당연하게 여기다 (take for granted)",
+        "type":"기초회화",
+        "date": "2026-09-03",
+        "questions": [
+            {
+                "ko": "우리는 보통 아프기 전까지는 건강을 너무 당연하게 여겨.",
+                "en": "We often take our health for granted until we get sick.",
+                "distractors": ["takes", "took", "taking"]
+            },
+            {
+                "ko": "내 생각에 걔는 요즘 네 도움을 좀 당연하게 여기는 것 같아.",
+                "en": "I think he takes your help for granted these days.",
+                "distractors": ["take", "took", "taking"]
+            },
+            {
+                "ko": "나는 당연히 네가 오늘 파티에 올 줄 알았지. (당연하게 확신했어)",
+                "en": "I took it for granted that you would come to the party.",
+                "distractors": ["takes", "take", "taking"]
+            },
+            {
+                "ko": "우리가 지금 누리는 이 좋은 기회를 당연하게 여겨서는 안 돼.",
+                "en": "We shouldn't take this amazing opportunity for granted.",
+                "distractors": ["takes", "took", "taking"]
+            },
+            {
+                "ko": "그 사람은 정말 열심히 일하는데, 회사는 그걸 너무 당연하게 생각해.",
+                "en": "He works so hard, but his company just takes him for granted.",
+                "distractors": ["take", "took", "taking"]
+            },
+            {
+                "ko": "내가 평범한 일상의 소중함을 모르고 너무 당연하게 여겼다는 걸 깨달았어.",
+                "en": "I realized I was taking my peaceful everyday life for granted.",
+                "distractors": ["take", "takes", "took"]
+            },
+            {
+                "ko": "가족과 매일 함께 살다 보면 그 존재를 당연하게 여기기가 쉽지.",
+                "en": "It's easy to take your family for granted when you live together.",
+                "distractors": ["takes", "took", "taking"]
+            },
+            {
+                "ko": "다른 사람의 친절과 배려를 절대 당연한 것으로 받아들이면 안 돼.",
+                "en": "You should never take someone's kindness for granted.",
+                "distractors": ["takes", "took", "taking"]
+            },
+            {
+                "ko": "사람들은 엄청 바빠지기 전까지는 자신들의 여가 시간을 당연하게 여기는 경향이 있어.",
+                "en": "People tend to take their free time for granted until they get busy.",
+                "distractors": ["takes", "took", "taking"]
+            },
+            {
+                "ko": "나는 우리가 평생 좋은 친구로 남을 거라고 너무 당연하게 생각했어.",
+                "en": "I took it for granted that we would always be good friends.",
+                "distractors": ["take", "takes", "taking"]
+            }
+        ]
     }
 ]
