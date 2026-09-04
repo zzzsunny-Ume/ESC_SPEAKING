@@ -4754,55 +4754,55 @@
         "type":"기초회화",
         "date": "2026-09-04",
         "questions": [
-            {
-                "ko": "지금 당장 떠오르는 생각으로는 그게 최선의 방법 같아.",
-                "en": "Off the top of my head, that seems like the best method.",
-                "distractors": ["seem", "seemed", "seeming"]
+           {
+                "ko": "정확한 날짜는 모르겠지만, 얼핏 생각하기엔 아마 다음 주 목요일일 거야.",
+                "en": "I don't know the exact date, but off the top of my head, it's probably next Thursday.",
+                "distractors": ["knows", "knew", "knowing"]
             },
             {
-                "ko": "당장 생각나는 정확한 메모리 오프셋 수치는 0x58 정도야.",
-                "en": "Off the top of my head, the exact memory offset is about 0x58.",
-                "distractors": ["are", "was", "were"]
-            },
-            {
-                "ko": "지금 당장 떠오르는 괜찮은 로컬 선술집은 없네.",
-                "en": "I can't think of any good local taverns off the top of my head.",
+                "ko": "지금 당장 떠오르는 생각으로는 근처에 갈 만한 좋은 카페가 딱히 없네.",
+                "en": "Off the top of my head, I can't think of any good cafes nearby.",
                 "distractors": ["thinks", "thought", "thinking"]
             },
             {
-                "ko": "얼핏 생각하기엔 구문 덩어리가 한 5천 개쯤 될 것 같은데.",
-                "en": "Off the top of my head, I'd say there are about 5,000 functional chunks.",
-                "distractors": ["is", "was", "were"]
+                "ko": "정확한 수치는 확인해 봐야겠지만, 얼핏 생각하기엔 작년보다 매출이 늘어난 것 같아.",
+                "en": "I need to check the exact numbers, but off the top of my head, I think sales increased compared to last year.",
+                "distractors": ["checks", "checked", "checking"]
             },
             {
-                "ko": "당장 생각나는 영화 캐릭터가 딱히 없네.",
-                "en": "I can't think of a movie character off the top of my head.",
-                "distractors": ["thinks", "thought", "thinking"]
-            },
-            {
-                "ko": "지금 당장 떠오르는 인터뷰 질문은 이 정도야.",
-                "en": "Off the top of my head, these are the only interview questions I can think of.",
-                "distractors": ["is", "was", "being"]
-            },
-            {
-                "ko": "얼핏 생각하기엔 R2 스토리지를 쓰는 게 해결책이 될 수 있겠네.",
-                "en": "Off the top of my head, using R2 storage could be a solution.",
-                "distractors": ["use", "uses", "used"]
-            },
-            {
-                "ko": "지금 당장은 디스토피아 세계관에 추가할 만한 설정이 안 떠올라.",
-                "en": "I can't think of any settings to add to the dystopian world off the top of my head.",
-                "distractors": ["adds", "added", "adding"]
-            },
-            {
-                "ko": "당장 생각나는 아이디어는 이게 전부야.",
-                "en": "Off the top of my head, this is the only idea I have.",
+                "ko": "질문이 너무 갑작스러워서 당장 떠오르는 완벽한 대답은 없네요.",
+                "en": "The question is so sudden that I don't have a perfect answer off the top of my head.",
                 "distractors": ["has", "had", "having"]
             },
             {
-                "ko": "얼핏 생각하기엔 그게 가장 큰 원인 같아.",
-                "en": "Off the top of my head, I think that's the biggest cause.",
+                "ko": "당장 생각나는 사람 중에는 그 일을 제대로 해낼 만한 적임자가 없네.",
+                "en": "Off the top of my head, I can't think of anyone who is right for that job.",
+                "distractors": ["are", "was", "were"]
+            },
+            {
+                "ko": "얼핏 생각하기엔 우리가 마지막으로 만났던 게 아마 작년 여름이었을 거야.",
+                "en": "Off the top of my head, I believe the last time we met was last summer.",
+                "distractors": ["believes", "believed", "believing"]
+            },
+            {
+                "ko": "당장 떠오르는 구체적인 이유는 없지만, 아마 일정 문제 때문일 거라고 생각해.",
+                "en": "I can't think of a specific reason off the top of my head, but it's probably a scheduling issue.",
                 "distractors": ["thinks", "thought", "thinking"]
+            },
+            {
+                "ko": "얼핏 생각하기엔 그 식당이 매주 월요일마다 정기 휴무였던 것 같아.",
+                "en": "Off the top of my head, I think that restaurant is closed every Monday.",
+                "distractors": ["closes", "close", "closing"]
+            },
+            {
+                "ko": "지금 당장 생각나는 괜찮은 아이디어는 현재로서는 이게 전부야.",
+                "en": "Off the top of my head, these are the only good ideas I have right now.",
+                "distractors": ["has", "had", "having"]
+            },
+            {
+                "ko": "얼핏 생각하기엔 우리가 그 프로젝트에 쓴 예산이 대략 500달러 정도 될 거야.",
+                "en": "Off the top of my head, I'd say we spent about 500 dollars on that project.",
+                "distractors": ["spend", "spends", "spending"]
             }
         ]
     }
