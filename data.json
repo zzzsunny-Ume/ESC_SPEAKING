@@ -4689,5 +4689,121 @@
                 "distractors": ["take", "takes", "taking"]
             }
         ]
+    },
+
+    {
+        "title": "📱 스마트폰 & 소셜 미디어 / 인터넷 (Smartphone & Social Media)",
+        "type":"기초회화",
+        "date": "2026-09-04",
+        "questions": [
+            {
+                "ko": "와이파이 비밀번호가 혹시 어떻게 되나요?",
+                "en": "What is the Wi-Fi password here?",
+                "distractors": ["are", "was", "were"]
+            },
+            {
+                "ko": "그 사진 너무 잘 나왔다! 단톡방에 좀 보내줘.",
+                "en": "That picture came out great! Send it to our group chat.",
+                "distractors": ["Sends", "Sent", "Sending"]
+            },
+            {
+                "ko": "하루 종일 숏폼 영상만 보다가 시간이 다 갔어.",
+                "en": "I lost track of time watching short-form videos all day.",
+                "distractors": ["lose", "loses", "losing"]
+            },
+            {
+                "ko": "나 알림을 아예 꺼놔서 메시지 온 줄 몰랐어.",
+                "en": "I didn't know I got a message because I turned off notifications.",
+                "distractors": ["knows", "knew", "knowing"]
+            },
+            {
+                "ko": "링크 복사해서 내가 지금 바로 보내줄게.",
+                "en": "I'll copy the link and send it to you right now.",
+                "distractors": ["copies", "copied", "copying"]
+            },
+            {
+                "ko": "나 그 사람 너무 피곤해서 방금 언팔로우했어.",
+                "en": "They are too exhausting, so I just unfollowed them.",
+                "distractors": ["unfollow", "unfollows", "unfollowing"]
+            },
+            {
+                "ko": "프로필 사진 바꿨네? 분위기 있고 잘 어울려!",
+                "en": "You changed your profile picture? It has a great vibe and looks good on you!",
+                "distractors": ["change", "changes", "changing"]
+            },
+            {
+                "ko": "나 그거 어제 인스타 피드 넘기다가 우연히 봤어.",
+                "en": "I stumbled upon that while scrolling through my feed yesterday.",
+                "distractors": ["stumble", "stumbles", "stumbling"]
+            },
+            {
+                "ko": "배터리 1% 남았어! 당장 충전기 좀 빌려줘.",
+                "en": "I'm on 1% battery! Lend me your charger right now.",
+                "distractors": ["Lends", "Lent", "Lending"]
+            },
+            {
+                "ko": "이 앱은 자꾸 광고가 떠서 너무 귀찮네.",
+                "en": "It's so annoying that this app keeps popping up ads.",
+                "distractors": ["keep", "kept", "keeping"]
+            }
+        ]
+    },
+
+    {
+        "title": "📜 당장 생각나는 바로는 (Off the top of my head)",
+        "type":"기초회화",
+        "date": "2026-09-04",
+        "questions": [
+            {
+                "ko": "지금 당장 떠오르는 생각으로는 그게 최선의 방법 같아.",
+                "en": "Off the top of my head, that seems like the best method.",
+                "distractors": ["seem", "seemed", "seeming"]
+            },
+            {
+                "ko": "당장 생각나는 정확한 메모리 오프셋 수치는 0x58 정도야.",
+                "en": "Off the top of my head, the exact memory offset is about 0x58.",
+                "distractors": ["are", "was", "were"]
+            },
+            {
+                "ko": "지금 당장 떠오르는 괜찮은 로컬 선술집은 없네.",
+                "en": "I can't think of any good local taverns off the top of my head.",
+                "distractors": ["thinks", "thought", "thinking"]
+            },
+            {
+                "ko": "얼핏 생각하기엔 구문 덩어리가 한 5천 개쯤 될 것 같은데.",
+                "en": "Off the top of my head, I'd say there are about 5,000 functional chunks.",
+                "distractors": ["is", "was", "were"]
+            },
+            {
+                "ko": "당장 생각나는 영화 캐릭터가 딱히 없네.",
+                "en": "I can't think of a movie character off the top of my head.",
+                "distractors": ["thinks", "thought", "thinking"]
+            },
+            {
+                "ko": "지금 당장 떠오르는 인터뷰 질문은 이 정도야.",
+                "en": "Off the top of my head, these are the only interview questions I can think of.",
+                "distractors": ["is", "was", "being"]
+            },
+            {
+                "ko": "얼핏 생각하기엔 R2 스토리지를 쓰는 게 해결책이 될 수 있겠네.",
+                "en": "Off the top of my head, using R2 storage could be a solution.",
+                "distractors": ["use", "uses", "used"]
+            },
+            {
+                "ko": "지금 당장은 디스토피아 세계관에 추가할 만한 설정이 안 떠올라.",
+                "en": "I can't think of any settings to add to the dystopian world off the top of my head.",
+                "distractors": ["adds", "added", "adding"]
+            },
+            {
+                "ko": "당장 생각나는 아이디어는 이게 전부야.",
+                "en": "Off the top of my head, this is the only idea I have.",
+                "distractors": ["has", "had", "having"]
+            },
+            {
+                "ko": "얼핏 생각하기엔 그게 가장 큰 원인 같아.",
+                "en": "Off the top of my head, I think that's the biggest cause.",
+                "distractors": ["thinks", "thought", "thinking"]
+            }
+        ]
     }
 ]
