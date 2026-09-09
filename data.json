@@ -4921,5 +4921,179 @@
                 "distractors": ["gets", "got", "getting"]
             }
         ]
+    },
+
+    {
+        "title": "🌄 아침 일상",
+        "type":"기초회화",
+        "date": "2026-09-10",
+        "questions": [
+            {
+                "ko": "알람 소리를 듣고 깼는데 나도 모르게 다시 잠들었어.",
+                "en": "I heard the alarm but fell back asleep without realizing it.",
+                "distractors": ["fall", "falls", "falling"]
+            },
+            {
+                "ko": "어제 밤새 뒤척이느라 잠을 거의 한숨도 못 잤어.",
+                "en": "I tossed and turned all night and barely slept a wink.",
+                "distractors": ["sleep", "sleeps", "sleeping"]
+            },
+            {
+                "ko": "나 완전히 늦잠 잤어! 오늘 무조건 지각이야!",
+                "en": "I completely overslept! I'm definitely going to be late!",
+                "distractors": ["oversleep", "oversleeps", "oversleeping"]
+            },
+            {
+                "ko": "주말에는 알람 안 맞추고 그냥 늦게까지 푹 잘 거야.",
+                "en": "I'm going to sleep in this weekend without setting an alarm.",
+                "distractors": ["sleeps", "slept", "sleeping"]
+            },
+            {
+                "ko": "아침에 모닝커피를 안 마시면 도저히 정신을 못 차리겠어.",
+                "en": "I just can't wake myself up in the morning without my coffee.",
+                "distractors": ["wakes", "woke", "waking"]
+            },
+            {
+                "ko": "나 오늘 완전 꿀잠 잤어. 몸이 엄청 개운해!",
+                "en": "I slept like a log last night. I feel so refreshed!",
+                "distractors": ["sleep", "sleeps", "sleeping"]
+            },
+            {
+                "ko": "어제 무서운 악몽을 꿔서 중간에 식은땀 흘리면서 깼어.",
+                "en": "I had a nightmare and woke up in a cold sweat in the middle of the night.",
+                "distractors": ["wake", "wakes", "waking"]
+            },
+            {
+                "ko": "이불 밖은 너무 추워서 도저히 침대에서 나가기 싫어.",
+                "en": "It's too cold outside the blankets, I really don't want to get out of bed.",
+                "distractors": ["gets", "got", "getting"]
+            },
+            {
+                "ko": "딱 5분만 더 잘게... 진짜 5분만...",
+                "en": "Just five more minutes... seriously, just five minutes...",
+                "distractors": ["much", "many", "most"]
+            },
+            {
+                "ko": "보통 아침에 눈 뜨자마자 제일 먼저 하는 일이 뭐야?",
+                "en": "What is the first thing you do as soon as you wake up in the morning?",
+                "distractors": ["wakes", "woke", "waking"]
+            }
+        ]
+    },
+
+    {
+        "title": "📜 대충 요점은 파악하다 (Get the gist)",
+        "type":"문장반복",
+        "date": "2026-09-10",
+        "questions": [
+            {
+                "ko": "모든 세부 사항을 다 듣진 못했지만, 그가 무슨 말을 하는지 대충 요점은 파악했어.",
+                "en": "I didn't catch every single detail, but I got the gist of what he was saying.",
+                "distractors": ["get", "gets", "getting"]
+            },
+            {
+                "ko": "내가 다 안 읽어도 되게 그 이메일의 핵심 요점만 대충 알려줄 수 있어?",
+                "en": "Can you just give me the gist of the email so I don't have to read it all?",
+                "distractors": ["gives", "gave", "giving"]
+            },
+            {
+                "ko": "새로운 규칙의 요점은 대충 알 것 같은데, 나중에 질문을 좀 해야 할 수도 있어.",
+                "en": "I think I got the gist of the new rules, but I might need to ask a few questions later.",
+                "distractors": ["get", "gets", "getting"]
+            },
+            {
+                "ko": "시간이 좀 걸리긴 했지만, 드디어 이 시스템이 어떻게 돌아가는지 대강 파악했어.",
+                "en": "It took me a while, but I finally got the gist of how this system works.",
+                "distractors": ["work", "worked", "working"]
+            },
+            {
+                "ko": "전부 다 구체적으로 설명할 필요 없어. 상황이 어떤지 이미 대충 눈치챘거든.",
+                "en": "You don't need to explain everything; I already got the gist of the situation.",
+                "distractors": ["explains", "explained", "explaining"]
+            },
+            {
+                "ko": "기사가 너무 길어서, 대강의 내용만 파악하려고 첫 문단만 읽었어.",
+                "en": "The article was too long, so I only read the first paragraph to get the gist.",
+                "distractors": ["gets", "got", "getting"]
+            },
+            {
+                "ko": "설명서가 영어로 되어 있었지만, 사진이 있어서 대충 무슨 뜻인지 파악할 수 있었어.",
+                "en": "The manual was in English, but I could get the gist because of the pictures.",
+                "distractors": ["gets", "got", "getting"]
+            },
+            {
+                "ko": "일단 문제의 요점만 대충 설명해 주면, 세부 사항은 우리가 같이 알아낼 수 있어.",
+                "en": "Just explain the gist of the problem, and we can figure out the details together.",
+                "distractors": ["figures", "figured", "figuring"]
+            },
+            {
+                "ko": "회의 내용에 완전히 집중하진 못했지만, 대충 무슨 흐름인지는 확실히 알았어.",
+                "en": "I didn't pay full attention to the meeting, but I definitely got the gist.",
+                "distractors": ["pays", "paid", "paying"]
+            },
+            {
+                "ko": "기본적인 작동 방식의 요점을 대강 파악하고 나면, 이거 쓰는 거 진짜 재밌어질 거야.",
+                "en": "Once you get the gist of the basic controls, using this will be really fun.",
+                "distractors": ["gets", "got", "getting"]
+            }
+        ]
+    },
+
+    {
+        "title": "📜 미리 알려주다 (give a heads-up)",
+        "type":"문장반복",
+        "date": "2026-09-10",
+        "questions": [
+            {
+                "ko": "만약 일정이 바뀌면 단톡방에 미리 귀띔해 줄게.",
+                "en": "I'll give you a heads-up in the group chat if the schedule changes.",
+                "distractors": ["gives", "gave", "giving"]
+            },
+            {
+                "ko": "사무실에 도착하기 전에 나한테 미리 연락 한 번만 줘.",
+                "en": "Please give me a heads-up before you arrive at the office.",
+                "distractors": ["arrives", "arrived", "arriving"]
+            },
+            {
+                "ko": "오늘 회의가 좀 늦게 끝날 수도 있다고 미리 알려드려야 할 것 같아요.",
+                "en": "I think I should give you a heads-up that the meeting might end late today.",
+                "distractors": ["ends", "ended", "ending"]
+            },
+            {
+                "ko": "그 문제에 대해서 미리 귀띔해 줘서 정말 고마워.",
+                "en": "Thank you so much for giving me a heads-up about that issue.",
+                "distractors": ["give", "gives", "gave"]
+            },
+            {
+                "ko": "혹시 참석 못 하시는 분들은 적어도 하루 전에는 미리 알려주세요.",
+                "en": "If you can't make it, please give us a heads-up at least a day in advance.",
+                "distractors": ["makes", "made", "making"]
+            },
+            {
+                "ko": "다음 주에 중요한 발표가 있을 예정이니 팀원들에게 미리 언질을 주는 게 좋겠어.",
+                "en": "You should give the team a heads-up that there will be an important presentation next week.",
+                "distractors": ["gives", "gave", "given"]
+            },
+            {
+                "ko": "내가 그 식당 예약이 꽉 찼다고 미리 언질을 줬잖아!",
+                "en": "I gave you a heads-up that the restaurant was fully booked!",
+                "distractors": ["give", "gives", "giving"]
+            },
+            {
+                "ko": "혹시 마감일을 못 맞출 것 같으면 저한테 꼭 미리 알려주셔야 해요.",
+                "en": "If you think you can't meet the deadline, make sure to give me a heads-up.",
+                "distractors": ["meets", "met", "meeting"]
+            },
+            {
+                "ko": "미리 언질을 못 줘서 미안한데, 오늘 저녁 모임 장소가 갑자기 바뀌었어.",
+                "en": "Sorry I didn't give you a heads-up, but the venue for tonight's gathering suddenly changed.",
+                "distractors": ["change", "changes", "changing"]
+            },
+            {
+                "ko": "무슨 일이 생기면 내가 바로 너한테 귀띔해 줄 테니까 너무 걱정하지 마.",
+                "en": "Don't worry too much; I'll give you a heads-up right away if anything happens.",
+                "distractors": ["happen", "happened", "happening"]
+            }
+        ]
     }
 ]
