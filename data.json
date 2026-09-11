@@ -5095,5 +5095,121 @@
                 "distractors": ["happen", "happened", "happening"]
             }
         ]
+    },
+
+    {
+        "title": "📜 최대한 활용하다 / 뽕을 뽑다 (make the most of)",
+        "type":"문장반복",
+        "date": "2026-09-11",
+        "questions": [
+            {
+                "ko": "우리 여기 며칠 안 머무니까, 이번 여행을 최대한 알차게 즐기자.",
+                "en": "We only have a few days here, so let's make the most of our trip.",
+                "distractors": ["makes", "made", "making"]
+            },
+            {
+                "ko": "어차피 여기까지 온 김에 그냥 최대한 즐기는 게 좋지 않겠어? (이전에 배운 might as well이랑 찰떡!)",
+                "en": "Since we are already here, we might as well make the most of it.",
+                "distractors": ["makes", "made", "making"]
+            },
+            {
+                "ko": "이번 건 정말 흔치 않은 기회니까 반드시 최대한 활용해야 해.",
+                "en": "Make sure to make the most of this opportunity because it's rare.",
+                "distractors": ["Makes", "Made", "Making"]
+            },
+            {
+                "ko": "오늘 날씨가 진짜 완벽하니까 당장 나가서 이 날씨를 최대한 즐기자.",
+                "en": "The weather is perfect today, so let's go out and make the most of it.",
+                "distractors": ["goes", "went", "going"]
+            },
+            {
+                "ko": "나는 주말 동안 나에게 주어진 자유 시간을 최대한 알차게 쓰려고 노력 중이야.",
+                "en": "I'm trying to make the most of my free time on the weekend.",
+                "distractors": ["try", "tries", "tried"]
+            },
+            {
+                "ko": "비록 예산이 적더라도, 우리가 가진 자원들을 최대한 활용하는 게 중요해.",
+                "en": "Even with a small budget, it's important to make the most of the resources we have.",
+                "distractors": ["has", "had", "having"]
+            },
+            {
+                "ko": "이번 회의 시간을 최대한 활용해서 서로의 아이디어를 전부 공유해 봅시다.",
+                "en": "Let's make the most of this meeting and share all our ideas.",
+                "distractors": ["shares", "shared", "sharing"]
+            },
+            {
+                "ko": "호텔 방이 좀 작긴 해도, 수영장이랑 부대시설을 최대한 활용하면 돼.",
+                "en": "The hotel room is small, but we can make the most of the amenities.",
+                "distractors": ["makes", "made", "making"]
+            },
+            {
+                "ko": "나는 아직 젊고 에너지가 넘칠 때 내 시간을 최대한 가치 있게 쓰고 싶어.",
+                "en": "I want to make the most of my time while I'm young and energetic.",
+                "distractors": ["wants", "wanted", "wanting"]
+            },
+            {
+                "ko": "걔네들은 갑자기 취소된 일정을 오히려 휴식 시간으로 최대한 잘 활용하더라.",
+                "en": "They made the most of the canceled schedule by using it as a break.",
+                "distractors": ["make", "makes", "making"]
+            }
+        ]
+    },
+
+    {
+        "title": "🚗 운전 & 교통 (Driving & Traffic)",
+        "type":"기초회화",
+        "date": "2026-09-11",
+        "questions": [
+            {
+                "ko": "길이 너무 막혀서 꼼짝도 못 하고 있어.",
+                "en": "The traffic is so bad, I'm stuck in traffic.",
+                "distractors": ["stick", "sticks", "sticking"]
+            },
+            {
+                "ko": "초보 운전이라서 차선 바꾸는 게 제일 무서워.",
+                "en": "I'm a new driver, so changing lanes is the scariest part.",
+                "distractors": ["change", "changes", "changed"]
+            },
+            {
+                "ko": "저기 혹시 여기에 주차해도 괜찮나요?",
+                "en": "Excuse me, is it okay to park here?",
+                "distractors": ["parks", "parked", "parking"]
+            },
+            {
+                "ko": "빈 주차 공간을 찾느라 동네를 세 바퀴나 돌았어.",
+                "en": "I circled the neighborhood three times looking for a parking spot.",
+                "distractors": ["circle", "circles", "circling"]
+            },
+            {
+                "ko": "주유소 들러서 기름 좀 꽉 채우고 가야 할 것 같아.",
+                "en": "I think we need to stop by a gas station and fill up the tank.",
+                "distractors": ["fills", "filled", "filling"]
+            },
+            {
+                "ko": "앞차가 갑자기 급브레이크를 밟아서 진짜 깜짝 놀랐어.",
+                "en": "The car in front of me hit the brakes suddenly, it really startled me.",
+                "distractors": ["hits", "hitting", "hitted"]
+            },
+            {
+                "ko": "내비게이션이 길을 이상하게 알려줘서 길을 잘못 들었어.",
+                "en": "The GPS gave me weird directions, so I took the wrong way.",
+                "distractors": ["take", "takes", "taking"]
+            },
+            {
+                "ko": "조수석에 타면 안전벨트 매는 거 절대 잊지 마.",
+                "en": "Don't forget to fasten your seatbelt when you ride shotgun.",
+                "distractors": ["fastens", "fastened", "fastening"]
+            },
+            {
+                "ko": "깜빡이도 안 켜고 갑자기 훅 들어오면 어떡해!",
+                "en": "You can't just cut in suddenly without using your turn signal!",
+                "distractors": ["cuts", "cutting", "cutter"]
+            },
+            {
+                "ko": "뒷사람이 자꾸 빵빵거려서 운전하는 내내 너무 신경 쓰였어.",
+                "en": "The person behind me kept honking, it was so annoying the whole drive.",
+                "distractors": ["keep", "keeps", "keeping"]
+            }
+        ]
     }
 ]
