@@ -5211,5 +5211,121 @@
                 "distractors": ["keep", "keeps", "keeping"]
             }
         ]
+    },
+
+    {
+        "title": "😌 눈감아 주다 / 너그럽게 봐주다 (cut some slack)",
+        "type":"문장반복",
+        "date": "2026-09-15",
+        "questions": [
+            {
+                "ko": "걔가 우리 팀에 들어온 지 얼마 안 됐으니까 당분간은 좀 눈감아 주자.",
+                "en": "Since he's new to our team, let's cut him some slack for a while.",
+                "distractors": ["cuts", "cutting", "cutted"]
+            },
+            {
+                "ko": "나 오늘 진짜 컨디션 최악이니까 이번 한 번만 좀 너그럽게 봐주라!",
+                "en": "I'm feeling terrible today, so please cut me some slack just this once!",
+                "distractors": ["feel", "feels", "felt"]
+            },
+            {
+                "ko": "그녀가 최근에 스트레스를 엄청 많이 받았으니 우리가 좀 이해해 줘야 해.",
+                "en": "She's been under a lot of stress lately, so we should cut her some slack.",
+                "distractors": ["be", "is", "being"]
+            },
+            {
+                "ko": "처음 해보는 일이잖아. 스스로한테 너무 엄격하게 굴지 말고 좀 여유를 가져. (스스로에게 쓸 때)",
+                "en": "It's your first time doing this. Don't be so hard on yourself and cut yourself some slack.",
+                "distractors": ["do", "does", "did"]
+            },
+            {
+                "ko": "팀장님이 이번 사소한 실수에 대해서는 우리를 좀 봐주셨으면 좋겠어.",
+                "en": "I hope the manager cuts us some slack regarding this minor mistake.",
+                "distractors": ["cut", "cutting", "cutted"]
+            },
+            {
+                "ko": "우리가 시간이 정말 부족했다는 점을 고려해서 사람들이 좀 이해해 줬으면 해.",
+                "en": "Considering we were really short on time, I hope people cut us some slack.",
+                "distractors": ["Consider", "Considers", "Considered"]
+            },
+            {
+                "ko": "아침부터 차가 엄청 막혀서 지각한 거니까 오늘만 쫌 봐줘!",
+                "en": "I was late because of heavy traffic this morning, so cut me some slack today!",
+                "distractors": ["is", "are", "were"]
+            },
+            {
+                "ko": "그 사람도 사람이니까 완벽할 순 없잖아. 너무 몰아세우지 마.",
+                "en": "He's only human and can't be perfect. You need to cut him some slack.",
+                "distractors": ["needs", "needed", "needing"]
+            },
+            {
+                "ko": "상황이 워낙 복잡했으니, 결과가 좀 아쉬워도 서로 둥글게 둥글게 이해합시다.",
+                "en": "The situation was so complicated, let's cut each other some slack even if the results are a bit disappointing.",
+                "distractors": ["is", "are", "were"]
+            },
+            {
+                "ko": "제가 아직 이 시스템에 적응하는 중이니까 이번 주까지만 좀 기다려 주시면 안 될까요?",
+                "en": "I'm still getting used to this system, so could you cut me some slack until this week?",
+                "distractors": ["get", "gets", "got"]
+            }
+        ]
+    },
+
+    {
+        "title": "🚶길을 걷다가",
+        "type":"기초회화",
+        "date": "2026-09-15",
+        "questions": [
+            {
+                "ko": "운동화 끈 풀렸다. 잠깐만 묶고 갈게.",
+                "en": "My shoelace is untied. Let me tie it real quick.",
+                "distractors": ["ties", "tied", "tying"]
+            },
+            {
+                "ko": "아 짜증 나, 길 가다가 바닥에 있는 껌 밟았어!",
+                "en": "Oh, how annoying, I stepped on gum on the street!",
+                "distractors": ["step", "steps", "stepping"]
+            },
+            {
+                "ko": "신발에 작은 돌멩이가 들어간 것 같아, 빼고 갈게.",
+                "en": "I think there's a pebble in my shoe, let me get it out.",
+                "distractors": ["thinks", "thought", "thinking"]
+            },
+            {
+                "ko": "잠깐만 멈춰봐, 내 옷에 뭐 묻은 것 같아.",
+                "en": "Hold on a second, I think I got something on my clothes.",
+                "distractors": ["Holds", "Held", "Holding"]
+            },
+            {
+                "ko": "핸드폰 보면서 걷다가 하마터면 넘어질 뻔했어.",
+                "en": "I almost tripped while looking at my phone and walking.",
+                "distractors": ["trip", "trips", "tripping"]
+            },
+            {
+                "ko": "앞에 물웅덩이 있으니까 밟지 않게 조심해.",
+                "en": "There's a puddle ahead, so be careful not to step in it.",
+                "distractors": ["steps", "stepped", "stepping"]
+            },
+            {
+                "ko": "바닥이 미끄러우니까 주머니에서 손 빼고 조심해서 걸어.",
+                "en": "The ground is slippery, so take your hands out of your pockets and watch your step.",
+                "distractors": ["takes", "took", "taking"]
+            },
+            {
+                "ko": "짐이 너무 무거워서 그런데 잠깐 바닥에 내려놔도 될까?",
+                "en": "This bag is too heavy, can I put it down on the ground for a second?",
+                "distractors": ["puts", "putting", "putted"]
+            },
+            {
+                "ko": "사람이 너무 많아서 이쪽 길로 지나가기가 꽤 힘드네.",
+                "en": "There are too many people, it's hard to make our way through this street.",
+                "distractors": ["makes", "made", "making"]
+            },
+            {
+                "ko": "걷다가 길 한복판에서 아는 사람을 우연히 마주쳤어.",
+                "en": "I randomly bumped into someone I know right in the middle of the street.",
+                "distractors": ["bump", "bumps", "bumping"]
+            }
+        ]
     }
 ]
