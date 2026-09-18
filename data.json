@@ -5443,5 +5443,179 @@
                 "distractors": ["want", "wants", "wanting"]
             }
         ]
+    },
+
+    {
+        "title": "🍳 요리 & 주방 (Cooking & Kitchen)",
+        "type":"기초회화",
+        "date": "2026-09-18",
+        "questions": [
+            {
+                "ko": "양파 좀 잘게 다져줄래?",
+                "en": "Can you chop up the onions?",
+                "distractors": ["chops", "chopped", "chopping"]
+            },
+            {
+                "ko": "물이 끓기 시작하면 냄비에 면을 넣어.",
+                "en": "Put the noodles in the pot when the water starts to boil.",
+                "distractors": ["puts", "putting", "putted"]
+            },
+            {
+                "ko": "간이 좀 심심한데 소금 좀 더 넣을까?",
+                "en": "It tastes a bit bland, should I add more salt?",
+                "distractors": ["adds", "added", "adding"]
+            },
+            {
+                "ko": "전자레인지에 2분 정도 데워 먹으면 돼.",
+                "en": "You can just heat it up in the microwave for about 2 minutes.",
+                "distractors": ["heats", "heated", "heating"]
+            },
+            {
+                "ko": "고기를 굽기 전에 30분 정도 양념에 재워둬야 해.",
+                "en": "We need to marinate the meat for about 30 minutes before grilling it.",
+                "distractors": ["marinates", "marinated", "marinating"]
+            },
+            {
+                "ko": "약불로 줄이고 타지 않게 계속 저어줘.",
+                "en": "Turn the heat down to low and keep stirring so it doesn't burn.",
+                "distractors": ["turns", "turned", "turning"]
+            },
+            {
+                "ko": "냉장고에 남은 재료들로 대충 볶음밥이나 해 먹자.",
+                "en": "Let's just make some fried rice with the leftover ingredients in the fridge.",
+                "distractors": ["makes", "made", "making"]
+            },
+            {
+                "ko": "이 레시피는 요리 초보자도 엄청 쉽게 따라 할 수 있어.",
+                "en": "This recipe is so easy that even a beginner cook can follow it.",
+                "distractors": ["follows", "followed", "following"]
+            },
+            {
+                "ko": "남은 음식은 밀폐 용기에 담아서 냉장고에 넣어둬.",
+                "en": "Put the leftovers in an airtight container and keep it in the fridge.",
+                "distractors": ["keeps", "kept", "keeping"]
+            },
+            {
+                "ko": "도마랑 칼 쓴 건 내가 바로 설거지할게.",
+                "en": "I'll wash the cutting board and knife I used right away.",
+                "distractors": ["washes", "washed", "washing"]
+            }
+        ]
+    },
+
+    {
+        "title": "💬구동사 Tell ~",
+        "type":"구동사",
+        "date": "2026-09-18",
+        "questions": [
+            {
+                "ko": "그 강아지들은 너무 비슷하게 생겨서 구별하기 힘들어.",
+                "en": "They look so similar that it's hard to tell them apart.",
+                "distractors": ["tells", "told", "telling"]
+            },
+            {
+                "ko": "너는 진짜와 가짜를 어떻게 구별하는지 알아?",
+                "en": "Do you know how to tell the real and the fake apart?",
+                "distractors": ["tells", "told", "telling"]
+            },
+            {
+                "ko": "어제 지각을 해서 팀장님한테 엄청 혼났어.",
+                "en": "My boss told me off for being late yesterday.",
+                "distractors": ["tell", "tells", "telling"]
+            },
+            {
+                "ko": "걔가 너무 무례하게 굴길래 내가 따끔하게 한마디 했지.",
+                "en": "He was being very rude, so I told him off.",
+                "distractors": ["tell", "tells", "telling"]
+            },
+            {
+                "ko": "내 여동생은 내가 뭘 할 때마다 항상 엄마한테 일러바쳐.",
+                "en": "My sister always tells on me to mom whatever I do.",
+                "distractors": ["tell", "told", "telling"]
+            },
+            {
+                "ko": "내가 실수한 거 제발 선생님한테 이르지 마.",
+                "en": "Please don't tell on me to the teacher for my mistake.",
+                "distractors": ["tells", "told", "telling"]
+            },
+            {
+                "ko": "매일 늦게까지 일하는 게 내 건강에 무리가 가고 있어.",
+                "en": "Working late every day is telling on my health.",
+                "distractors": ["tell", "tells", "told"]
+            },
+            {
+                "ko": "요즘 스트레스를 많이 받아서 그런지 그녀에게 눈에 띄게 영향이 가고 있어.",
+                "en": "She is under a lot of stress and it's telling on her.",
+                "distractors": ["tell", "tells", "told"]
+            },
+            {
+                "ko": "관련 경험이 없다는 점이 면접에서 나한테 불리하게 작용했어.",
+                "en": "My lack of experience told against me in the interview.",
+                "distractors": ["tell", "tells", "telling"]
+            },
+            {
+                "ko": "그의 과거 실수들이 결국 그에게 불리하게 작용할 거야.",
+                "en": "His past mistakes will eventually tell against him.",
+                "distractors": ["tells", "told", "telling"]
+            }
+        ]
+    },
+
+    {
+        "title": "📜낯이 익다 / 들어본 것 같다 (ring a bell)",
+        "type":"문장반복",
+        "date": "2026-09-18",
+        "questions": [
+            {
+                "ko": "그 이름 어디서 확실히 들어본 것 같아.",
+                "en": "That name really rings a bell.",
+                "distractors": ["ring", "rang", "ringing"]
+            },
+            {
+                "ko": "미안한데, 전혀 들어본 적 없는 이야기야.",
+                "en": "Sorry, but that doesn't ring a bell at all.",
+                "distractors": ["rings", "rang", "ringing"]
+            },
+            {
+                "ko": "혹시 이 장소 낯이 익으신가요?",
+                "en": "Does this place ring a bell to you?",
+                "distractors": ["rings", "rang", "ringing"]
+            },
+            {
+                "ko": "그 노래 제목 어디서 들어본 것 같은데 기억이 안 나.",
+                "en": "The song title rings a bell, but I can't remember it.",
+                "distractors": ["ring", "rang", "ringing"]
+            },
+            {
+                "ko": "그녀가 말한 날짜는 나한테 전혀 낯설었어.",
+                "en": "The date she mentioned didn't ring a bell.",
+                "distractors": ["rings", "rang", "ringing"]
+            },
+            {
+                "ko": "이 사진 보니까 혹시 기억나는 거 없어?",
+                "en": "Does looking at this photo ring a bell?",
+                "distractors": ["rings", "rang", "ringing"]
+            },
+            {
+                "ko": "그 브랜드 이름 어디서 들어본 것 같은데 확실하진 않아.",
+                "en": "The brand name rings a bell, but I'm not sure.",
+                "distractors": ["ring", "rang", "ringing"]
+            },
+            {
+                "ko": "내가 방금 한 말, 어디서 들어본 것 같지 않아?",
+                "en": "Doesn't what I just said ring a bell?",
+                "distractors": ["rings", "rang", "ringing"]
+            },
+            {
+                "ko": "그 사람 얼굴이 나한테는 꽤 낯이 익네.",
+                "en": "His face really rings a bell to me.",
+                "distractors": ["ring", "rang", "ringing"]
+            },
+            {
+                "ko": "그 식당 이름은 도무지 들어본 기억이 없어.",
+                "en": "The name of the restaurant doesn't ring a bell.",
+                "distractors": ["rings", "rang", "ringing"]
+            }
+        ]
     }
 ]
