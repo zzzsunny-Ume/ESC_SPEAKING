@@ -5617,5 +5617,179 @@
                 "distractors": ["rings", "rang", "ringing"]
             }
         ]
+    },
+
+    {
+        "title": "💑Dating & Relationships",
+        "type":"기초회화",
+        "date": "2026-09-22",
+        "questions": [
+            {
+                "meaning": "(이성을) 진지하게 만나다 / 교제하다",
+                "answers": ["see", "seeing"],
+                "sentence": "I'm ___ someone seriously these days."
+            },
+            {
+                "meaning": "함께하다 / 교제하다",
+                "answers": ["be together", "been together"],
+                "sentence": "We've already ___ for five years."
+            },
+            {
+                "meaning": "데이트하러 가다",
+                "answers": ["go on a date"],
+                "sentence": "Let's ___ somewhere nice this weekend."
+            },
+            {
+                "meaning": "기념일",
+                "answers": ["anniversary"],
+                "sentence": "Is there any specific gift you want for our upcoming ___?"
+            },
+            {
+                "meaning": "사소한 / 하찮은",
+                "answers": ["trivial"],
+                "sentence": "We had a big fight yesterday over something ___."
+            },
+            {
+                "meaning": "사과하다",
+                "answers": ["apologize", "apologized"],
+                "sentence": "I ___ first before things got too heated."
+            },
+            {
+                "meaning": "화해하다",
+                "answers": ["make up"],
+                "sentence": "It's our rule to ___ before the day ends, even if we fight."
+            },
+            {
+                "meaning": "내 편이 되어주다 / 내 뒤를 든든하게 지켜주다",
+                "answers": ["have my back", "has my back"],
+                "sentence": "You are the one who always ___."
+            },
+            {
+                "meaning": "편안한 옷차림 / 평상복",
+                "answers": ["casual clothes"],
+                "sentence": "Taking a walk around the neighborhood in ___ is a great date too."
+            },
+            {
+                "meaning": "평범한 일상",
+                "answers": ["ordinary day", "ordinary days"],
+                "sentence": "I'm so happy that we can share our ___ together."
+            }
+        ]
+    },
+
+    {
+        "title": "📜다음으로 미루다 (take a rain check)",
+        "type":"문장반복",
+        "date": "2026-09-22",
+        "questions": [
+            {
+                "meaning": "다음을 기약하다 / 미루다",
+                "answers": ["take a rain check"],
+                "sentence": "I'm too busy this weekend, so I'll have to ___."
+            },
+            {
+                "meaning": "초대",
+                "answers": ["invitation"],
+                "sentence": "Thanks for the ___, but can I take a rain check this time?"
+            },
+            {
+                "meaning": "다음을 기약하다",
+                "answers": ["take a rain check"],
+                "sentence": "I'm sorry, but I think I need to ___ on dinner tonight."
+            },
+            {
+                "meaning": "모임",
+                "answers": ["gathering"],
+                "sentence": "I'd love to go to the ___, but I'll have to take a rain check."
+            },
+            {
+                "meaning": "(약속 등을 미루는) 우천 교환권 / 연기",
+                "answers": ["rain check"],
+                "sentence": "I'm feeling a bit sick, so let's take a ___ on the movie."
+            },
+            {
+                "meaning": "(일정 등의) 겹침 / 충돌",
+                "answers": ["conflict"],
+                "sentence": "I have a scheduling ___, so I have no choice but to take a rain check."
+            },
+            {
+                "meaning": "다음을 기약하다 / 미루다",
+                "answers": ["take a rain check"],
+                "sentence": "I can't meet you today, so can we ___?"
+            },
+            {
+                "meaning": "계획 / 일정",
+                "answers": ["plan", "plans"],
+                "sentence": "The weather is too bad, so let's take a rain check on our ___."
+            },
+            {
+                "meaning": "(모임 등에) 참석하다 / 해내다",
+                "answers": ["make it"],
+                "sentence": "I can't ___ this time, but I'll definitely take a rain check!"
+            },
+            {
+                "meaning": "아쉽게도 / 불행히도",
+                "answers": ["unfortunately", "Unfortunately"],
+                "sentence": "___, we have to take a rain check on our weekend trip."
+            }
+        ]
+    },
+
+    {
+        "title": "구동사 come 1️⃣",
+        "type":"구동사",
+        "date": "2026-09-22",
+        "questions": [
+            {
+                "meaning": "생각해 내다 / 아이디어를 떠올리다",
+                "answers": ["come up with"],
+                "sentence": "I need to ___ a new story this time."
+            },
+            {
+                "meaning": "생각해 내다 / 떠올리다",
+                "answers": ["come up with"],
+                "sentence": "How did you ___ such a great idea?"
+            },
+            {
+                "meaning": "우연히 발견하다 / 마주치다",
+                "answers": ["come across", "came across"],
+                "sentence": "I ___ an old practice video yesterday."
+            },
+            {
+                "meaning": "우연히 발견하다 / 마주치다",
+                "answers": ["come across", "came across"],
+                "sentence": "I ___ an interesting English article online."
+            },
+            {
+                "meaning": "(집에) 놀러 오다 / 들르다",
+                "answers": ["come over"],
+                "sentence": "Do you want to ___ for a board game tonight?"
+            },
+            {
+                "meaning": "(집에) 놀러 오다 / 들르다",
+                "answers": ["come over"],
+                "sentence": "My friends are going to ___ this weekend."
+            },
+            {
+                "meaning": "(병에) 걸리다",
+                "answers": ["come down with", "coming down with"],
+                "sentence": "I feel a bit chilly, I think I'm ___ a cold."
+            },
+            {
+                "meaning": "(병에) 걸리다",
+                "answers": ["come down with", "came down with"],
+                "sentence": "My boyfriend ___ a bad flu and is in bed."
+            },
+            {
+                "meaning": "나오다 / 출시되다",
+                "answers": ["come out", "coming out"],
+                "sentence": "The new game I've been waiting for is ___ next month."
+            },
+            {
+                "meaning": "나오다 / 출판되다",
+                "answers": ["come out", "coming out"],
+                "sentence": "Do you know exactly when the book is ___?"
+            }
+        ]
     }
 ]
