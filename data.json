@@ -6313,5 +6313,121 @@
                 "distractors": ["takes", "took", "taking"]
             }
         ]
+    },
+
+    {
+        "title": "🍿Movies & Cinema",
+        "type":"기초회화",
+        "date": "2026-10-06",
+        "questions": [
+            {
+                "meaning": "미리 / 사전에",
+                "answers": ["in advance"],
+                "sentence": "Did you book the tickets ___?"
+            },
+            {
+                "meaning": "반 / 절반",
+                "answers": ["half"],
+                "sentence": "Let's get ___ caramel and half onion popcorn."
+            },
+            {
+                "meaning": "스포일러 당하다 / 내용을 미리 알게 되다",
+                "answers": ["get spoiled", "got spoiled"],
+                "sentence": "I didn't even read the reviews because I didn't want to ___."
+            },
+            {
+                "meaning": "자막판의 / 자막이 있는",
+                "answers": ["subtitled"],
+                "sentence": "Do you want to watch the ___ version or the dubbed version?"
+            },
+            {
+                "meaning": "무음으로",
+                "answers": ["on silent"],
+                "sentence": "Please put your phone ___ during the screening."
+            },
+            {
+                "meaning": "할 말을 잃은 / 말문이 막힌 (여운이 남은)",
+                "answers": ["speechless"],
+                "sentence": "The ending was so shocking that it left me ___ for a while."
+            },
+            {
+                "meaning": "쿠키 영상 (엔딩 크레딧 이후 장면)",
+                "answers": ["post-credits scene", "post credit scene", "post-credit scene", "post credits scene"],
+                "sentence": "I heard there's a ___, so let's stay until the end."
+            },
+            {
+                "meaning": "맨 앞줄",
+                "answers": ["front row"],
+                "sentence": "Sitting in the ___ hurts my neck, let's book the back row instead."
+            },
+            {
+                "meaning": "집중하다",
+                "answers": ["concentrate", "focus"],
+                "sentence": "The person next to me kept talking, so I couldn't ___ on the movie at all."
+            },
+            {
+                "meaning": "감독",
+                "answers": ["director", "directors"],
+                "sentence": "I'm such a big fan that I've watched all the previous works by that ___."
+            }
+        ]
+    },
+
+    {
+        "title": "📜당분간 (for the time being)",
+        "type":"문장반복",
+        "date": "2026-10-06",
+        "questions": [
+            {
+                "meaning": "당분간은 / 당장은",
+                "answers": ["for the time being"],
+                "sentence": "Let's use this method ___."
+            },
+            {
+                "meaning": "머물다",
+                "answers": ["stay"],
+                "sentence": "I will ___ here for the time being until I find a better place."
+            },
+            {
+                "meaning": "충분한",
+                "answers": ["enough"],
+                "sentence": "I think this is ___ for the time being."
+            },
+            {
+                "meaning": "고용하다 / (직원을) 뽑다",
+                "answers": ["hire"],
+                "sentence": "We won't ___ new employees for the time being."
+            },
+            {
+                "meaning": "실내에 / 실내에서",
+                "answers": ["indoors"],
+                "sentence": "Let's just stay ___ for the time being."
+            },
+            {
+                "meaning": "(프로젝트 등을) 맡다 / 책임지다",
+                "answers": ["take charge of"],
+                "sentence": "I will ___ this project for the time being."
+            },
+            {
+                "meaning": "당분간은 / 당장은",
+                "answers": ["for the time being"],
+                "sentence": "Let's just leave it like this ___."
+            },
+            {
+                "meaning": "모임",
+                "answers": ["gathering", "gatherings"],
+                "sentence": "We will only have online ___ for the time being."
+            },
+            {
+                "meaning": "당분간은 / 당장은",
+                "answers": ["for the time being"],
+                "sentence": "My laptop is broken. Can I use yours ___?"
+            },
+            {
+                "meaning": "쉬다",
+                "answers": ["rest"],
+                "sentence": "I'm just going to ___ for the time being this weekend."
+            }
+        ]
     }
 ]
