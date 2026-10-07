@@ -6321,54 +6321,54 @@
         "date": "2026-10-06",
         "questions": [
             {
-                "meaning": "미리 / 사전에",
-                "answers": ["in advance"],
-                "sentence": "Did you book the tickets ___?"
+                "ko": "우리 무슨 영화 볼지 미리 예매했어?",
+                "en": "Did you book the tickets in advance?",
+                "distractors": ["books", "booked", "booking"]
             },
             {
-                "meaning": "반 / 절반",
-                "answers": ["half"],
-                "sentence": "Let's get ___ caramel and half onion popcorn."
+                "ko": "팝콘은 캐러멜이랑 어니언 반반으로 하자.",
+                "en": "Let's get half caramel and half onion popcorn.",
+                "distractors": ["gets", "got", "getting"]
             },
             {
-                "meaning": "스포일러 당하다 / 내용을 미리 알게 되다",
-                "answers": ["get spoiled", "got spoiled"],
-                "sentence": "I didn't even read the reviews because I didn't want to ___."
+                "ko": "나 스포일러 당하기 싫어서 영화 후기도 아예 안 봤어.",
+                "en": "I didn't even read the reviews because I didn't want to get spoiled.",
+                "distractors": ["reads", "readed", "reading"]
             },
             {
-                "meaning": "자막판의 / 자막이 있는",
-                "answers": ["subtitled"],
-                "sentence": "Do you want to watch the ___ version or the dubbed version?"
+                "ko": "영화 자막판으로 볼래, 아니면 더빙판으로 볼래?",
+                "en": "Do you want to watch the subtitled version or the dubbed version?",
+                "distractors": ["watches", "watched", "watching"]
             },
             {
-                "meaning": "무음으로",
-                "answers": ["on silent"],
-                "sentence": "Please put your phone ___ during the screening."
+                "ko": "영화 상영 중에는 휴대폰을 무음으로 전환해 주세요.",
+                "en": "Please put your phone on silent during the screening.",
+                "distractors": ["puts", "putted", "putting"]
             },
             {
-                "meaning": "할 말을 잃은 / 말문이 막힌 (여운이 남은)",
-                "answers": ["speechless"],
-                "sentence": "The ending was so shocking that it left me ___ for a while."
+                "ko": "영화 결말이 너무 충격적이라서 한참 동안 여운이 남았어.",
+                "en": "The ending was so shocking that it left me speechless for a while.",
+                "distractors": ["leave", "leaves", "leaving"]
             },
             {
-                "meaning": "쿠키 영상 (엔딩 크레딧 이후 장면)",
-                "answers": ["post-credits scene", "post credit scene", "post-credit scene", "post credits scene"],
-                "sentence": "I heard there's a ___, so let's stay until the end."
+                "ko": "쿠키 영상이 있다고 하니까 엔딩 크레딧 끝날 때까지 앉아 있자.",
+                "en": "I heard there's a post-credits scene, so let's stay until the end.",
+                "distractors": ["stays", "stayed", "staying"]
             },
             {
-                "meaning": "맨 앞줄",
-                "answers": ["front row"],
-                "sentence": "Sitting in the ___ hurts my neck, let's book the back row instead."
+                "ko": "맨 앞줄은 목이 너무 아프니까 차라리 맨 뒷자리로 예매하자.",
+                "en": "Sitting in the front row hurts my neck, let's book the back row instead.",
+                "distractors": ["books", "booked", "booking"]
             },
             {
-                "meaning": "집중하다",
-                "answers": ["concentrate", "focus"],
-                "sentence": "The person next to me kept talking, so I couldn't ___ on the movie at all."
+                "ko": "내 옆 사람이 계속 떠들어서 영화에 전혀 집중할 수가 없었어.",
+                "en": "The person next to me kept talking, so I couldn't concentrate on the movie at all.",
+                "distractors": ["concentrates", "concentrated", "concentrating"]
             },
             {
-                "meaning": "감독",
-                "answers": ["director", "directors"],
-                "sentence": "I'm such a big fan that I've watched all the previous works by that ___."
+                "ko": "나 그 감독이 만든 전작들을 다 챙겨 볼 정도로 완전 팬이야.",
+                "en": "I'm such a big fan that I've watched all the previous works by that director.",
+                "distractors": ["watch", "watches", "watching"]
             }
         ]
     },
@@ -6379,54 +6379,54 @@
         "date": "2026-10-06",
         "questions": [
             {
-                "meaning": "당분간은 / 당장은",
-                "answers": ["for the time being"],
-                "sentence": "Let's use this method ___."
+                "ko": "일단 당분간은 이 방법을 쓰도록 합시다.",
+                "en": "Let's use this method for the time being.",
+                "distractors": ["uses", "used", "using"]
             },
             {
-                "meaning": "머물다",
-                "answers": ["stay"],
-                "sentence": "I will ___ here for the time being until I find a better place."
+                "ko": "더 좋은 곳을 찾을 때까지 당분간은 여기에 머물 거야.",
+                "en": "I will stay here for the time being until I find a better place.",
+                "distractors": ["stays", "stayed", "staying"]
             },
             {
-                "meaning": "충분한",
-                "answers": ["enough"],
-                "sentence": "I think this is ___ for the time being."
+                "ko": "당장은 이걸로도 충분할 것 같아.",
+                "en": "I think this is enough for the time being.",
+                "distractors": ["thinks", "thought", "thinking"]
             },
             {
-                "meaning": "고용하다 / (직원을) 뽑다",
-                "answers": ["hire"],
-                "sentence": "We won't ___ new employees for the time being."
+                "ko": "당분간은 새로운 직원을 뽑지 않을 예정이야.",
+                "en": "We won't hire new employees for the time being.",
+                "distractors": ["hires", "hired", "hiring"]
             },
             {
-                "meaning": "실내에 / 실내에서",
-                "answers": ["indoors"],
-                "sentence": "Let's just stay ___ for the time being."
+                "ko": "당분간은 그냥 실내에 있자.",
+                "en": "Let's just stay indoors for the time being.",
+                "distractors": ["stays", "stayed", "staying"]
             },
             {
-                "meaning": "(프로젝트 등을) 맡다 / 책임지다",
-                "answers": ["take charge of"],
-                "sentence": "I will ___ this project for the time being."
+                "ko": "당분간은 제가 이 프로젝트를 맡아서 진행할게요.",
+                "en": "I will take charge of this project for the time being.",
+                "distractors": ["takes", "took", "taking"]
             },
             {
-                "meaning": "당분간은 / 당장은",
-                "answers": ["for the time being"],
-                "sentence": "Let's just leave it like this ___."
+                "ko": "당분간은 이대로 두자.",
+                "en": "Let's just leave it like this for the time being.",
+                "distractors": ["leaves", "left", "leaving"]
             },
             {
-                "meaning": "모임",
-                "answers": ["gathering", "gatherings"],
-                "sentence": "We will only have online ___ for the time being."
+                "ko": "당분간은 모임을 온라인으로만 진행할게요.",
+                "en": "We will only have online gatherings for the time being.",
+                "distractors": ["has", "had", "having"]
             },
             {
-                "meaning": "당분간은 / 당장은",
-                "answers": ["for the time being"],
-                "sentence": "My laptop is broken. Can I use yours ___?"
+                "ko": "내 노트북이 고장 나서 당분간은 네 걸 좀 써도 될까?",
+                "en": "My laptop is broken. Can I use yours for the time being?",
+                "distractors": ["uses", "used", "using"]
             },
             {
-                "meaning": "쉬다",
-                "answers": ["rest"],
-                "sentence": "I'm just going to ___ for the time being this weekend."
+                "ko": "이번 주말에는 아무것도 안 하고 당분간은 푹 쉴 생각이야.",
+                "en": "I'm just going to rest for the time being this weekend.",
+                "distractors": ["rests", "rested", "resting"]
             }
         ]
     }
