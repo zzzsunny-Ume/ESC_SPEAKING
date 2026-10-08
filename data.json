@@ -6429,5 +6429,179 @@
                 "distractors": ["rests", "rested", "resting"]
             }
         ]
+    },
+
+    {
+        "title": "💬구동사 Take 3",
+        "type":"구동사",
+        "date": "2026-10-08",
+        "questions": [
+            {
+                "ko": "다 드신 접시는 치워드릴까요?",
+                "en": "Can I take your plates away if you're all done?",
+                "distractors": ["takes", "took", "taking"]
+            },
+            {
+                "ko": "그가 내 스마트폰을 빼앗아 갔어.",
+                "en": "He took my phone away.",
+                "distractors": ["take", "takes", "taking"]
+            },
+            {
+                "ko": "우리 강아지가 처음부터 너를 정말 좋아하네.",
+                "en": "My dog really took to you right away.",
+                "distractors": ["take", "takes", "taking"]
+            },
+            {
+                "ko": "그녀는 새 학교를 금방 마음에 들어 했어.",
+                "en": "She quickly took to her new school.",
+                "distractors": ["take", "takes", "taking"]
+            },
+            {
+                "ko": "제가 이 시스템 사용법을 차근차근 설명해 드릴게요.",
+                "en": "I'll take you through how to use this system step by step.",
+                "distractors": ["takes", "took", "taking"]
+            },
+            {
+                "ko": "그 과정을 저한테 한 번만 다시 설명해 주실래요?",
+                "en": "Can you take me through the process one more time?",
+                "distractors": ["takes", "took", "taking"]
+            },
+            {
+                "ko": "매니저님이 할 말이 있다며 나를 따로 부르셨어.",
+                "en": "My manager took me aside and said they had something to tell me.",
+                "distractors": ["take", "takes", "taking"]
+            },
+            {
+                "ko": "그녀가 조용히 나를 한쪽으로 데리고 갔어.",
+                "en": "She quietly took me aside.",
+                "distractors": ["take", "takes", "taking"]
+            },
+            {
+                "ko": "기분 안 좋은 건 알지만 나한테 화풀이하지 마!",
+                "en": "I know you're upset, but don't take it out on me!",
+                "distractors": ["takes", "took", "taking"]
+            },
+            {
+                "ko": "그는 직장에서 받은 스트레스를 가족에게 화풀이하곤 해.",
+                "en": "He tends to take his work stress out on his family.",
+                "distractors": ["takes", "took", "taking"]
+            }
+        ]
+    },
+
+    {
+        "title": "📜 이야기를 꺼내다 (Bring Up)",
+        "type":"문장반복",
+        "date": "2026-10-08",
+        "questions": [
+            {
+                "ko": "네가 그 이야기를 꺼내줘서 정말 다행이야.",
+                "en": "I'm really glad you brought it up.",
+                "distractors": ["bring", "brings", "bringing"]
+            },
+            {
+                "ko": "내일 회의에서 그 문제를 꺼내는 게 좋겠어.",
+                "en": "We should bring up the issue at tomorrow's meeting.",
+                "distractors": ["brings", "brought", "bringing"]
+            },
+            {
+                "ko": "내가 어제 그 화제를 꺼냈을 때, 그는 놀랐어.",
+                "en": "When I brought it up yesterday, he was surprised.",
+                "distractors": ["bring", "brings", "bringing"]
+            },
+            {
+                "ko": "왜 갑자기 지금 그 얘기를 꺼내는 거야?",
+                "en": "Why are you bringing that up now, all of a sudden?",
+                "distractors": ["bring", "brings", "brought"]
+            },
+            {
+                "ko": "그가 먼저 그 얘기를 꺼낼 때까지 그냥 기다리자.",
+                "en": "Let's just wait until he brings it up first.",
+                "distractors": ["bring", "brought", "bringing"]
+            },
+            {
+                "ko": "나는 분위기를 망치고 싶지 않아서 그 이야기를 꺼내지 않았어.",
+                "en": "I didn't bring it up because I didn't want to ruin the mood.",
+                "distractors": ["brings", "brought", "bringing"]
+            },
+            {
+                "ko": "좋은 지적이야. 그 이야기를 꺼내줘서 고마워.",
+                "en": "Good point. Thanks for bringing it up.",
+                "distractors": ["bring", "brings", "brought"]
+            },
+            {
+                "ko": "다음 모임 때 이 안건을 다시 꼭 꺼내 줘.",
+                "en": "Make sure you bring this topic up again next time we get together.",
+                "distractors": ["brings", "brought", "bringing"]
+            },
+            {
+                "ko": "나는 우리 부모님한테 아직 그 얘기를 꺼내지 않았어.",
+                "en": "I haven't brought it up with my parents yet.",
+                "distractors": ["bring", "brings", "bringing"]
+            },
+            {
+                "ko": "굳이 과거의 실수를 다시 꺼낼 필요는 없잖아.",
+                "en": "There's really no need to bring up old mistakes again.",
+                "distractors": ["brings", "brought", "bringing"]
+            }
+        ]
+    },
+
+    {
+        "title": "📸 사진 촬영 & 공유",
+        "type":"기초회화",
+        "date": "2026-10-08",
+        "questions": [
+            {
+                "ko": "여기서 내 사진 한 장만 찍어줄래?",
+                "en": "Can you take a quick pic of me here?",
+                "distractors": ["takes", "took", "taking"]
+            },
+            {
+                "ko": "사진이 좀 흔들렸네. 다시 한 번 찍자.",
+                "en": "It came out kinda blurry. Let's take another one.",
+                "distractors": ["takes", "took", "taking"]
+            },
+            {
+                "ko": "발끝 맞춰서 전신이 다 나오게 찍어줘.",
+                "en": "Make sure you get all of me in, down to my feet.",
+                "distractors": ["Makes", "Made", "Making"]
+            },
+            {
+                "ko": "다 같이 모여봐! 우리 단체 셀카 찍자.",
+                "en": "Everybody get in here! Let's take a group selfie.",
+                "distractors": ["takes", "took", "taking"]
+            },
+            {
+                "ko": "하나 둘 셋 하면 찍을게. 하나, 둘, 셋!",
+                "en": "I'll take it on three. One, two, three!",
+                "distractors": ["takes", "took", "taking"]
+            },
+            {
+                "ko": "역광이라서 얼굴이 어둡게 나와. 자리를 바꾸자.",
+                "en": "The light's behind you, so your face is coming out dark. Let's move to a different spot.",
+                "distractors": ["moves", "moved", "moving"]
+            },
+            {
+                "ko": "나 이 사진 눈 감았어. 이거 말고 다른 거 올려.",
+                "en": "I blinked in this one. Post a different one.",
+                "distractors": ["blink", "blinks", "blinking"]
+            },
+            {
+                "ko": "오늘 찍은 사진들 단톡방에 앨범으로 다 올려줘.",
+                "en": "Share all the pics from today in the group chat as an album.",
+                "distractors": ["Shares", "Shared", "Sharing"]
+            },
+            {
+                "ko": "이 사진 진짜 잘 나왔다. 당장 프사로 바꿔야지.",
+                "en": "This one came out so good. I'm making it my profile pic right now.",
+                "distractors": ["come", "comes", "coming"]
+            },
+            {
+                "ko": "배경에 모르는 사람들이 너무 많이 찍혔어.",
+                "en": "There are way too many random people in the background.",
+                "distractors": ["is", "was", "were"]
+            }
+        ]
     }
 ]
