@@ -6603,5 +6603,121 @@
                 "distractors": ["is", "was", "were"]
             }
         ]
+    },
+
+    {
+        "title": "📜 ~라고 해도 과언이 아니야 (It's safe to say that)",
+        "type":"문장반복",
+        "date": "2026-10-13",
+        "questions": [
+            {
+                "ko": "이 프로젝트는 큰 성공이었다고 확실히 말할 수 있어.",
+                "en": "It's safe to say that this project was a huge success.",
+                "distractors": ["says", "said", "saying"]
+            },
+            {
+                "ko": "우리가 지금 길을 잃었다고 해도 과언이 아니야.",
+                "en": "It's safe to say that we are lost right now.",
+                "distractors": ["is", "was", "were"]
+            },
+            {
+                "ko": "그가 우리 팀에서 최고의 선수라고 해도 무방해.",
+                "en": "It's safe to say that he is the best player on our team.",
+                "distractors": ["are", "was", "were"]
+            },
+            {
+                "ko": "모두가 그 소식에 충격을 받았다고 확실히 말할 수 있어.",
+                "en": "It's safe to say that everyone was shocked by the news.",
+                "distractors": ["is", "are", "were"]
+            },
+            {
+                "ko": "이 식당이 우리 동네에서 최고라고 해도 과언이 아니야.",
+                "en": "It's safe to say that this restaurant is the best in our neighborhood.",
+                "distractors": ["are", "was", "were"]
+            },
+            {
+                "ko": "우리는 어제 정말 즐거운 시간을 보냈다고 확실히 말할 수 있어.",
+                "en": "It's safe to say that we had a really great time yesterday.",
+                "distractors": ["has", "have", "having"]
+            },
+            {
+                "ko": "그 영화는 꽤 실망스러웠다고 해도 무방해.",
+                "en": "It's safe to say that the movie was quite disappointing.",
+                "distractors": ["disappoint", "disappoints", "disappointed"]
+            },
+            {
+                "ko": "이번 시험이 올해 가장 어려웠다고 해도 과언이 아니야.",
+                "en": "It's safe to say that this test was the hardest of the year.",
+                "distractors": ["is", "are", "were"]
+            },
+            {
+                "ko": "우리가 드디어 해결책을 찾았다고 확실히 말할 수 있어.",
+                "en": "It's safe to say that we finally found a solution.",
+                "distractors": ["find", "finds", "finding"]
+            },
+            {
+                "ko": "올해는 우리에게 꽤 힘든 한 해였다고 해도 무방해.",
+                "en": "It's safe to say that this year was quite a tough year for us.",
+                "distractors": ["is", "are", "were"]
+            }
+        ]
+    },
+
+    {
+        "title": "🛵 배달 음식 & 야식 / 배달 앱 이용",
+        "type":"기초회화",
+        "date": "2026-10-13",
+        "questions": [
+            {
+                "ko": "배달 예상 시간이 50분이나 걸린다고 뜨네.",
+                "en": "The app says delivery will take 50 minutes.",
+                "distractors": ["takes", "took", "taking"]
+            },
+            {
+                "ko": "배달비가 너무 비싸서 그냥 직접 가서 포장해 올래.",
+                "en": "The delivery fee is too high, so I'll just pick it up.",
+                "distractors": ["picks", "picked", "picking"]
+            },
+            {
+                "ko": "최소 주문 금액을 맞추려고 사이드 메뉴를 하나 더 담았어.",
+                "en": "I added a side dish just to meet the delivery minimum.",
+                "distractors": ["meets", "met", "meeting"]
+            },
+            {
+                "ko": "리뷰 이벤트 참여한다고 요청사항에 적는 걸 깜빡했다.",
+                "en": "I forgot to put a note in the request box for the review event.",
+                "distractors": ["leaves", "left", "leaving"]
+            },
+            {
+                "ko": "음식은 문 앞에 두고 벨만 눌러달라고 적어뒀어.",
+                "en": "I asked them to leave the food at the door and ring the bell.",
+                "distractors": ["rings", "rang", "ringing"]
+            },
+            {
+                "ko": "예상 시간보다 음식이 훨씬 일찍 도착해서 다행이야.",
+                "en": "I'm glad the food arrived much earlier than expected.",
+                "distractors": ["arrive", "arrives", "arriving"]
+            },
+            {
+                "ko": "국물이 하나도 안 새고 포장이 엄청 깔끔하게 왔네.",
+                "en": "The food came really neatly packed, and the soup didn't leak at all.",
+                "distractors": ["spills", "spilled", "spilling"]
+            },
+            {
+                "ko": "일회용 수저랑 포크는 빼달라고 체크하는 걸 잊어버렸네.",
+                "en": "I forgot to check the box to opt out of plastic utensils.",
+                "distractors": ["checks", "checked", "checking"]
+            },
+            {
+                "ko": "남은 음식은 내일 아침에 전자레인지에 데워 먹어야겠다.",
+                "en": "I'll just heat up the leftovers in the microwave tomorrow morning.",
+                "distractors": ["heats", "heated", "heating"]
+            },
+            {
+                "ko": "다 먹고 나면 냄새 안 나게 배달 용기 한 번 헹궈서 버리자.",
+                "en": "Let's rinse the containers after we finish so they don't smell when we throw them out.",
+                "distractors": ["rinses", "rinsed", "rinsing"]
+            }
+        ]
     }
 ]
