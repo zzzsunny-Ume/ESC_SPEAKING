@@ -6719,5 +6719,121 @@
                 "distractors": ["rinses", "rinsed", "rinsing"]
             }
         ]
+    },
+
+    {
+        "title": "💬 구동사 Take 4",
+        "type":"구동사",
+        "date": "2026-10-15",
+        "questions": [
+            {
+                "ko": "비가 올지도 모르니까 우산을 챙겨가.",
+                "en": "You should take an umbrella along just in case.",
+                "distractors": ["takes", "took", "taking"]
+            },
+            {
+                "ko": "파티에 내 친구를 데리고 가도 돼?",
+                "en": "Can I take my friend along to the party?",
+                "distractors": ["takes", "took", "taking"]
+            },
+            {
+                "ko": "그의 갑작스럽고 무례한 질문에 깜짝 놀랐어.",
+                "en": "I was taken aback by his sudden rude question.",
+                "distractors": ["take", "takes", "taking"]
+            },
+            {
+                "ko": "그녀가 회사를 그만둔다는 소식에 정말 당황했어.",
+                "en": "I was really taken aback by the news that she was leaving.",
+                "distractors": ["take", "took", "taking"]
+            },
+            {
+                "ko": "저녁 사주신다는 그 제안, 기꺼이 받아들일게요!",
+                "en": "I'd love to take you up on that dinner offer!",
+                "distractors": ["takes", "took", "taking"]
+            },
+            {
+                "ko": "네가 원한다면 네 도움을 기꺼이 받을게.",
+                "en": "I'd love to take you up on your help.",
+                "distractors": ["takes", "took", "taking"]
+            },
+            {
+                "ko": "넌 날 바보로 아는 거야?",
+                "en": "Do you take me for a fool?",
+                "distractors": ["takes", "took", "taking"]
+            },
+            {
+                "ko": "멀리서 널 내 친구로 착각했어.",
+                "en": "I took you for my friend from a distance.",
+                "distractors": ["take", "takes", "taking"]
+            },
+            {
+                "ko": "내일 내가 시내를 구경시켜 줄게.",
+                "en": "I will take you around the city tomorrow.",
+                "distractors": ["takes", "took", "taking"]
+            },
+            {
+                "ko": "새 사무실을 구경시켜 주실 수 있나요?",
+                "en": "Can you take me around the new office?",
+                "distractors": ["takes", "took", "taking"]
+            }
+        ]
+    },
+
+    {
+        "title": "📜 내 취향이 아니야 (not my cup of tea)",
+        "type":"문장반복",
+        "date": "2026-10-15",
+        "questions": [
+            {
+                "ko": "이 노래는 내 취향이 아니야.",
+                "en": "This song is not my cup of tea.",
+                "distractors": ["are", "was", "were"]
+            },
+            {
+                "ko": "공포 영화는 내 취향이 아니야.",
+                "en": "Horror movies are not my cup of tea.",
+                "distractors": ["is", "was", "were"]
+            },
+            {
+                "ko": "솔직히 말해서 그건 내 취향이 아니야.",
+                "en": "To be honest, that is not my cup of tea.",
+                "distractors": ["are", "was", "were"]
+            },
+            {
+                "ko": "매운 음식은 내 취향이 아니야.",
+                "en": "Spicy food is not my cup of tea.",
+                "distractors": ["are", "was", "were"]
+            },
+            {
+                "ko": "골프를 치는 건 내 취향이 아니야.",
+                "en": "Playing golf is not my cup of tea.",
+                "distractors": ["play", "plays", "played"]
+            },
+            {
+                "ko": "미안하지만 이 식당은 내 취향이 아니야.",
+                "en": "I'm sorry, but this restaurant is not my cup of tea.",
+                "distractors": ["are", "was", "were"]
+            },
+            {
+                "ko": "하루 종일 쇼핑을 하는 건 내 취향이 아니야.",
+                "en": "Shopping all day is not my cup of tea.",
+                "distractors": ["shop", "shops", "shopped"]
+            },
+            {
+                "ko": "전투 게임은 내 취향이 아니야.",
+                "en": "Combat games are not my cup of tea.",
+                "distractors": ["is", "was", "were"]
+            },
+            {
+                "ko": "아침 일찍 일어나는 건 내 취향이 아니야.",
+                "en": "Waking up early is not my cup of tea.",
+                "distractors": ["wake", "wakes", "woke"]
+            },
+            {
+                "ko": "그의 농담들은 내 취향이 아니야.",
+                "en": "His jokes are not my cup of tea.",
+                "distractors": ["is", "was", "were"]
+            }
+        ]
     }
 ]
