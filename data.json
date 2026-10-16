@@ -6835,5 +6835,121 @@
                 "distractors": ["is", "was", "were"]
             }
         ]
+    },
+
+    {
+        "title": "📜 뛰어들다 (charge in)",
+        "type":"문장반복",
+        "date": "2026-10-16",
+        "questions": [
+            {
+                "ko": "너는 상황도 모르면서 다짜고짜 뛰어들면 안 돼.",
+                "en": "You shouldn't charge in without knowing the situation.",
+                "distractors": ["charges", "charged", "charging"]
+            },
+            {
+                "ko": "그가 문을 부수고 돌진했어.",
+                "en": "He broke the door and charged in.",
+                "distractors": ["charge", "charges", "charging"]
+            },
+            {
+                "ko": "앞뒤 안 가리고 덤비기 전에 잠깐만 생각해 보자.",
+                "en": "Let's take a second to think before we charge in recklessly.",
+                "distractors": ["charges", "charged", "charging"]
+            },
+            {
+                "ko": "경찰이 마침내 돌진했어.",
+                "en": "The police finally charged in.",
+                "distractors": ["charge", "charges", "charging"]
+            },
+            {
+                "ko": "나는 아무런 계획 없이 다짜고짜 뛰어들고 싶지 않아.",
+                "en": "I don't want to charge in without any plan.",
+                "distractors": ["charges", "charged", "charging"]
+            },
+            {
+                "ko": "그녀는 내 말을 듣지도 않고 다짜고짜 뛰어들었어.",
+                "en": "She didn't even listen to me and charged in.",
+                "distractors": ["charge", "charges", "charging"]
+            },
+            {
+                "ko": "무작정 돌진하는 대신에 상황을 먼저 지켜보자.",
+                "en": "Let's watch the situation first instead of just charging in.",
+                "distractors": ["charge", "charges", "charged"]
+            },
+            {
+                "ko": "그 팀은 준비도 안 된 상태로 다짜고짜 뛰어들었어.",
+                "en": "The team charged in without being ready.",
+                "distractors": ["charge", "charges", "charging"]
+            },
+            {
+                "ko": "영웅은 망설임 없이 돌진했어.",
+                "en": "The hero charged in without hesitation.",
+                "distractors": ["charge", "charges", "charging"]
+            },
+            {
+                "ko": "제발 혼자서 다짜고짜 뛰어들지 마.",
+                "en": "Please don't charge in alone.",
+                "distractors": ["charges", "charged", "charging"]
+            }
+        ]
+    },
+
+    {
+        "title": "🥕 중고 거래 (Second-hand Trading)",
+        "type":"기초회화",
+        "date": "2026-10-16",
+        "questions": [
+            {
+                "ko": "혹시 이 물건 아직 안 팔렸나요?",
+                "en": "Is this item still available for sale?",
+                "distractors": ["Are", "Was", "Were"]
+            },
+            {
+                "ko": "제가 직접 그쪽 동네로 갈 테니까 가격 좀 깎아주실 수 있나요?",
+                "en": "Can you lower the price if I come pick it up myself?",
+                "distractors": ["lowers", "lowered", "lowering"]
+            },
+            {
+                "ko": "사진으로는 잘 안 보이는데, 혹시 눈에 띄는 흠집이나 하자가 있나요?",
+                "en": "I can't really tell from the pictures, but are there any noticeable scratches or defects?",
+                "distractors": ["Is", "Was", "Were"]
+            },
+            {
+                "ko": "박스랑 영수증까지 다 있는 거의 새것 같은 제품이에요.",
+                "en": "It's in like-new condition and comes with the box and receipt.",
+                "distractors": ["come", "came", "coming"]
+            },
+            {
+                "ko": "내일 저녁 7시쯤에 지하철역 3번 출구 앞에서 뵙는 거 어떠세요?",
+                "en": "How about we meet in front of Exit 3 of the subway station around 7 PM tomorrow?",
+                "distractors": ["meets", "met", "meeting"]
+            },
+            {
+                "ko": "현금이 없어서 그런데, 물건 확인하고 바로 계좌 이체해 드려도 될까요?",
+                "en": "I don't have cash, so can I transfer the money to your account right after checking the item?",
+                "distractors": ["transfers", "transferred", "transferring"]
+            },
+            {
+                "ko": "생각보다 사용감이 좀 있어서 구매를 다시 생각해 봐야 할 것 같아요.",
+                "en": "It looks a bit more used than I expected, so I think I'll need to reconsider buying it.",
+                "distractors": ["look", "looked", "looking"]
+            },
+            {
+                "ko": "중고 거래 특성상 구매 후 환불이나 교환은 불가능합니다.",
+                "en": "Due to the nature of second-hand trades, refunds or exchanges are not possible after purchase.",
+                "distractors": ["is", "was", "be"]
+            },
+            {
+                "ko": "사이즈가 저한테 안 맞아서 산 가격 그대로 다시 내놓습니다.",
+                "en": "The size doesn't fit me, so I'm selling it for the same price I paid.",
+                "distractors": ["fits", "fitted", "fitting"]
+            },
+            {
+                "ko": "제가 지금 출발했는데 차가 좀 막혀서 5분 정도 늦을 것 같습니다.",
+                "en": "I just left, but traffic is a bit heavy, so I might be about 5 minutes late.",
+                "distractors": ["lately", "later", "latest"]
+            }
+        ]
     }
 ]
