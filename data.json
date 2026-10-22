@@ -6951,5 +6951,121 @@
                 "distractors": ["lately", "later", "latest"]
             }
         ]
+    },
+
+    {
+        "title": "📜 ~을 희생하면서 (at the expense of)",
+        "type":"문장반복",
+        "date": "2026-10-22",
+        "questions": [
+            {
+                "ko": "그는 그의 건강을 희생하면서 성공했다.",
+                "en": "He succeeded at the expense of his health.",
+                "distractors": ["succeeds", "succeed", "succeeding"]
+            },
+            {
+                "ko": "우리는 품질을 희생하면서 속도를 높이고 싶지 않아.",
+                "en": "We don't want to increase speed at the expense of quality.",
+                "distractors": ["increases", "increased", "increasing"]
+            },
+            {
+                "ko": "그녀는 수면을 희생하면서 공부했어.",
+                "en": "She studied at the expense of sleep.",
+                "distractors": ["study", "studies", "studying"]
+            },
+            {
+                "ko": "안전을 희생하면서 돈을 절약하지 마.",
+                "en": "Don't save money at the expense of safety.",
+                "distractors": ["saves", "saved", "saving"]
+            },
+            {
+                "ko": "그 회사는 그 직원들을 희생하면서 성장했어.",
+                "en": "The company grew at the expense of those employees.",
+                "distractors": ["grow", "grows", "growing"]
+            },
+            {
+                "ko": "디자인을 희생하면서 편안함을 선택하자.",
+                "en": "Let's choose comfort at the expense of design.",
+                "distractors": ["chooses", "chose", "choosing"]
+            },
+            {
+                "ko": "가족과의 시간을 희생하면서 일하지 마.",
+                "en": "Don't work at the expense of family time.",
+                "distractors": ["works", "worked", "working"]
+            },
+            {
+                "ko": "나는 내 행복을 희생하면서 그를 돕고 싶지 않아.",
+                "en": "I don't want to help him at the expense of my happiness.",
+                "distractors": ["helps", "helped", "helping"]
+            },
+            {
+                "ko": "환경을 희생하면서 경제를 발전시키지 말자.",
+                "en": "Let's not develop the economy at the expense of the environment.",
+                "distractors": ["develops", "developed", "developing"]
+            },
+            {
+                "ko": "그는 우정을 희생하면서 돈을 벌었어.",
+                "en": "He made money at the expense of friendship.",
+                "distractors": ["make", "makes", "making"]
+            }
+        ]
+    },
+
+    {
+        "title": "🧹 집안일 & 청소 (Household Chores & Cleaning)",
+        "type":"기초회화",
+        "date": "2026-10-22",
+        "questions": [
+            {
+                "ko": "밀린 빨래를 주말에 한꺼번에 다 돌려야 해.",
+                "en": "I need to do all the piled-up laundry at once this weekend.",
+                "distractors": ["does", "did", "doing"]
+            },
+            {
+                "ko": "청소기 다 돌리고 나서 바닥 물걸레질도 부탁해.",
+                "en": "Please also mop the floor after you finish vacuuming.",
+                "distractors": ["mops", "mopped", "mopping"]
+            },
+            {
+                "ko": "세탁기 다 돌아갔으니까 빨래 좀 건조대에 널어줘.",
+                "en": "The washing machine is done, so please hang the laundry on the drying rack.",
+                "distractors": ["hangs", "hung", "hanging"]
+            },
+            {
+                "ko": "환기 좀 시키게 집 안 창문들을 다 활짝 열어놔.",
+                "en": "Leave all the windows wide open to air out the house.",
+                "distractors": ["Leaves", "Left", "Leaving"]
+            },
+            {
+                "ko": "화장실 세면대 물이 잘 안 내려가서 뚫어야겠어.",
+                "en": "The bathroom sink is clogged, so I need to unclog it.",
+                "distractors": ["unclogs", "unclogged", "unclogging"]
+            },
+            {
+                "ko": "설거지하기 귀찮으니까 그냥 다 식기세척기에 넣자.",
+                "en": "I'm too lazy to wash the dishes, so let's just put everything in the dishwasher.",
+                "distractors": ["uses", "used", "using"]
+            },
+            {
+                "ko": "분리수거하는 김에 음식물 쓰레기도 같이 버리고 올게.",
+                "en": "Since I'm already going out to recycle, I'll take out the food waste too.",
+                "distractors": ["takes", "took", "taking"]
+            },
+            {
+                "ko": "냉장고에 유통기한 지난 음식들 싹 다 버리고 정리했어.",
+                "en": "I threw out all the expired food and organized the fridge.",
+                "distractors": ["throw", "throws", "throwing"]
+            },
+            {
+                "ko": "옷장 정리하면서 안 입는 옷들은 수거함에 다 넣었어.",
+                "en": "While organizing the closet, I put all the clothes I don't wear in the collection bin.",
+                "distractors": ["puts", "putting", "putted"]
+            },
+            {
+                "ko": "집안일은 해도 해도 끝이 없고 티도 안 나서 지쳐.",
+                "en": "No matter how much I do, chores are endless and go unnoticed, so I'm exhausted.",
+                "distractors": ["goes", "went", "going"]
+            }
+        ]
     }
 ]
