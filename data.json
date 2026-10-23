@@ -7067,5 +7067,121 @@
                 "distractors": ["goes", "went", "going"]
             }
         ]
+    },
+
+    {
+        "title": "🛒 마트 장보기 (Grocery Shopping)",
+        "type":"기초회화",
+        "date": "2026-10-23",
+        "questions": [
+            {
+                "ko": "카트 끌고 올 테니까 먼저 채소 코너에 가 있어.",
+                "en": "I'll grab a cart, so head to the produce section first.",
+                "distractors": ["grabs", "grabbed", "grabbing"]
+            },
+            {
+                "ko": "우유 유통기한이 제일 긴 걸로 안쪽에서 꺼내줘.",
+                "en": "Grab the one from the back with the longest expiration date.",
+                "distractors": ["Grabs", "Grabbed", "Grabbing"]
+            },
+            {
+                "ko": "이거 하나 사면 하나 더 주는 원플러스원 행사 상품이야.",
+                "en": "This item is on a buy-one-get-one-free sale.",
+                "distractors": ["are", "was", "were"]
+            },
+            {
+                "ko": "집에 계란이 다 떨어졌으니까 한 판 사 가는 게 낫겠지?",
+                "en": "We're out of eggs at home, so we should buy a carton, right?",
+                "distractors": ["buys", "bought", "buying"]
+            },
+            {
+                "ko": "깜빡하고 장바구니를 안 가져와서 비닐봉지를 사야 해.",
+                "en": "I forgot to bring my reusable bag, so I have to buy a plastic bag.",
+                "distractors": ["forget", "forgets", "forgetting"]
+            },
+            {
+                "ko": "저쪽에서 만두 시식 행사하고 있으니까 한입 먹어보고 사자.",
+                "en": "They're giving out dumpling samples over there, let's try some before buying.",
+                "distractors": ["tries", "tried", "trying"]
+            },
+            {
+                "ko": "충동구매 하지 말고 딱 메모해 온 것만 사서 가자.",
+                "en": "Let's avoid impulse buying and stick to only what's on the list.",
+                "distractors": ["avoids", "avoided", "avoiding"]
+            },
+            {
+                "ko": "무거운 생수랑 수박은 제일 마지막에 카트에 담자.",
+                "en": "Let's put the heavy water and watermelon in the cart at the very end.",
+                "distractors": ["puts", "putting", "putted"]
+            },
+            {
+                "ko": "셀프 계산대에 줄이 없으니까 저기서 얼른 계산하고 나가자.",
+                "en": "There's no line at the self-checkout, so let's pay there quickly and head out.",
+                "distractors": ["pays", "paid", "paying"]
+            },
+            {
+                "ko": "영수증은 버려주시고 주차 등록만 한 시간 해주세요.",
+                "en": "Please throw away the receipt and give me parking validation for one hour.",
+                "distractors": ["throws", "threw", "throwing"]
+            }
+        ]
+    },
+
+    {
+        "title": "📜 그냥 ~하면 안 돼? (Why wouldn't you just ~?)",
+        "type":"문장반복",
+        "date": "2026-10-23",
+        "questions": [
+            {
+                "ko": "그냥 그에게 물어보면 안 돼?",
+                "en": "Why wouldn't you just ask him?",
+                "distractors": ["asks", "asked", "asking"]
+            },
+            {
+                "ko": "그냥 새 것을 사면 안 돼?",
+                "en": "Why wouldn't you just buy a new one?",
+                "distractors": ["buys", "bought", "buying"]
+            },
+            {
+                "ko": "그냥 택시를 타면 안 돼?",
+                "en": "Why wouldn't you just take a taxi?",
+                "distractors": ["takes", "took", "taking"]
+            },
+            {
+                "ko": "그냥 거절하면 안 돼?",
+                "en": "Why wouldn't you just say no?",
+                "distractors": ["says", "said", "saying"]
+            },
+            {
+                "ko": "그냥 그것을 무시하면 안 돼?",
+                "en": "Why wouldn't you just ignore it?",
+                "distractors": ["ignores", "ignored", "ignoring"]
+            },
+            {
+                "ko": "그냥 나에게 전화하면 안 돼?",
+                "en": "Why wouldn't you just call me?",
+                "distractors": ["calls", "called", "calling"]
+            },
+            {
+                "ko": "그냥 집에 머무르면 안 돼?",
+                "en": "Why wouldn't you just stay home?",
+                "distractors": ["stays", "stayed", "staying"]
+            },
+            {
+                "ko": "그냥 이메일을 보내면 안 돼?",
+                "en": "Why wouldn't you just send an email?",
+                "distractors": ["sends", "sent", "sending"]
+            },
+            {
+                "ko": "그냥 내일 그것을 하면 안 돼?",
+                "en": "Why wouldn't you just do it tomorrow?",
+                "distractors": ["does", "did", "doing"]
+            },
+            {
+                "ko": "그냥 사과하면 안 돼?",
+                "en": "Why wouldn't you just apologize?",
+                "distractors": ["apologizes", "apologized", "apologizing"]
+            }
+        ]
     }
 ]
