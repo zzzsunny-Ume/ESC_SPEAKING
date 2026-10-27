@@ -7183,5 +7183,121 @@
                 "distractors": ["apologizes", "apologized", "apologizing"]
             }
         ]
+    },
+
+    {
+        "title": "📜 ~라고 짐작해 / 생각할게 (I'm assuming)",
+        "type":"문장반복",
+        "date": "2026-10-27",
+        "questions": [
+            {
+                "ko": "새로운 일정에 관해 네가 이미 안다고 생각해.",
+                "en": "I'm assuming you already know about the new schedule.",
+                "distractors": ["knows", "knew", "knowing"]
+            },
+            {
+                "ko": "오늘 밤에 우리와 함께하기에는 너무 바쁘다고 생각할게.",
+                "en": "I'm assuming you are too busy to join us tonight.",
+                "distractors": ["is", "am", "be"]
+            },
+            {
+                "ko": "폭우 때문에 회의가 취소됐다고 짐작해.",
+                "en": "I'm assuming the meeting was canceled because of the heavy rain.",
+                "distractors": ["are", "were", "be"]
+            },
+            {
+                "ko": "그 프로젝트에 관한 모든 게 잘 진행되고 있다고 생각할게.",
+                "en": "I'm assuming everything is going well with the project.",
+                "distractors": ["are", "am", "be"]
+            },
+            {
+                "ko": "내일 파티에 안 온다고 짐작해.",
+                "en": "I'm assuming you are not coming to the party tomorrow.",
+                "distractors": ["is", "am", "be"]
+            },
+            {
+                "ko": "네 책상 위에 있었으니까 이게 네 거라고 생각할게.",
+                "en": "I'm assuming this is yours since it was on your desk.",
+                "distractors": ["are", "was", "be"]
+            },
+            {
+                "ko": "이 업무에 있어서 우리가 같은 팀이라고 짐작해.",
+                "en": "I'm assuming we are on the same team for this task.",
+                "distractors": ["is", "am", "be"]
+            },
+            {
+                "ko": "연휴라서 그 식당이 문을 닫았다고 생각할게.",
+                "en": "I'm assuming the restaurant was closed for the holiday.",
+                "distractors": ["are", "is", "be"]
+            },
+            {
+                "ko": "회사를 그만둔다는 것에 관해 농담하는 거라고 짐작해.",
+                "en": "I'm assuming you are joking about quitting the company.",
+                "distractors": ["is", "am", "be"]
+            },
+            {
+                "ko": "모두가 어제 내가 보낸 이메일을 받았다고 생각할게.",
+                "en": "I'm assuming everyone received the email I sent yesterday.",
+                "distractors": ["receive", "receives", "receiving"]
+            }
+        ]
+    },
+
+    {
+        "title": "⛽ 주유소 & 세차 (Gas Station & Car Wash)",
+        "type":"기초회화",
+        "date": "2026-10-27",
+        "questions": [
+            {
+                "ko": "휘발유 가득 채워주세요. 영수증도 같이 부탁드려요.",
+                "en": "Fill it up, please. And I need a receipt, too.",
+                "distractors": ["Fills", "Filled", "Filling"]
+            },
+            {
+                "ko": "여긴 셀프 주유소니까 내가 직접 기름을 넣어야 해.",
+                "en": "This is a self-serve gas station, so I have to pump the gas myself.",
+                "distractors": ["pumps", "pumped", "pumping"]
+            },
+            {
+                "ko": "기름 불이 들어왔네. 주유소 보이면 바로 들어가자.",
+                "en": "The gas light came on. Let's pull into the next gas station we see right away.",
+                "distractors": ["pulls", "pulled", "pulling"]
+            },
+            {
+                "ko": "여기서 주유하면 기계식 자동 세차 할인 쿠폰을 받을 수 있어.",
+                "en": "You can get a discount coupon for the automatic car wash when you fill up here.",
+                "distractors": ["gets", "got", "getting"]
+            },
+            {
+                "ko": "세차 기계 안으로 들어갈 때는 반드시 기어를 중립에 둬야 해.",
+                "en": "You must put the car in neutral when entering the car wash machine.",
+                "distractors": ["puts", "putted", "putting"]
+            },
+            {
+                "ko": "창문 꽉 닫아! 이제 세차 기계가 작동하기 시작할 거야.",
+                "en": "Keep the windows rolled up tightly! The car wash is about to start.",
+                "distractors": ["Keeps", "Kept", "Keeping"]
+            },
+            {
+                "ko": "차 안이 너무 지저분한데 진공청소기로 먼지 좀 빨아들이자.",
+                "en": "The inside of the car is so messy, let's vacuum up the dust a little.",
+                "distractors": ["vacuums", "vacuumed", "vacuuming"]
+            },
+            {
+                "ko": "기름 넣는 김에 워셔액도 한 통 사서 꽉 채워 넣어야겠다.",
+                "en": "I should buy a bottle of windshield washer fluid and refill it while getting gas.",
+                "distractors": ["refills", "refilled", "refilling"]
+            },
+            {
+                "ko": "타이어 공기압이 좀 낮은 것 같은데 여기서 바람 좀 넣고 갈까?",
+                "en": "The tire pressure seems a bit low, should we stop and put some air in here?",
+                "distractors": ["seem", "seemed", "seeming"]
+            },
+            {
+                "ko": "요즘 먼지가 많아서 세차해 봤자 며칠 지나면 또 금방 더러워져.",
+                "en": "There's so much dust lately, so there's no point in washing the car. It'll just get dirty again in a few days.",
+                "distractors": ["gets", "got", "getting"]
+            }
+        ]
     }
 ]
