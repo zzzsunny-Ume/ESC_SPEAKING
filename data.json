@@ -7299,5 +7299,179 @@
                 "distractors": ["gets", "got", "getting"]
             }
         ]
+    },
+
+    {
+        "title": "📜 원래 ~하면 안 돼 / ~할 예정이 아니야 (isn't supposed to)",
+        "type":"기초회화",
+        "date": "2026-10-29",
+        "questions": [
+            {
+                "ko": "원래 이게 이렇게까지 어려우면 안 돼.",
+                "en": "This isn't supposed to be this difficult.",
+                "distractors": ["am", "are", "being"]
+            },
+            {
+                "ko": "회의 중에는 휴대폰을 사용하면 안 돼.",
+                "en": "You aren't supposed to use your phone during the meeting.",
+                "distractors": ["uses", "used", "using"]
+            },
+            {
+                "ko": "원래 오후 6시 전에는 사무실을 떠나면 안 돼.",
+                "en": "You aren't supposed to leave the office before 6 PM.",
+                "distractors": ["leaves", "left", "leaving"]
+            },
+            {
+                "ko": "내일 아침까지 비가 올 예정이 아니야.",
+                "en": "It isn't supposed to rain until tomorrow morning.",
+                "distractors": ["rains", "rained", "raining"]
+            },
+            {
+                "ko": "이 문은 평소에 잠겨 있으면 안 돼.",
+                "en": "This door isn't supposed to be locked normally.",
+                "distractors": ["am", "are", "being"]
+            },
+            {
+                "ko": "그녀는 그 깜짝 파티에 관해 아직 알면 안 돼.",
+                "en": "She isn't supposed to know about the surprise party yet.",
+                "distractors": ["knows", "knew", "knowing"]
+            },
+            {
+                "ko": "이 앱이 배경에서 계속 실행되면 안 돼.",
+                "en": "This app isn't supposed to keep running in the background.",
+                "distractors": ["keeps", "kept", "keeping"]
+            },
+            {
+                "ko": "시스템이 경고 메시지 없이 재시작하면 안 돼.",
+                "en": "The system isn't supposed to restart without a warning message.",
+                "distractors": ["restarts", "restarted", "restarting"]
+            },
+            {
+                "ko": "회의가 한 시간 이상 길어지면 안 돼.",
+                "en": "The meeting isn't supposed to last longer than an hour.",
+                "distractors": ["lasts", "lasted", "lasting"]
+            },
+            {
+                "ko": "그 기차가 이렇게 늦게 도착할 예정이 아니야.",
+                "en": "The train isn't supposed to arrive this late.",
+                "distractors": ["arrives", "arrived", "arriving"]
+            }
+        ]
+    },
+
+    {
+        "title": "🚌 태권도 스쿨버스 하원 (Taekwondo School Bus Drop-off)",
+        "type":"롤플레잉",
+        "date": "2026-10-29",
+        "questions": [
+            {
+                "ko": "오늘도 수련하느라 고생 많았다, 차례대로 줄 서서 타렴.",
+                "en": "You worked hard training today, so line up and get on in order.",
+                "distractors": ["gets", "got", "getting"]
+            },
+            {
+                "ko": "자리에 앉으면 안전벨트부터 딸깍 소리 나게 맸는지 확인해라.",
+                "en": "Once you sit down, check that you buckled your seatbelt so it clicks.",
+                "distractors": ["sits", "sat", "sitting"]
+            },
+            {
+                "ko": "오늘은 비가 와서 길이 미끄러우니까 조심조심 천천히 달릴 거란다.",
+                "en": "The roads are slippery from the rain today, so I'll drive slowly and carefully.",
+                "distractors": ["drives", "drove", "driving"]
+            },
+            {
+                "ko": "민우야, 다음 정류장이 너희 아파트니까 내릴 준비 슬슬 해.",
+                "en": "Minwoo, your apartment is the next stop, so get ready to get off soon.",
+                "distractors": ["gets", "got", "getting"]
+            },
+            {
+                "ko": "차가 완전히 멈출 때까지 자리에서 절대 일어나면 안 된다.",
+                "en": "Never get up from your seat until the bus comes to a complete stop.",
+                "distractors": ["come", "came", "coming"]
+            },
+            {
+                "ko": "문 열릴 때 뒤에서 오토바이 오는지 양옆 잘 살피고 내려.",
+                "en": "When the door opens, look both ways and check for scooters coming from behind before you get off.",
+                "distractors": ["open", "opened", "opening"]
+            },
+            {
+                "ko": "집에 들어가면 방 불 두 번 껐다 켜서 무사히 들어갔다고 신호 줘.",
+                "en": "When you arrive home, flip your room lights on and off twice to signal that you got inside safely.",
+                "distractors": ["get", "gets", "getting"]
+            },
+            {
+                "ko": "창밖으로 깜빡거리는 불빛 두 번 봤으니까, 아저씨는 이제 출발한다!",
+                "en": "I saw your light blink twice from the window, so I'm heading out now!",
+                "distractors": ["see", "sees", "seeing"]
+            },
+            {
+                "ko": "도복 가방 버스에 두고 내리지 말고 꼭 잘 챙겨가라.",
+                "en": "Don't leave your uniform bag on the bus, and be sure to take it with you.",
+                "distractors": ["leaves", "left", "leaving"]
+            },
+            {
+                "ko": "푹 쉬고 우리는 다음 주 월요일 태권도 수업 때 또 보자!",
+                "en": "Get some rest, and I'll see you again at next Monday's Taekwondo class!",
+                "distractors": ["sees", "saw", "seeing"]
+            }
+        ]
+    },
+
+    {
+        "title": "🕵️‍♀️ 남사친에게 짝사랑남 여친 유무 떠보기 (Asking a Guy Friend to Check on a Crush)",
+        "type":"롤플레잉",
+        "date": "2026-10-29",
+        "questions": [
+            {
+                "ko": "너 혹시 걔랑 요즘도 따로 연락 자주 하고 지내?",
+                "en": "Do you still keep in touch with him a lot these days?",
+                "distractors": ["keeps", "kept", "keeping"]
+            },
+            {
+                "ko": "걔 요새 만나는 사람 있는지 은근슬쩍 자연스럽게 좀 알아봐 줘.",
+                "en": "Can you casually find out if he's seeing someone lately?",
+                "distractors": ["finds", "found", "finding"]
+            },
+            {
+                "ko": "내가 물어봤다는 티는 진짜 죽어도 절대 내면 안 돼!",
+                "en": "You must never let on that I was the one asking, no matter what!",
+                "distractors": ["let", "lets", "letting"]
+            },
+            {
+                "ko": "그냥 주말에 뭐 하고 노냐고 물어보면서 슬쩍 여친 얘기 띄워봐.",
+                "en": "Just ask what he does on weekends and slip in a question about a girlfriend.",
+                "distractors": ["asks", "asked", "asking"]
+            },
+            {
+                "ko": "괜히 너무 대놓고 캐물어서 눈치채게 만들지 말고 센스 있게 해라.",
+                "en": "Don't pry too directly so he gets suspicious, keep it smooth.",
+                "distractors": ["get", "got", "getting"]
+            },
+            {
+                "ko": "걔 프사에 아무것도 안 떠서 지금 솔로인지 너무 헷갈린단 말이야.",
+                "en": "Nothing is on his profile, so I can't tell if he's single right now.",
+                "distractors": ["tells", "told", "telling"]
+            },
+            {
+                "ko": "여친 없다고 하면 나 진짜 이번 주말에 약속 잡고 고백할까 봐.",
+                "en": "If he has no girlfriend, I might just ask him out and confess this weekend.",
+                "distractors": ["have", "had", "having"]
+            },
+            {
+                "ko": "대신 쓸데없는 장난쳐서 나 난처하게 만들면 가만 안 둘 줄 알아.",
+                "en": "If you play dumb pranks and put me on the spot, you'll regret it.",
+                "distractors": ["plays", "played", "playing"]
+            },
+            {
+                "ko": "걔한테 답장 오거나 알아낸 거 있으면 1초 만에 바로 보고해 줘.",
+                "en": "Text me the second he replies or you find anything out.",
+                "distractors": ["reply", "replied", "replying"]
+            },
+            {
+                "ko": "너만 믿는다! 이 일 제대로 성공하면 내가 맛있는 밥 크게 쏠게.",
+                "en": "I'm counting on you! I'll treat you to a huge meal if this works out.",
+                "distractors": ["work", "worked", "working"]
+            }
+        ]
     }
 ]
