@@ -7473,5 +7473,179 @@
                 "distractors": ["work", "worked", "working"]
             }
         ]
+    },
+
+    {
+        "title": "🥕 당근하다 전연인 만난 썰 (Bumping into an Ex during a Second-hand Trade)",
+        "type":"롤플레잉",
+        "date": "2026-10-30",
+        "questions": [
+            {
+                "ko": "거래 장소에 패딩 모자 푹 눌러쓰고 나갔는데 실루엣이 너무 낯익은 거야.",
+                "en": "I went to the meetup spot with my puffer hood pulled low, but the silhouette looked so familiar.",
+                "distractors": ["look", "looks", "looking"]
+            },
+            {
+                "ko": "설마설마했는데 고개 들자마자 눈 마주치고 둘 다 얼어붙었어.",
+                "en": "I kept hoping it wasn't them, but we both froze the moment I looked up and our eyes met.",
+                "distractors": ["freeze", "freezes", "freezing"]
+            },
+            {
+                "ko": "헤어진 지가 몇 년인데 하필 중고 거래로 여기서 이렇게 볼 줄이야.",
+                "en": "We broke up years ago, and of all things, I never expected to see you here over a used deal.",
+                "distractors": ["break", "breaks", "breaking"]
+            },
+            {
+                "ko": "닉네임이 '행복한 고양이'였는데 그게 너였냐고 헛웃음 나오더라.",
+                "en": "I couldn't help but let out a dry laugh when I realized \"Happy Cat\" was you.",
+                "distractors": ["lets", "letted", "letting"]
+            },
+            {
+                "ko": "안부 묻기도 너무 어색해서 그냥 물건 상태만 후딱 확인했어.",
+                "en": "It was so awkward asking how things were, so I just checked the item quickly.",
+                "distractors": ["check", "checks", "checking"]
+            },
+            {
+                "ko": "계좌 이체해 주는데 손이 살짝 떨려서 계좌번호 두 번이나 확인했잖아.",
+                "en": "My hands were shaking a little while transferring the money, so I checked the account number twice.",
+                "distractors": ["is", "was", "be"]
+            },
+            {
+                "ko": "물건 건네받고는 잘 지내라는 뻔한 인사도 간신히 쥐어짜 냈어.",
+                "en": "Taking the item, I could barely squeeze out a generic \"take care.\"",
+                "distractors": ["squeezes", "squeezed", "squeezing"]
+            },
+            {
+                "ko": "뒤돌아서 걸어가는데 뒤통수가 따가워서 뒤도 안 돌아보고 경보로 걸었어.",
+                "en": "I felt eyes on the back of my head, so I power-walked away without looking back.",
+                "distractors": ["feel", "feels", "feeling"]
+            },
+            {
+                "ko": "집에 와서 친구한테 방금 일어난 미친 일 좀 들어보라고 바로 전화 걸었지.",
+                "en": "I called my friend the second I got home to spill the crazy thing that just happened.",
+                "distractors": ["call", "calls", "calling"]
+            },
+            {
+                "ko": "앞으로는 직거래 나갈 때 닉네임이랑 프사부터 무조건 다시 확인하려고.",
+                "en": "From now on, I'm always checking the nickname and profile picture again before any in-person trade.",
+                "distractors": ["check", "checks", "checked"]
+            }
+        ]
+    },
+
+    {
+        "title": "💬 팀장님 뒷담화 카톡 실수 (Accidentally Sending Boss Gossip to the Team Chat)",
+        "type":"롤플레잉",
+        "date": "2026-10-30",
+        "questions": [
+            {
+                "ko": "팀장님 욕 적힌 카톡을 보내자마자 방 이름을 보고 눈앞이 캄캄해졌어.",
+                "en": "Right after sending the text bashing my boss, I saw the chat room name and my mind went blank.",
+                "distractors": ["freeze", "freezes", "freezing"]
+            },
+            {
+                "ko": "1초 만에 심장 내려앉으면서 부들거리는 손으로 '모든 대화 상대에게 삭제'를 찾았지.",
+                "en": "My heart sank in a second, and my shaking hands frantically searched for \"Delete for everyone.\"",
+                "distractors": ["search", "searches", "searching"]
+            },
+            {
+                "ko": "제발 아무도 보지 마라 속으로 빌면서 제한 시간 5분 안에 간신히 지웠어.",
+                "en": "Silently praying that nobody would see it, I barely wiped it out within the five-minute limit.",
+                "distractors": ["wipe", "wipes", "wiping"]
+            },
+            {
+                "ko": "다행히 지우긴 했는데 '삭제된 메시지입니다' 알림이 너무 크게 박혀버렸네.",
+                "en": "I managed to delete it, but a huge \"This message was deleted\" notice is now stuck there.",
+                "distractors": ["stare", "stares", "stared"]
+            },
+            {
+                "ko": "팀원 한 명이 뭐 보냈냐고 톡방에 물어봐서 등줄기에 땀이 쫙 흘렀어.",
+                "en": "A teammate asked in the group chat what I had sent, and cold sweat ran down my spine.",
+                "distractors": ["run", "runs", "running"]
+            },
+            {
+                "ko": "그냥 친구한테 보낼 유튜브 웃긴 영상 링크 잘못 올린 척 능청스럽게 둘러댔지.",
+                "en": "I played it off with a straight face, saying I had accidentally posted a funny YouTube clip meant for a friend.",
+                "distractors": ["play", "plays", "playing"]
+            },
+            {
+                "ko": "1이 지워진 게 설마 팀장님이 먼저 읽어버린 건 아닐까 온갖 상상이 다 들어.",
+                "en": "Now that the unread \"1\" is gone, my mind is spiraling, wondering if my boss might have seen it first.",
+                "distractors": ["see", "saw", "seeing"]
+            },
+            {
+                "ko": "하루 종일 팀장님 눈치 보느라 자리에서 키보드 소리도 제대로 못 내고 있어.",
+                "en": "I'm on edge around my boss all day, barely daring to make a sound typing at my desk.",
+                "distractors": ["makes", "made", "making"]
+            },
+            {
+                "ko": "오늘 일 겪고 나서는 사내 메신저랑 단톡방 배경화면부터 새빨갛게 바꿔버렸잖아.",
+                "en": "After this whole ordeal, the first thing I did was turn my work chat background bright red.",
+                "distractors": ["turn", "turns", "turning"]
+            },
+            {
+                "ko": "퇴근길에도 계속 머릿속에 맴돌아서 다음 주 월요일 출근하기가 벌써 무서워.",
+                "en": "It keeps haunting me even on my way home, and I'm already dreading going to work next Monday.",
+                "distractors": ["dread", "dreads", "dreaded"]
+            }
+        ]
+    },
+
+    {
+        "title": "❓ 혹시라도 ~하면 (If you ever)",
+        "type":"문장반복",
+        "date": "2026-10-30",
+        "questions": [
+            {
+                "ko": "혹시라도 내 도움이 필요하면, 언제든 나에게 전화해.",
+                "en": "If you ever need my help, call me anytime.",
+                "distractors": ["needs", "needed", "needing"]
+            },
+            {
+                "ko": "혹시라도 마음이 바뀌면, 나에게 계속 알려줘. (앞에서 배운 keep me posted 응용!)",
+                "en": "If you ever change your mind, keep me posted.",
+                "distractors": ["changes", "changed", "changing"]
+            },
+            {
+                "ko": "혹시라도 서울에 오면, 꼭 같이 저녁을 먹자.",
+                "en": "If you ever come to Seoul, let's definitely eat dinner together.",
+                "distractors": ["comes", "came", "coming"]
+            },
+            {
+                "ko": "혹시라도 이 프로젝트에 관해 질문들이 있으면, 자유롭게 물어봐.",
+                "en": "If you ever have questions about this project, feel free to ask.",
+                "distractors": ["has", "had", "having"]
+            },
+            {
+                "ko": "혹시라도 길을 잃으면, 당황하지 말고 나에게 전화해.",
+                "en": "If you ever get lost, don't panic and call me.",
+                "distractors": ["gets", "got", "getting"]
+            },
+            {
+                "ko": "혹시라도 그를 다시 마주치면, 나를 위해 안부를 전해줘.",
+                "en": "If you ever run into him again, say hello for me.",
+                "distractors": ["runs", "ran", "running"]
+            },
+            {
+                "ko": "혹시라도 자유 시간이 생기면, 이 팟캐스트를 들어봐.",
+                "en": "If you ever get free time, listen to this podcast.",
+                "distractors": ["listens", "listened", "listening"]
+            },
+            {
+                "ko": "혹시라도 혼자 일하고 싶으면, 그냥 나에게 말해.",
+                "en": "If you ever want to work alone, just tell me.",
+                "distractors": ["wants", "wanted", "wanting"]
+            },
+            {
+                "ko": "혹시라도 비밀번호를 잊어버리면, 이 재설정 링크를 클릭해.",
+                "en": "If you ever forget the password, click this reset link.",
+                "distractors": ["forgets", "forgot", "forgetting"]
+            },
+            {
+                "ko": "혹시라도 부산에 가면, 그 해산물 식당을 시도해 봐.",
+                "en": "If you ever go to Busan, check out that seafood restaurant.",
+                "distractors": ["goes", "went", "going"]
+            }
+        ]
     }
 ]
