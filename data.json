@@ -7647,5 +7647,179 @@
                 "distractors": ["goes", "went", "going"]
             }
         ]
+    },
+
+    {
+        "title": "📜 할 수 있으면 좋겠지만 (I wish I could, but)",
+        "type":"문장반복",
+        "date": "2026-11-03",
+        "questions": [
+            {
+                "ko": "할 수 있으면 좋겠지만, 오늘 밤에 회의가 있어.",
+                "en": "I wish I could, but I have a meeting tonight.",
+                "distractors": ["has", "had", "having"]
+            },
+            {
+                "ko": "할 수 있으면 좋겠지만, 내일까지 이 보고서를 끝내야 해.",
+                "en": "I wish I could, but I need to finish this report by tomorrow.",
+                "distractors": ["needs", "needed", "needing"]
+            },
+            {
+                "ko": "할 수 있으면 좋겠지만, 이번 주말에 가족이 방문해.",
+                "en": "I wish I could, but my family is visiting this weekend.",
+                "distractors": ["are", "am", "be"]
+            },
+            {
+                "ko": "할 수 있으면 좋겠지만, 오늘 나가기에는 너무 피곤해.",
+                "en": "I wish I could, but I am too tired to go out today.",
+                "distractors": ["is", "are", "be"]
+            },
+            {
+                "ko": "할 수 있으면 좋겠지만, 오늘 집에서 일하고 있어.",
+                "en": "I wish I could, but I am working from home today.",
+                "distractors": ["work", "works", "worked"]
+            },
+            {
+                "ko": "할 수 있으면 좋겠지만, 내일 아침에 일찍 일어나야 해.",
+                "en": "I wish I could, but I have to wake up early tomorrow morning.",
+                "distractors": ["has", "had", "having"]
+            },
+            {
+                "ko": "할 수 있으면 좋겠지만, 이미 다른 약속들을 잡았어.",
+                "en": "I wish I could, but I already made other plans.",
+                "distractors": ["make", "makes", "making"]
+            },
+            {
+                "ko": "할 수 있으면 좋겠지만, 오늘 컨디션이 별로 좋지 않아.",
+                "en": "I wish I could, but I don't feel very well today.",
+                "distractors": ["feels", "felt", "feeling"]
+            },
+            {
+                "ko": "할 수 있으면 좋겠지만, 오늘 밤에 댄스 연습이 있어.",
+                "en": "I wish I could, but I have dance practice tonight.",
+                "distractors": ["has", "had", "having"]
+            },
+            {
+                "ko": "할 수 있으면 좋겠지만, 친구를 돕기로 약속했어.",
+                "en": "I wish I could, but I promised to help a friend.",
+                "distractors": ["promise", "promises", "promising"]
+            }
+        ]
+    },
+
+    {
+        "title": "🍳 귀찮을 때 대충 해먹기 (Lazy Cooking & Leftovers)",
+        "type":"롤플레잉",
+        "date": "2026-11-03",
+        "questions": [
+            {
+                "ko": "배는 고픈데 본격적으로 요리하기는 너무 귀찮고 힘들어 죽겠네.",
+                "en": "I'm starving, but I'm way too exhausted to actually cook a full meal.",
+                "distractors": ["cooks", "cooked", "cooking"]
+            },
+            {
+                "ko": "냉장고 열어보고 유통기한 임박한 재료들부터 대충 털어서 모아봐야지.",
+                "en": "Let me open the fridge and gather whatever ingredients are close to expiring.",
+                "distractors": ["gathers", "gathered", "gathering"]
+            },
+            {
+                "ko": "찬밥 남은 거에 냉동실에 있던 만두랑 김치 넣고 볶음밥이나 만들어야겠다.",
+                "en": "I'll just make fried rice using leftover cold rice, frozen dumplings, and kimchi.",
+                "distractors": ["makes", "made", "making"]
+            },
+            {
+                "ko": "프라이팬 하나로만 끝내야 나중에 설거지거리가 안 나와서 편해.",
+                "en": "Keeping everything in one single pan saves me from doing tons of dishes later.",
+                "distractors": ["save", "saved", "saving"]
+            },
+            {
+                "ko": "참기름 마지막에 한 바퀴 싹 두르고 깨 솔솔 뿌려주면 대충 그럴싸해져.",
+                "en": "Drizzling sesame oil at the end and sprinkling sesame seeds makes it look decent.",
+                "distractors": ["make", "made", "making"]
+            },
+            {
+                "ko": "도마 쓰기 귀찮으니까 대파랑 소시지는 그냥 가위로 숭덩숭덩 잘라 넣자.",
+                "en": "I'm too lazy to get a cutting board, so I'll just snip the green onions and sausages with scissors, roughly.",
+                "distractors": ["snips", "snipped", "snipping"]
+            },
+            {
+                "ko": "접시에 따로 덜어 먹지 말고 그냥 프라이팬째로 식탁에 올려놓고 먹어야지.",
+                "en": "I'm not transferring it to a plate, I'll just eat straight from the pan.",
+                "distractors": ["transfer", "transfers", "transferred"]
+            },
+            {
+                "ko": "밥 먹으면서 볼 유튜브 알고리즘 영상 하나 틀어두고 숟가락 들어야겠어.",
+                "en": "Let me put on a YouTube video to watch while eating before I pick up my spoon.",
+                "distractors": ["picks", "picked", "picking"]
+            },
+            {
+                "ko": "생각보다 간도 딱 맞고 재료도 잘 어우러져서 의외로 꿀맛이네.",
+                "en": "It's surprisingly well-seasoned and tasty, even though I threw it together casually.",
+                "distractors": ["throw", "throws", "throwing"]
+            },
+            {
+                "ko": "든든하게 다 먹었으니까 프라이팬에 물만 부어 불려두고 일단 소파에 누워야지.",
+                "en": "Now that I'm full, I'll just pour water in the pan to soak it and crash on the couch first.",
+                "distractors": ["soaks", "soaked", "soaking"]
+            }
+        ]
+    },
+
+    {
+        "title": "🎢 놀이공원 (Amusement Park)",
+        "type":"기초회화",
+        "date": "2026-11-03",
+        "questions": [
+            {
+                "ko": "저 롤러코스터 대기 시간이 무려 두 시간이나 된대.",
+                "en": "The wait time for that roller coaster is a whole two hours.",
+                "distractors": ["are", "was", "were"]
+            },
+            {
+                "ko": "인기 많은 놀이기구부터 빨리 가서 줄 서자.",
+                "en": "Let's hurry and line up for the popular rides first.",
+                "distractors": ["lines", "lined", "lining"]
+            },
+            {
+                "ko": "종일권 손목 밴드 끊어지지 않게 조심해.",
+                "en": "Be careful not to rip your day pass wristband.",
+                "distractors": ["rips", "ripped", "ripping"]
+            },
+            {
+                "ko": "나 무서운 거 진짜 못 타니까 잔잔한 거 타면 안 될까?",
+                "en": "I really can't handle scary rides, so can we go on something mild?",
+                "distractors": ["handles", "handled", "handling"]
+            },
+            {
+                "ko": "퍼레이드 명당자리를 잡으려면 지금부터 가서 기다려야 해.",
+                "en": "We need to go wait now to grab a good spot for the parade.",
+                "distractors": ["grabs", "grabbed", "grabbing"]
+            },
+            {
+                "ko": "놀이기구 타기 전에 가방은 전부 보관함에 넣고 와야 해.",
+                "en": "We have to put all our bags in a locker before getting on the ride.",
+                "distractors": ["puts", "put", "putting"]
+            },
+            {
+                "ko": "놀이공원 왔으니까 츄러스랑 솜사탕은 꼭 사 먹어야지.",
+                "en": "We have to get churros and cotton candy since we're at a theme park.",
+                "distractors": ["gets", "got", "getting"]
+            },
+            {
+                "ko": "방금 사진 찍히는 구간이었는데 너 눈 감고 찍혔어.",
+                "en": "That was just the photo zone, and you had your eyes closed.",
+                "distractors": ["have", "has", "having"]
+            },
+            {
+                "ko": "하루 종일 걸어 다녔더니 다리가 너무 아파서 좀 쉬어야겠어.",
+                "en": "We've been walking all day and my legs are killing me, so I need to rest.",
+                "distractors": ["walk", "walks", "walked"]
+            },
+            {
+                "ko": "폐장 시간 다 됐으니까 마지막으로 기념품 샵만 들렀다 가자.",
+                "en": "It's almost closing time, so let's make one last stop at the gift shop before we leave.",
+                "distractors": ["hits", "hitting", "hitted"]
+            }
+        ]
     }
 ]
