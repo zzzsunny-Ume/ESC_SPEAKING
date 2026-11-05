@@ -7821,5 +7821,179 @@
                 "distractors": ["hits", "hitting", "hitted"]
             }
         ]
+    },
+
+    {
+        "title": "📜 ~을 입고 있다 / 약속이 있다 (have got ~ on)",
+        "type":"문장반복",
+        "date": "2026-11-05",
+        "questions": [
+            {
+                "ko": "오늘 중요한 회의가 있어서 정장을 입고 있어.",
+                "en": "I have got a suit on because there is an important meeting today.",
+                "distractors": ["has", "had", "having"]
+            },
+            {
+                "ko": "밖이 너무 추워서 두꺼운 코트를 입고 있어.",
+                "en": "I have got a thick coat on because it is too cold outside.",
+                "distractors": ["has", "had", "having"]
+            },
+            {
+                "ko": "오늘 밤 파티를 위해 예쁜 드레스를 입고 있네.",
+                "en": "You have got a pretty dress on for the party tonight.",
+                "distractors": ["has", "had", "having"]
+            },
+            {
+                "ko": "햇빛이 너무 강해서 선글라스를 끼고(착용하고) 있어.",
+                "en": "I have got sunglasses on because the sunlight is too strong.",
+                "distractors": ["has", "had", "having"]
+            },
+            {
+                "ko": "집에서 편하게 일하기 위해 후드티를 입고 있어.",
+                "en": "I have got a hoodie on to work comfortably at home.",
+                "distractors": ["has", "had", "having"]
+            },
+            {
+                "ko": "이번 주말에 댄스 연습 때문에 많은 약속(일정)이 있어.",
+                "en": "I have got a lot on this weekend because of dance practice.",
+                "distractors": ["has", "had", "having"]
+            },
+            {
+                "ko": "내일 아침에 일찍 일어나야 해서 오늘 밤에 아무 약속도 없어. (haven't got 응용)",
+                "en": "I haven't got anything on tonight because I have to wake up early tomorrow morning.",
+                "distractors": ["hasn't", "hadn't", "not"]
+            },
+            {
+                "ko": "오늘 오후에 처리해야 할 중요한 일정이 있어.",
+                "en": "I have got something important on this afternoon to handle.",
+                "distractors": ["has", "had", "having"]
+            },
+            {
+                "ko": "이번 주 금요일 저녁에 무슨 약속 있어? (질문형)",
+                "en": "Have you got anything on this Friday evening?",
+                "distractors": ["Has", "Had", "Having"]
+            },
+            {
+                "ko": "다음 주 화요일 전까지 아무 일정도 없어.",
+                "en": "I haven't got anything on until next Tuesday.",
+                "distractors": ["hasn't", "hadn't", "not"]
+            }
+        ]
+    },
+
+    {
+        "title": "📱 부모님 스마트폰 알려주기 (Helping Parents with Smartphones)",
+        "type":"롤플레잉",
+        "date": "2026-11-05",
+        "questions": [
+            {
+                "ko": "엄마, 이거 와이파이가 꺼져 있어서 지금까지 데이터가 계속 나가고 있었던 거야.",
+                "en": "Mom, your Wi-Fi was turned off, so you've been using up all your data this whole time.",
+                "distractors": ["turn", "turns", "turning"]
+            },
+            {
+                "ko": "비밀번호 틀렸다고 나오는데, 평소에 자주 쓰는 숫자 조합으로 다시 천천히 쳐봐.",
+                "en": "It says the password is wrong, so try typing the number combination you usually use again, slowly.",
+                "distractors": ["type", "types", "typed"]
+            },
+            {
+                "ko": "이 앱은 안 쓰는 거니까 지울게. 폰 용량 꽉 차서 요즘 계속 느려지는 거라니까.",
+                "en": "I'm deleting this app since you don't use it. Your phone keeps getting slow lately because the storage is full, I told you.",
+                "distractors": ["delete", "deletes", "deleted"]
+            },
+            {
+                "ko": "이상한 광고 문자나 링크 온 거 절대 누르지 말고 바로 스팸 차단 번호로 등록해.",
+                "en": "Never click on any weird ad texts or links you get, and add the number to the spam block list right away.",
+                "distractors": ["clicks", "clicked", "clicking"]
+            },
+            {
+                "ko": "글씨 크기가 너무 작아서 안 보인다고? 내가 설정 들어가서 보기 편하게 키워줄게.",
+                "en": "The font size is too small to read? I'll go into settings and make it bigger for you.",
+                "distractors": ["makes", "made", "making"]
+            },
+            {
+                "ko": "휴대폰 껐다 켠 지 한 달도 넘은 것 같은데, 가끔 한 번씩 재부팅을 해줘야 안 느려져.",
+                "en": "I think it's been over a month since you last restarted your phone, so you need to reboot it every once in a while so it doesn't slow down.",
+                "distractors": ["restart", "restarts", "restarting"]
+            },
+            {
+                "ko": "사진첩 보니까 똑같은 사진이 수십 장씩 찍혀 있는데 흔들린 건 지워서 정리 좀 해.",
+                "en": "Your photo gallery has dozens of the exact same photos, so delete the blurry ones to tidy it up a bit.",
+                "distractors": ["deletes", "deleted", "deleting"]
+            },
+            {
+                "ko": "은행 앱 업데이트하라고 뜨는데, 내 지문으로는 인증 안 되니까 아빠가 와서 직접 해.",
+                "en": "The banking app says it needs an update, but my fingerprint won't work, so Dad has to come and do it himself.",
+                "distractors": ["need", "needed", "needing"]
+            },
+            {
+                "ko": "여기 바탕화면에 바로가기 아이콘 빼놨으니까 다음부터는 헤매지 말고 이것만 눌러.",
+                "en": "I put a shortcut icon right here on your home screen, so from now on, don't get lost and just tap this one.",
+                "distractors": ["puts", "putting", "putted"]
+            },
+            {
+                "ko": "내가 방금 알려준 대로 다시 한 번 해봐. 또 까먹으면 혼자 만지지 말고 나한테 물어보고.",
+                "en": "Try doing exactly what I just showed you again. If you forget again, ask me instead of messing with it alone.",
+                "distractors": ["show", "shows", "showing"]
+            }
+        ]
+    },
+
+    {
+        "title": "🫂 친구 위로하기 (Comforting a Friend)",
+        "type":"기초회화",
+        "date": "2026-11-05",
+        "questions": [
+            {
+                "ko": "요즘 안색이 많이 안 좋아 보여. 무슨 일 있어?",
+                "en": "You don't look so well lately. Is everything okay?",
+                "distractors": ["looks", "looked", "looking"]
+            },
+            {
+                "ko": "혼자 끙끙 앓지 말고 나한테 편하게 다 털어놔 봐.",
+                "en": "Don't bottle it up. Feel free to tell me everything.",
+                "distractors": ["bottles", "bottled", "bottling"]
+            },
+            {
+                "ko": "네가 왜 그렇게 속상해하는지 그 마음 충분히 이해해.",
+                "en": "I totally understand why you are so upset.",
+                "distractors": ["understands", "understood", "understanding"]
+            },
+            {
+                "ko": "나라도 그 상황이었으면 너랑 똑같이 행동했을 거야.",
+                "en": "I would have done the exact same thing in your shoes.",
+                "distractors": ["do", "does", "doing"]
+            },
+            {
+                "ko": "네 잘못이 아니니까 너무 자책하지 마.",
+                "en": "It's not your fault, so don't beat yourself up.",
+                "distractors": ["beats", "beaten", "beating"]
+            },
+            {
+                "ko": "너무 스트레스받지 말고 오늘 하루는 그냥 푹 쉬어.",
+                "en": "Don't stress out too much and just get some rest today.",
+                "distractors": ["stresses", "stressed", "stressing"]
+            },
+            {
+                "ko": "다 잘 될 거야. 시간이 지나면 결국 다 해결될 문제야.",
+                "en": "Everything will be fine. It will all work out in time.",
+                "distractors": ["works", "worked", "working"]
+            },
+            {
+                "ko": "내가 옆에서 어떻게 도와주면 네 기분이 좀 나아질까?",
+                "en": "What can I do to help you feel a little better?",
+                "distractors": ["feels", "felt", "feeling"]
+            },
+            {
+                "ko": "넌 지금까지 충분히 잘해왔고, 앞으로도 잘 해낼 거야.",
+                "en": "You've done a great job so far, and you'll get through this.",
+                "distractors": ["gets", "got", "getting"]
+            },
+            {
+                "ko": "언제든 내 도움이 필요하거나 이야기하고 싶으면 연락해.",
+                "en": "Call me whenever you need help or just want to talk.",
+                "distractors": ["calls", "called", "calling"]
+            }
+        ]
     }
 ]
