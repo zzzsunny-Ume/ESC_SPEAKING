@@ -7995,5 +7995,179 @@
                 "distractors": ["calls", "called", "calling"]
             }
         ]
+    },
+
+    {
+        "title": "✨ 칭찬 & 리액션 (Compliments & Reactions)",
+        "type":"기초회화",
+        "date": "2026-11-10",
+        "questions": [
+            {
+                "ko": "새 옷 산 거 완전 찰떡이다! 진짜 잘 어울려.",
+                "en": "That new outfit is totally you! It looks perfect on you.",
+                "distractors": ["look", "looked", "looking"]
+            },
+            {
+                "ko": "와, 이거 네가 혼자 다 한 거야? 진짜 대단하다.",
+                "en": "Wow, did you do all of this by yourself? That's so impressive.",
+                "distractors": ["does", "done", "doing"]
+            },
+            {
+                "ko": "역시 네 센스는 알아줘야 해. 안목 진짜 최고야.",
+                "en": "As expected, I have to hand it to you, you have really great taste.",
+                "distractors": ["hands", "handed", "handing"]
+            },
+            {
+                "ko": "네 말에 완전 백 퍼센트 공감해. 내 말이 그 말이야!",
+                "en": "I agree with you one hundred percent. That's exactly what I'm saying!",
+                "distractors": ["agrees", "agreed", "agreeing"]
+            },
+            {
+                "ko": "어떻게 그런 기발한 생각을 했어? 너 진짜 천재 아니야?",
+                "en": "How did you come up with that? Are you seriously a genius?",
+                "distractors": ["comes", "came", "coming"]
+            },
+            {
+                "ko": "헐, 대박! 진짜로? 거짓말하는 거 아니지?",
+                "en": "No way! Seriously? You're not kidding, right?",
+                "distractors": ["kid", "kids", "kidded"]
+            },
+            {
+                "ko": "네가 마침내 해낼 줄 알았어. 진짜 자랑스럽다.",
+                "en": "I knew you would finally pull it off. I'm so proud of you.",
+                "distractors": ["pulls", "pulled", "pulling"]
+            },
+            {
+                "ko": "완전 잘했어! 네가 오늘 무대(발표) 완전히 찢어놨더라.",
+                "en": "You did an amazing job! You absolutely killed it today.",
+                "distractors": ["kill", "kills", "killing"]
+            },
+            {
+                "ko": "노력한 보람이 있네. 그동안 준비하느라 진짜 고생 많았어.",
+                "en": "Your hard work paid off. You worked so hard preparing for this all along.",
+                "distractors": ["pay", "pays", "paying"]
+            },
+            {
+                "ko": "좋은 소식 들으니까 내 기분이 다 날아갈 것 같네!",
+                "en": "Hearing that good news totally lifts my spirits!",
+                "distractors": ["lift", "lifted", "lifting"]
+            }
+        ]
+    },
+
+    {
+        "title": "🚇 만원 지하철 (Crowded Subway)",
+        "type":"기초회화",
+        "date": "2026-11-10",
+        "questions": [
+            {
+                "ko": "사람 너무 많아서 그냥 다음 열차 기다릴래.",
+                "en": "There are too many people, so I'll just wait for the next train.",
+                "distractors": ["waits", "waited", "waiting"]
+            },
+            {
+                "ko": "저 이번 역에서 내려야 해요.",
+                "en": "I have to get off at this stop.",
+                "distractors": ["get", "gets", "got"]
+            },
+            {
+                "ko": "잠시만 앞으로 지나가겠습니다.",
+                "en": "Excuse me, I'm going to pass through for a second.",
+                "distractors": ["passes", "passed", "passing"]
+            },
+            {
+                "ko": "방금 누가 내 발을 엄청 세게 밟았어.",
+                "en": "Someone just stepped on my foot really hard.",
+                "distractors": ["step", "steps", "stepping"]
+            },
+            {
+                "ko": "문이 닫히면서 내 가방이 문에 끼어버렸어.",
+                "en": "My bag got caught in the door as it was closing.",
+                "distractors": ["get", "gets", "getting"]
+            },
+            {
+                "ko": "손잡이 잡을 공간조차 아예 없어.",
+                "en": "There isn't even room to grab a handle.",
+                "distractors": ["grabs", "grabbed", "grabbing"]
+            },
+            {
+                "ko": "에어컨이 너무 세게 나와서 진짜 추워.",
+                "en": "It's really freezing because the AC is blasting too hard.",
+                "distractors": ["freeze", "freezes", "froze"]
+            },
+            {
+                "ko": "환승역이라서 사람들이 여기서 다 내리네.",
+                "en": "Since this is a transfer station, everyone is getting off here.",
+                "distractors": ["get", "gets", "got"]
+            },
+            {
+                "ko": "드디어 빈자리가 생겨서 방금 앉았어.",
+                "en": "An empty seat finally opened up, so I just sat down.",
+                "distractors": ["sit", "sits", "sitting"]
+            },
+            {
+                "ko": "이어폰 배터리가 다 돼서 가는 길이 너무 지루해.",
+                "en": "My earphones ran out of battery, so the ride is so boring.",
+                "distractors": ["is", "are", "be"]
+            }
+        ]
+    },
+
+    {
+        "title": "🚫 굳이 ~할 필요 없어 (don't bother ~ing)",
+        "type":"문장반복",
+        "date": "2026-11-10",
+        "questions": [
+            {
+                "ko": "그가 어차피 오지 않을 것이기 때문에, 그를 위해 자리를 예약할 필요 없어.",
+                "en": "Since he won't come anyway, don't bother reserving a seat for him.",
+                "distractors": ["reserve", "reserves", "reserved"]
+            },
+            {
+                "ko": "내가 이미 모든 것을 끝냈기 때문에, 일찍 와서 도울 필요 없어.",
+                "en": "Because I already finished everything, don't bother coming early to help me.",
+                "distractors": ["come", "comes", "came"]
+            },
+            {
+                "ko": "방이 충분히 깨끗하기 때문에, 바닥을 다시 청소할 필요 없어.",
+                "en": "Since the room is clean enough, don't bother cleaning the floor again.",
+                "distractors": ["clean", "cleans", "cleaned"]
+            },
+            {
+                "ko": "우리가 곧 새 것을 살 것이기 때문에, 그 고장 난 의자를 고칠 필요 없어.",
+                "en": "Because we will buy a new one soon, don't bother fixing the broken chair.",
+                "distractors": ["fix", "fixes", "fixed"]
+            },
+            {
+                "ko": "회의가 취소되었기 때문에, 그 보고서들을 인쇄할 필요 없어.",
+                "en": "Since the meeting was canceled, don't bother printing the reports.",
+                "distractors": ["print", "prints", "printed"]
+            },
+            {
+                "ko": "내가 직접 인터넷에서 그것을 찾을 것이기 때문에, 긴 링크를 보낼 필요 없어.",
+                "en": "Because I will find it on the internet myself, don't bother sending a long link.",
+                "distractors": ["send", "sends", "sent"]
+            },
+            {
+                "ko": "날씨가 꽤 나아지고 있기 때문에, 여분의 우산을 가져올 필요 없어.",
+                "en": "Since the weather is getting quite a bit better, don't bother bringing an extra umbrella.",
+                "distractors": ["bring", "brings", "brought"]
+            },
+            {
+                "ko": "그 식당은 예약들을 받지 않기 때문에, 미리 전화할 필요 없어.",
+                "en": "Because the restaurant doesn't take reservations, don't bother calling in advance.",
+                "distractors": ["call", "calls", "called"]
+            },
+            {
+                "ko": "아무도 그 오래된 규칙에 신경 쓰지 않기 때문에, 그것을 다시 설명할 필요 없어.",
+                "en": "Since nobody cares about the old rule, don't bother explaining it again.",
+                "distractors": ["explain", "explains", "explained"]
+            },
+            {
+                "ko": "어차피 코드를 전부 다시 작성해야 하기 때문에, 그 버그를 수정할 필요 없어.",
+                "en": "Because I have to rewrite all the code anyway, don't bother fixing the bug.",
+                "distractors": ["fix", "fixes", "fixed"]
+            }
+        ]
     }
 ]
