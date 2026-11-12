@@ -8169,5 +8169,179 @@
                 "distractors": ["fix", "fixes", "fixed"]
             }
         ]
+    },
+
+    {
+        "title": "📜 ~할 여유가 없어 (can't afford to)",
+        "type":"문장반복",
+        "date": "2026-11-12",
+        "questions": [
+            {
+                "ko": "프로젝트 마감일이 다가오고 있기 때문에, 더 이상 시간을 낭비할 여유가 없어.",
+                "en": "Because the project deadline is approaching, we can't afford to waste any more time.",
+                "distractors": ["wastes", "wasted", "wasting"]
+            },
+            {
+                "ko": "내일 일찍 중요한 회의가 있어서, 오늘 밤에 늦게까지 깨어있을 여유가 없어.",
+                "en": "Since there is an important meeting early tomorrow, I can't afford to stay up late tonight.",
+                "distractors": ["stays", "stayed", "staying"]
+            },
+            {
+                "ko": "당장 이 버그를 고쳐야 하기 때문에, 지금 새 기능들을 추가할 여유가 없어.",
+                "en": "Because I have to fix this bug right now, I can't afford to add new features.",
+                "distractors": ["adds", "added", "adding"]
+            },
+            {
+                "ko": "이번 주말에 공연이 있어서, 오늘 연습을 건너뛸 여유가 없어.",
+                "en": "Since there is a performance this weekend, we can't afford to skip practice today.",
+                "distractors": ["skips", "skipped", "skipping"]
+            },
+            {
+                "ko": "이미 신뢰를 한 번 잃었기 때문에, 그들을 다시 실망시킬 여유가 없어.",
+                "en": "Because we already lost trust once, we can't afford to disappoint them again.",
+                "distractors": ["disappoints", "disappointed", "disappointing"]
+            },
+            {
+                "ko": "상황이 꽤 심각하기 때문에, 여기서 어떤 실수도 할 여유가 없어.",
+                "en": "Since the situation is quite serious, we can't afford to make any mistakes here.",
+                "distractors": ["makes", "made", "making"]
+            },
+            {
+                "ko": "그가 우리 팀의 핵심 멤버이기 때문에, 그를 잃을 여유가 없어.",
+                "en": "Because he is a key member of our team, we can't afford to lose him.",
+                "distractors": ["loses", "lost", "losing"]
+            },
+            {
+                "ko": "스피킹 모임이 한 시간 뒤에 시작하기 때문에, 여기서 더 기다릴 여유가 없어.",
+                "en": "Since the speaking club starts in an hour, I can't afford to wait here anymore.",
+                "distractors": ["waits", "waited", "waiting"]
+            },
+            {
+                "ko": "예산이 이미 너무 빡빡하기 때문에, 이 비싼 장비를 살 여유가 없어.",
+                "en": "Because the budget is already too tight, we can't afford to buy this expensive equipment.",
+                "distractors": ["buys", "bought", "buying"]
+            },
+            {
+                "ko": "이번 달에 휴가를 너무 많이 썼기 때문에, 하루 더 쉴 여유가 없어.",
+                "en": "Since I took too many days off this month, I can't afford to take another day off.",
+                "distractors": ["takes", "took", "taking"]
+            }
+        ]
+    },
+
+    {
+        "title": "🎬 영화관 비매너 (Bad Manners at the Movie Theater)",
+        "type":"기초회화",
+        "date": "2026-11-12",
+        "questions": [
+            {
+                "ko": "앞사람이 영화 상영 중에 핸드폰을 계속 봐.",
+                "en": "The person in front of me keeps checking his phone during the movie.",
+                "distractors": ["keep", "kept", "keeping"]
+            },
+            {
+                "ko": "저 핸드폰 불빛 때문에 내 눈이 다 아파.",
+                "en": "That phone light is really hurting my eyes.",
+                "distractors": ["hurts", "hurt", "hurted"]
+            },
+            {
+                "ko": "심지어 옆 사람과 계속 떠들면서 웃고 있어.",
+                "en": "He's even been chatting and laughing nonstop with the person next to him.",
+                "distractors": ["chat", "chats", "chatted"]
+            },
+            {
+                "ko": "뒷사람은 내 의자를 발로 계속 차고 있어.",
+                "en": "The person behind me keeps kicking my seat with his foot.",
+                "distractors": ["kick", "kicks", "kicked"]
+            },
+            {
+                "ko": "영화 소리보다 팝콘 씹는 소리가 더 커.",
+                "en": "The popcorn chewing is louder than the movie's sound.",
+                "distractors": ["are", "was", "be"]
+            },
+            {
+                "ko": "주변이 너무 시끄러워서 영화 내용이 기억 안 나.",
+                "en": "Because it's so noisy around me, I can't remember the plot at all.",
+                "distractors": ["remembers", "remembered", "remembering"]
+            },
+            {
+                "ko": "조용히 해달라고 앞사람 어깨를 톡톡 쳤어.",
+                "en": "I tapped his shoulder to ask for quiet.",
+                "distractors": ["tap", "taps", "tapping"]
+            },
+            {
+                "ko": "그제야 눈치채고 핸드폰을 주머니에 넣었어.",
+                "en": "He finally realized and put his phone in his pocket.",
+                "distractors": ["puts", "putted", "putting"]
+            },
+            {
+                "ko": "다음부터는 무조건 조용한 심야 영화만 볼래.",
+                "en": "From now on, I will always only watch quiet late-night movies.",
+                "distractors": ["watches", "watched", "watching"]
+            },
+            {
+                "ko": "비싼 영화 티켓값이 진짜 너무 아까워.",
+                "en": "This expensive movie ticket is really a total waste.",
+                "distractors": ["were", "are", "be"]
+            }
+        ]
+    },
+
+    {
+        "title": "⏰ 약속에 늦었을 때 변명 (Excuses for Being Late)",
+        "type":"롤플레잉",
+        "date": "2026-11-12",
+        "questions": [
+            {
+                "ko": "알람 못 듣고 푹 자버렸어. 진짜 미안!",
+                "en": "I slept through my alarm. I'm really sorry!",
+                "distractors": ["sleep", "sleeps", "sleeping"]
+            },
+            {
+                "ko": "지금 차가 너무 막혀서 도로에 꼼짝없이 갇혔어.",
+                "en": "I'm stuck in traffic so badly that I can't move at all.",
+                "distractors": ["stick", "sticks", "sticking"]
+            },
+            {
+                "ko": "집에서 막 나오려던 참에 갑자기 급한 일이 생겼어.",
+                "en": "Something urgent came up just as I was leaving the house.",
+                "distractors": ["come", "comes", "coming"]
+            },
+            {
+                "ko": "생각보다 일이 늦게 끝나서 이제 막 출발했어.",
+                "en": "Work ended later than I thought, so I just headed out.",
+                "distractors": ["head", "heads", "heading"]
+            },
+            {
+                "ko": "깜빡하고 지갑을 두고 나와서 다시 집에 다녀오느라 늦었어.",
+                "en": "I forgot my wallet and had to go back home, so I'm late.",
+                "distractors": ["has", "have", "having"]
+            },
+            {
+                "ko": "버스를 눈앞에서 놓쳐서 다음 거 기다리는 중이야.",
+                "en": "I missed the bus right in front of me, so I'm waiting for the next one.",
+                "distractors": ["miss", "misses", "missing"]
+            },
+            {
+                "ko": "주차할 곳을 도저히 못 찾아서 계속 빙빙 돌고 있어.",
+                "en": "I keep driving around in circles because I can't find parking anywhere.",
+                "distractors": ["finds", "found", "finding"]
+            },
+            {
+                "ko": "초행길이라 길을 잘못 들어서 조금 헤매고 있어.",
+                "en": "It's my first time here and I took a wrong turn, so I'm a bit lost.",
+                "distractors": ["take", "takes", "taking"]
+            },
+            {
+                "ko": "비가 와서 그런지 오늘따라 택시가 진짜 안 잡히네.",
+                "en": "I really can't catch a cab today, probably because of the rain.",
+                "distractors": ["catches", "caught", "catching"]
+            },
+            {
+                "ko": "지금 땀나게 뛰어가고 있어! 5분 안에는 무조건 도착해.",
+                "en": "I'm running as fast as I can right now! I'll be there in 5 minutes max.",
+                "distractors": ["run", "runs", "ran"]
+            }
+        ]
     }
 ]
