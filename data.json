@@ -8343,5 +8343,179 @@
                 "distractors": ["run", "runs", "ran"]
             }
         ]
+    },
+
+    {
+        "title": "📜 결국 ~하게 되었어 (ended up ~ing)",
+        "type":"기초회화",
+        "date": "2026-11-13",
+        "questions": [
+            {
+                "ko": "아무도 요리하고 싶어 하지 않았기 때문에, 결국 프라이드치킨을 주문하게 되었어.",
+                "en": "Since nobody wanted to cook, we ended up ordering fried chicken.",
+                "distractors": ["order", "orders", "ordered"]
+            },
+            {
+                "ko": "코드를 계속 바꿨기 때문에, 결국 전체 프로그램을 다시 작성하게 되었어.",
+                "en": "Because I kept changing the code, I ended up rewriting the whole program.",
+                "distractors": ["rewrite", "rewrites", "rewrote"]
+            },
+            {
+                "ko": "댄스 연습이 취소되었기 때문에, 결국 집에서 혼자 영화를 보게 되었어.",
+                "en": "Since the dance practice was canceled, I ended up watching a movie alone at home.",
+                "distractors": ["watch", "watches", "watched"]
+            },
+            {
+                "ko": "회의가 예상보다 너무 오래 걸렸기 때문에, 결국 그 기차를 놓치게 되었어.",
+                "en": "Because the meeting took way longer than expected, we ended up missing the train.",
+                "distractors": ["miss", "misses", "missed"]
+            },
+            {
+                "ko": "교통이 정말 나빴기 때문에, 결국 택시 대신 지하철을 타게 되었어.",
+                "en": "Since the traffic was really bad, we ended up taking the subway instead of a taxi.",
+                "distractors": ["take", "takes", "took"]
+            },
+            {
+                "ko": "무엇을 먹을지 결정할 수 없었기 때문에, 결국 편의점에서 삼각김밥을 사게 되었어.",
+                "en": "Because I couldn't decide what to eat, I ended up buying a triangle kimbap at the convenience store.",
+                "distractors": ["buy", "buys", "bought"]
+            },
+            {
+                "ko": "그 신발이 너무 불편했기 때문에, 결국 그것을 환불하게 되었어.",
+                "en": "Since the shoes were too uncomfortable, I ended up requesting a refund for them.",
+                "distractors": ["request", "requests", "requested"]
+            },
+            {
+                "ko": "지도를 잃어버렸기 때문에, 결국 두 시간 동안 그 도시 주변을 걷게 되었어.",
+                "en": "Because we lost the map, we ended up walking around the city for two hours.",
+                "distractors": ["walk", "walks", "walked"]
+            },
+            {
+                "ko": "다른 선택지들이 없었기 때문에, 결국 원래 아이디어로 돌아가게 되었어.",
+                "en": "Since there were no other options, we ended up going back to the original idea.",
+                "distractors": ["go", "goes", "went"]
+            },
+            {
+                "ko": "어제 밤늦게까지 유튜브를 봤기 때문에, 결국 오늘 아침에 늦잠을 자게 되었어.",
+                "en": "Because I watched YouTube until late last night, I ended up oversleeping this morning.",
+                "distractors": ["oversleep", "oversleeps", "overslept"]
+            }
+        ]
+    },
+
+    {
+        "title": "💸 빌려준 돈 달라고 하기 (Asking a Friend to Pay You Back)",
+        "type":"롤플레잉",
+        "date": "2026-11-13",
+        "questions": [
+            {
+                "ko": "친구가 저번에 빌려 간 돈을 아직도 안 갚고 있어",
+                "en": "My friend still hasn't paid me back",
+                "distractors": ["pay", "pays", "paying"]
+            },
+            {
+                "ko": "일부러 모르는 척하는 건지 진짜 까먹은 건지 모르겠어",
+                "en": "I can't tell if my friend forgot or is just ignoring it",
+                "distractors": ["forget", "forgets", "forgetting"]
+            },
+            {
+                "ko": "카톡으로 달라고 말하기가 왜 이렇게 눈치 보일까",
+                "en": "Why is it so awkward to ask for my money back over KakaoTalk?",
+                "distractors": ["asks", "asked", "asking"]
+            },
+            {
+                "ko": "기분 안 나쁘게 돌려 말할 방법을 계속 고민 중이야",
+                "en": "I keep thinking of ways to say it nicely",
+                "distractors": ["keeps", "kept", "keeping"]
+            },
+            {
+                "ko": "방금 그 친구가 인스타에 비싼 식당 간 사진을 올렸네",
+                "en": "My friend just posted a picture from an expensive restaurant on Instagram",
+                "distractors": ["post", "posts", "posting"]
+            },
+            {
+                "ko": "돈 없다면서 놀러 다닐 돈은 있는 게 너무 얄미워",
+                "en": "It annoys me that my friend says they're broke but still has money to hang out",
+                "distractors": ["annoy", "annoyed", "annoying"]
+            },
+            {
+                "ko": "그냥 눈 딱 감고 계좌번호랑 같이 톡 하나 남길래",
+                "en": "I will just bite the bullet and send a text with my account number",
+                "distractors": ["sends", "sent", "sending"]
+            },
+            {
+                "ko": "돈 문제로 친구랑 사이 어색해지는 거 진짜 피곤해",
+                "en": "It is really tiring when money makes things awkward between friends",
+                "distractors": ["are", "was", "be"]
+            },
+            {
+                "ko": "다음부터는 아무리 친해도 절대 돈거래는 안 할 거야",
+                "en": "From now on, no matter how close we are, I will never lend money to friends",
+                "distractors": ["lends", "lent", "lending"]
+            },
+            {
+                "ko": "겨우 오만 원인데 내가 너무 쪼잔한 사람 된 것 같아",
+                "en": "I feel so petty over just 50,000 won",
+                "distractors": ["feels", "felt", "feeling"]
+            }
+        ]
+    },
+
+    {
+        "title": "🛑 정중하게 거절하기 (Polite Refusals)",
+        "type":"기초회화",
+        "date": "2026-11-13",
+        "questions": [
+            {
+                "ko": "네 말도 일리가 있는데, 내 생각은 조금 달라.",
+                "en": "You have a point, but I see it a bit differently.",
+                "distractors": ["sees", "saw", "seeing"]
+            },
+            {
+                "ko": "초대해 준 건 정말 고마운데 이번에는 가기 힘들 것 같아.",
+                "en": "I really appreciate the invite, but I don't think I can make it this time.",
+                "distractors": ["makes", "made", "making"]
+            },
+            {
+                "ko": "마음 같아선 도와주고 싶은데 내가 지금 너무 바빠서 안 되겠다.",
+                "en": "I'd love to help, but I'm really tied up right now.",
+                "distractors": ["tie", "ties", "tying"]
+            },
+            {
+                "ko": "제안은 너무 감사하지만, 저랑은 잘 안 맞는 것 같아요.",
+                "en": "It's a great offer, but I don't think it's the right fit for me.",
+                "distractors": ["thinks", "thought", "thinking"]
+            },
+            {
+                "ko": "당장 결정하기 어려우니까 며칠만 더 생각해 보고 알려줄게.",
+                "en": "Since it's hard to decide right away, let me sleep on it and get back to you in a few days.",
+                "distractors": ["sleeps", "slept", "sleeping"]
+            },
+            {
+                "ko": "이 문제는 계속 얘기해 봤자 답이 없으니까 서로 의견이 다른 걸로 해두자.",
+                "en": "Since we're going in circles, let's just agree to disagree on this one.",
+                "distractors": ["agrees", "agreed", "agreeing"]
+            },
+            {
+                "ko": "기분 나쁘게 하려는 건 아닌데, 그건 현실적으로 불가능해.",
+                "en": "I don't mean to offend you, but that's practically impossible.",
+                "distractors": ["means", "meant", "meaning"]
+            },
+            {
+                "ko": "진짜 미안한데 그 부탁만큼은 절대 들어줄 수 없어.",
+                "en": "I'm really sorry, but that is completely out of the question.",
+                "distractors": ["are", "was", "be"]
+            },
+            {
+                "ko": "지금은 내가 통화하기가 좀 곤란한 상황이라 나중에 다시 걸게.",
+                "en": "Now is not a good time, so I'll call you back later.",
+                "distractors": ["calls", "called", "calling"]
+            },
+            {
+                "ko": "지금은 당장 결론 내리기 어려우니까 이 얘기는 나중에 다시 하자.",
+                "en": "Let's table this for now and talk about it later.",
+                "distractors": ["tables", "tabled", "tabling"]
+            }
+        ]
     }
 ]
