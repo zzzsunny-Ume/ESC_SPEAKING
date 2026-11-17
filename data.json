@@ -8517,5 +8517,179 @@
                 "distractors": ["tables", "tabled", "tabling"]
             }
         ]
+    },
+
+    {
+        "title": "📜 ~으로 타협하다 / 만족하다 (settle for)",
+        "type":"문장반복",
+        "date": "2026-11-17",
+        "questions": [
+            {
+                "ko": "내가 원래 원했던 신발이 매진되었기 때문에, 비슷한 디자인으로 타협했어.",
+                "en": "Since the shoes I originally wanted were sold out, I settled for a similar design.",
+                "distractors": ["settle", "settles", "settling"]
+            },
+            {
+                "ko": "시간이 충분하지 않았기 때문에, 패스트푸드로 타협했어.",
+                "en": "Because we didn't have enough time, we settled for fast food.",
+                "distractors": ["settle", "settles", "settling"]
+            },
+            {
+                "ko": "그 완벽한 아파트는 너무 비쌌기 때문에, 약간 더 작은 것으로 타협했어.",
+                "en": "Since the perfect apartment was too expensive, I settled for a slightly smaller one.",
+                "distractors": ["settle", "settles", "settling"]
+            },
+            {
+                "ko": "다른 모든 색상들이 품절되었기 때문에, 검은색 모델로 타협했어.",
+                "en": "Because all other colors were out of stock, I settled for the black model.",
+                "distractors": ["settle", "settles", "settling"]
+            },
+            {
+                "ko": "아무도 택시를 찾을 수 없었기 때문에, 붐비는 지하철로 타협했어.",
+                "en": "Since nobody could find a taxi, we settled for the crowded subway.",
+                "distractors": ["settle", "settles", "settling"]
+            },
+            {
+                "ko": "원래 계획이 취소되었기 때문에, 플랜 B로 타협해야 해.",
+                "en": "Because the original plan was canceled, we have to settle for plan B.",
+                "distractors": ["settles", "settled", "settling"]
+            },
+            {
+                "ko": "그 큰 목표를 달성하기 어렵기 때문에, 당장은 이 작은 성공으로 타협할게.",
+                "en": "Since it is hard to achieve the big goal, I will settle for this small success for now.",
+                "distractors": ["settles", "settled", "settling"]
+            },
+            {
+                "ko": "테이블을 예약하지 않았기 때문에, 바 좌석들로 타협했어.",
+                "en": "Because we didn't reserve a table, we settled for the bar seats.",
+                "distractors": ["settle", "settles", "settling"]
+            },
+            {
+                "ko": "예산이 너무 빡빡하기 때문에, 저렴한 장비로 타협해야 해.",
+                "en": "Since the budget is too tight, we have to settle for cheap equipment.",
+                "distractors": ["settles", "settled", "settling"]
+            },
+            {
+                "ko": "1등 상이 불가능해 보였기 때문에, 2등 상으로 타협했어.",
+                "en": "Because the first prize looked impossible, I settled for the second prize.",
+                "distractors": ["settle", "settles", "settling"]
+            }
+        ]
+    },
+
+    {
+        "title": "🍗 야식 참기 (Resisting Late-Night Cravings)",
+        "type":"롤플레잉",
+        "date": "2026-11-17",
+        "questions": [
+            {
+                "ko": "밤 11시인데 치킨 먹방을 봐버려서 미치겠어",
+                "en": "It's 11 PM and I'm going crazy after watching a chicken mukbang.",
+                "distractors": ["go", "goes", "gone"]
+            },
+            {
+                "ko": "배에서 꼬르륵 소리가 나는데 미치게 배고파",
+                "en": "My stomach is growling and I am insanely hungry.",
+                "distractors": ["growl", "growls", "growled"]
+            },
+            {
+                "ko": "냉장고에 있는 닭가슴살은 진짜 쳐다보기도 싫어",
+                "en": "I really don't even want to look at the chicken breast in the fridge.",
+                "distractors": ["wants", "wanted", "wanting"]
+            },
+            {
+                "ko": "배달 앱을 켰다가 껐다가 벌써 열 번은 반복했어",
+                "en": "I've already opened and closed the delivery app at least ten times.",
+                "distractors": ["open", "opens", "opening"]
+            },
+            {
+                "ko": "지금 시켜 먹으면 오늘 하루 굶은 게 다 날아가",
+                "en": "If I order now, all the hunger I endured today will go to waste.",
+                "distractors": ["endure", "endures", "enduring"]
+            },
+            {
+                "ko": "그냥 물 배 채우려고 생수만 벌컥벌컥 마시는 중이야",
+                "en": "I'm just chugging bottled water to fill my stomach.",
+                "distractors": ["chug", "chugs", "chugged"]
+            },
+            {
+                "ko": "차라리 폰 끄고 일찍 잠들어버리는 게 유일한 답이야",
+                "en": "Just turning off my phone and sleeping early is the only answer.",
+                "distractors": ["turn", "turns", "turned"]
+            },
+            {
+                "ko": "근데 배가 너무 고파서 눈 감아도 도저히 잠이 안 와",
+                "en": "But even when I close my eyes, I can't fall asleep because I'm so hungry.",
+                "distractors": ["falls", "fell", "falling"]
+            },
+            {
+                "ko": "내일 아침에 눈 뜨자마자 무조건 라면 끓여 먹을 거야",
+                "en": "I will definitely cook ramen the second I wake up tomorrow morning.",
+                "distractors": ["cooks", "cooked", "cooking"]
+            },
+            {
+                "ko": "다이어트 시작하겠다고 설레발친 어제의 나를 원망해",
+                "en": "I blame yesterday's me for getting way too excited about starting this diet.",
+                "distractors": ["blames", "blamed", "blaming"]
+            }
+        ]
+    },
+
+    {
+        "title": "🗣️ 스몰토크 & 가벼운 대화 (Small Talk & Icebreakers)",
+        "type":"기초회화",
+        "date": "2026-11-17",
+        "questions": [
+            {
+                "ko": "오늘 날씨 진짜 좋네요. 이번 주 내내 춥더니 좀 풀렸어요.",
+                "en": "Beautiful weather today, isn't it? It's been cold all week, but it finally warmed up.",
+                "distractors": ["warms", "warm", "warming"]
+            },
+            {
+                "ko": "가방이 너무 예뻐요. 어디서 사셨는지 물어봐도 될까요?",
+                "en": "I love your bag. Do you mind me asking where you got it?",
+                "distractors": ["ask", "asks", "asked"]
+            },
+            {
+                "ko": "대기 줄이 엄청 기네요. 혹시 여기서 얼마나 기다리셨어요?",
+                "en": "The line is so long. How long have you been waiting here?",
+                "distractors": ["wait", "waits", "waited"]
+            },
+            {
+                "ko": "여기는 어떻게 오시게 됐어요? 주최자랑 아는 사이신가요?",
+                "en": "What brings you here? Are you friends with the host?",
+                "distractors": ["bring", "brought", "bringing"]
+            },
+            {
+                "ko": "평소에 일 안 하시고 쉬는 날에는 주로 뭐 하세요?",
+                "en": "What do you usually do on your days off?",
+                "distractors": ["does", "did", "doing"]
+            },
+            {
+                "ko": "여기까지 오시는 데 길은 안 막히셨어요?",
+                "en": "Did you run into any traffic on your way here?",
+                "distractors": ["runs", "ran", "running"]
+            },
+            {
+                "ko": "혹시 요즘 다들 얘기하는 그 드라마 보셨어요?",
+                "en": "Have you seen that show everyone's been talking about lately?",
+                "distractors": ["see", "sees", "saw"]
+            },
+            {
+                "ko": "커피 좋아하시나 봐요. 근처에 괜찮은 카페 아는 곳 있으세요?",
+                "en": "You must like coffee. Do you know any good cafes around here?",
+                "distractors": ["likes", "liked", "liking"]
+            },
+            {
+                "ko": "오늘 하루는 어떠셨어요? 별일 없이 잘 보내셨나요?",
+                "en": "How is your day going? Has it been going pretty smoothly?",
+                "distractors": ["go", "goes", "went"]
+            },
+            {
+                "ko": "대화 정말 즐거웠어요. 남은 하루 잘 보내세요!",
+                "en": "It was really nice talking to you. Enjoy the rest of your day!",
+                "distractors": ["talk", "talks", "talked"]
+            }
+        ]
     }
 ]
