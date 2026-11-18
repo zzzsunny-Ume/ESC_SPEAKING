@@ -8691,5 +8691,179 @@
                 "distractors": ["talk", "talks", "talked"]
             }
         ]
+    },
+
+    {
+        "title": "😜 친구 놀리기 & 장난치기 (Teasing & Joking with Friends)",
+        "type":"기초회화",
+        "date": "2026-11-19",
+        "questions": [
+            {
+                "ko": "그냥 장난친 거야, 너무 진지하게 받아들이지 마.",
+                "en": "I'm just messing with you, don't take it so seriously.",
+                "distractors": ["mess", "messes", "messed"]
+            },
+            {
+                "ko": "웬일로 오늘 제시간에 다 왔어?",
+                "en": "Look who decided to show up on time today!",
+                "distractors": ["decide", "decides", "deciding"]
+            },
+            {
+                "ko": "내가 이럴 줄 알았어! 내 말 맞지?",
+                "en": "I told you so! See, I was right!",
+                "distractors": ["tell", "tells", "telling"]
+            },
+            {
+                "ko": "꿈 깨, 그런 일은 절대 안 일어나.",
+                "en": "Keep dreaming, that is never going to happen.",
+                "distractors": ["dream", "dreams", "dreamed"]
+            },
+            {
+                "ko": "너 방금 엄청 찔렸지? 얼굴에 다 쓰여 있어.",
+                "en": "You look so guilty. It's written all over your face.",
+                "distractors": ["write", "writes", "writing"]
+            },
+            {
+                "ko": "거짓말하지 마, 나한테는 다 티 나거든.",
+                "en": "Don't give me that, I can see right through you.",
+                "distractors": ["sees", "saw", "seeing"]
+            },
+            {
+                "ko": "에이, 삐지지 마. 그냥 장난 좀 친 건데.",
+                "en": "Aw, don't be mad. I was just teasing you.",
+                "distractors": ["tease", "teases", "teased"]
+            },
+            {
+                "ko": "방금 그거 나 약 올리려고 일부러 한 말이지?",
+                "en": "You just said that to push my buttons, didn't you?",
+                "distractors": ["pushes", "pushed", "pushing"]
+            },
+            {
+                "ko": "역시 너답다, 넌 진짜 하나도 안 변했네.",
+                "en": "Classic you, you haven't changed a bit.",
+                "distractors": ["change", "changes", "changing"]
+            },
+            {
+                "ko": "지금 나한테 농담하는 거지? 진심 아니지?",
+                "en": "You're pulling my leg, right? You can't be serious.",
+                "distractors": ["pull", "pulls", "pulled"]
+            }
+        ]
+    },
+
+    {
+        "title": "🏪 편의점 야간 알바 (Convenience Store Night Shift)",
+        "type":"롤플레잉",
+        "date": "2026-11-19",
+        "questions": [
+            {
+                "ko": "새벽 세 시인데 왜 이렇게 손님이 계속 들어오지",
+                "en": "Why are so many customers still coming in at 3 AM?",
+                "distractors": ["come", "comes", "came"]
+            },
+            {
+                "ko": "방금 들어온 물류 박스가 아직 산더미처럼 쌓여 있어",
+                "en": "The delivery boxes that just came in are still piled up like a mountain.",
+                "distractors": ["pile", "piles", "piling"]
+            },
+            {
+                "ko": "진열대 좀 채우려고 하면 어김없이 문이 열리네",
+                "en": "The door opens every single time I try to restock.",
+                "distractors": ["open", "opened", "opening"]
+            },
+            {
+                "ko": "손님 여기서 술 드시면 안 된다고 몇 번 말씀드렸잖아요",
+                "en": "Sir, I've told you several times that you can't drink alcohol in here.",
+                "distractors": ["tell", "tells", "telling"]
+            },
+            {
+                "ko": "봉투 필요하시면 백 원 추가해서 결제해 드릴게요",
+                "en": "If you need a bag, I'll add 100 won to your total.",
+                "distractors": ["adds", "added", "adding"]
+            },
+            {
+                "ko": "신분증 없으시면 담배는 절대 판매할 수 없습니다",
+                "en": "I absolutely can't sell you cigarettes without an ID.",
+                "distractors": ["sells", "sold", "selling"]
+            },
+            {
+                "ko": "유통기한 지난 삼각김밥 폐기 찍을 시간도 없어",
+                "en": "I don't even have time to discard the expired triangle kimbap.",
+                "distractors": ["discards", "discarded", "discarding"]
+            },
+            {
+                "ko": "지금 너무 졸려서 서서 잠들 것만 같아",
+                "en": "I am so sleepy I could fall asleep standing up.",
+                "distractors": ["falls", "fell", "falling"]
+            },
+            {
+                "ko": "오전 알바생 교대 시간까지 딱 두 시간 남았어",
+                "en": "I have exactly two hours left until the morning shift arrives.",
+                "distractors": ["arrive", "arrived", "arriving"]
+            },
+            {
+                "ko": "퇴근하자마자 집에 가서 기절하듯 자고 싶어",
+                "en": "As soon as I clock out, I just want to go home and pass out.",
+                "distractors": ["wants", "wanted", "wanting"]
+            }
+        ]
+    },
+
+    {
+        "title": "📜 ~을 만회하다 (make up for)",
+        "type":"문장반복",
+        "date": "2026-11-19",
+        "questions": [
+            {
+                "ko": "어제 회의를 놓쳤기 때문에, 오늘 야근을 해서 그것을 만회해야 해.",
+                "en": "Because I missed the meeting yesterday, I have to work overtime today to make up for it.",
+                "distractors": ["makes", "made", "making"]
+            },
+            {
+                "ko": "지난주에 네 생일을 깜빡했기 때문에, 오늘 맛있는 저녁을 사서 그것을 만회할게.",
+                "en": "Since I forgot your birthday last week, I will buy you a delicious dinner today to make up for it.",
+                "distractors": ["makes", "made", "making"]
+            },
+            {
+                "ko": "아침에 너무 늦게 출발했기 때문에, 잃어버린 시간을 만회하기 위해 더 빨리 운전해야 해.",
+                "en": "Because we left too late in the morning, we have to drive faster to make up for the lost time.",
+                "distractors": ["makes", "made", "making"]
+            },
+            {
+                "ko": "어젯밤에 잠을 잘 못 잤기 때문에, 이번 주말에 낮잠을 자서 그것을 만회할 거야.",
+                "en": "Since I didn't sleep well last night, I will take a nap this weekend to make up for it.",
+                "distractors": ["makes", "made", "making"]
+            },
+            {
+                "ko": "지난 경기에서 큰 실수를 했기 때문에, 이번 경기에서 더 열심히 뛰어서 그것을 만회하고 싶어.",
+                "en": "Because I messed up badly in the last game, I want to play harder in this game to make up for it.",
+                "distractors": ["makes", "made", "making"]
+            },
+            {
+                "ko": "그 호텔은 위치가 별로지만, 훌륭한 조식이 그것을 만회해 줘.",
+                "en": "Although the hotel has a bad location, the great breakfast makes up for it.",
+                "distractors": ["make", "made", "making"]
+            },
+            {
+                "ko": "최근에 너무 바빠서 연락을 못 했기 때문에, 이번 금요일에 만나서 그것을 만회하자.",
+                "en": "I've been so busy lately that I couldn't contact you, so let's meet this Friday to make up for it.",
+                "distractors": ["makes", "made", "making"]
+            },
+            {
+                "ko": "1분기에 매출이 떨어졌기 때문에, 이번 달에 그 손실을 만회해야 해.",
+                "en": "Because sales dropped in the first quarter, we need to make up for the loss this month.",
+                "distractors": ["makes", "made", "making"]
+            },
+            {
+                "ko": "어제 운동을 건너뛰었기 때문에, 오늘 두 배로 열심히 해서 그것을 만회할 거야.",
+                "en": "Since I skipped working out yesterday, I will work twice as hard today to make up for it.",
+                "distractors": ["makes", "made", "making"]
+            },
+            {
+                "ko": "그 식당은 대기 시간이 길지만, 놀라운 맛이 기다림을 충분히 만회해 줘.",
+                "en": "Although the restaurant has a long waiting time, the amazing taste easily makes up for the wait.",
+                "distractors": ["make", "made", "making"]
+            }
+        ]
     }
 ]
