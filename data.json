@@ -8865,5 +8865,179 @@
                 "distractors": ["make", "made", "making"]
             }
         ]
+    },
+
+    {
+        "title": "📜 ~하게 만들다 (talk ~ into ~ing)",
+        "type":"문장반복",
+        "date": "2026-11-20",
+        "questions": [
+            {
+                "ko": "날씨가 너무 좋았기 때문에, 친구가 설득해서 한강에 가게 만들었어.",
+                "en": "Because the weather was so nice, my friend talked me into going to the Han River.",
+                "distractors": ["go", "goes", "went"]
+            },
+            {
+                "ko": "혼자 가고 싶지 않았기 때문에, 동생을 설득해서 파티에 같이 가게 했어.",
+                "en": "Since I didn't want to go alone, I talked my sibling into coming to the party with me.",
+                "distractors": ["come", "comes", "came"]
+            },
+            {
+                "ko": "그 옷이 너무 잘 어울렸기 때문에, 점원이 설득해서 두 개나 사게 만들었어.",
+                "en": "Because the clothes looked so good on me, the clerk talked me into buying two of them.",
+                "distractors": ["buy", "buys", "bought"]
+            },
+            {
+                "ko": "팀장님이 계속 부탁했기 때문에, 결국 설득해서 그 프로젝트를 맡게 만들었어.",
+                "en": "Since the team lead kept asking, he talked me into taking on the project.",
+                "distractors": ["take", "takes", "took"]
+            },
+            {
+                "ko": "처음에는 무서웠지만, 친구들이 설득해서 롤러코스터를 타게 했어.",
+                "en": "Although I was scared at first, my friends talked me into riding the roller coaster.",
+                "distractors": ["ride", "rides", "rode"]
+            },
+            {
+                "ko": "예산이 부족했기 때문에, 그들을 설득해서 계획을 변경하게 만들었어.",
+                "en": "Because the budget was limited, I talked them into changing the plan.",
+                "distractors": ["change", "changes", "changed"]
+            },
+            {
+                "ko": "오늘 너무 피곤했지만, 그녀가 설득해서 저녁을 같이 먹게 만들었어.",
+                "en": "Although I was so tired today, she talked me into having dinner together.",
+                "distractors": ["have", "has", "had"]
+            },
+            {
+                "ko": "그 영화가 정말 재밌다고 해서, 그를 설득해서 심야 영화를 보게 했어.",
+                "en": "Since the movie was said to be really fun, I talked him into watching a late-night movie.",
+                "distractors": ["watch", "watches", "watched"]
+            },
+            {
+                "ko": "원래는 안 하려고 했지만, 멤버들이 설득해서 동아리에 가입하게 만들었어.",
+                "en": "Although I originally wasn't going to do it, the members talked me into joining the club.",
+                "distractors": ["join", "joins", "joined"]
+            },
+            {
+                "ko": "할인이 곧 끝난다고 해서, 그가 설득해서 새 노트북을 사게 만들었어.",
+                "en": "Because the discount was ending soon, he talked me into buying a new laptop.",
+                "distractors": ["buy", "buys", "bought"]
+            }
+        ]
+    },
+
+    {
+        "title": "🦷 치과 의사",
+        "type":"롤플레잉",
+        "date": "2026-11-20",
+        "questions": [
+            {
+                "ko": "입 조금만 더 크게 아 하고 벌려주세요",
+                "en": "Please open your mouth just a little bit wider",
+                "distractors": ["opens", "opened", "opening"]
+            },
+            {
+                "ko": "마취 주사 놓을 때 딱 한 번만 따끔할 거예요",
+                "en": "You'll feel just one tiny pinch when I give you the numbing shot",
+                "distractors": ["feels", "felt", "feeling"]
+            },
+            {
+                "ko": "치료하다가 조금이라도 아프시면 언제든 왼손 드세요",
+                "en": "Raise your left hand anytime during the treatment if it hurts even a little",
+                "distractors": ["raises", "raised", "raising"]
+            },
+            {
+                "ko": "지금 소리만 좀 크고 실제로는 전혀 안 아플 겁니다",
+                "en": "It just sounds loud right now, but it won't actually hurt at all",
+                "distractors": ["sound", "sounded", "sounding"]
+            },
+            {
+                "ko": "조금만 참으세요 이제 거의 다 끝나가요",
+                "en": "Hang in there just a little longer, we're almost done",
+                "distractors": ["hangs", "hung", "hanging"]
+            },
+            {
+                "ko": "왼손 드셨는데 여기서 멈추면 다시 처음부터 해야 돼요",
+                "en": "Since you raised your hand, we'll have to start over if we stop here",
+                "distractors": ["raise", "raises", "raising"]
+            },
+            {
+                "ko": "물 조금 나올 거니까 삼키지 말고 편하게 계세요",
+                "en": "Some water is coming out, so just relax and don't swallow",
+                "distractors": ["come", "comes", "came"]
+            },
+            {
+                "ko": "어금니 안쪽이 잘 안 닦여서 충치가 좀 생겼네요",
+                "en": "You got a small cavity because your back molars weren't brushed well",
+                "distractors": ["get", "gets", "getting"]
+            },
+            {
+                "ko": "마취 풀릴 때까지 두 시간 동안은 아무것도 드시면 안 돼요",
+                "en": "Don't eat anything for two hours until the numbness wears off",
+                "distractors": ["eats", "ate", "eating"]
+            },
+            {
+                "ko": "양치질할 때 치실 꼭 챙겨 쓰셔야 다음엔 안 아파요",
+                "en": "Make sure to floss when you brush so it won't hurt next time",
+                "distractors": ["flosses", "flossed", "flossing"]
+            }
+        ]
+    },
+
+    {
+        "title": "😤 힘든 하루 하소연하기 (Venting About a Tough Day)",
+        "type":"기초회화",
+        "date": "2026-11-20",
+        "questions": [
+            {
+                "ko": "오늘 진짜 하루가 너무 길고 피곤하다.",
+                "en": "Today has been such a long day, I'm exhausted.",
+                "distractors": ["have", "had", "having"]
+            },
+            {
+                "ko": "도대체 왜 나한테만 이런 일이 생기는지 모르겠어.",
+                "en": "I don't know why on earth this always happens to me.",
+                "distractors": ["happen", "happened", "happening"]
+            },
+            {
+                "ko": "내 말 좀 들어봐, 오늘 진짜 어이없는 일이 있었어.",
+                "en": "Listen to this, something so ridiculous happened today.",
+                "distractors": ["happen", "happens", "happening"]
+            },
+            {
+                "ko": "아, 진짜 짜증 나서 미칠 것 같아.",
+                "en": "Ugh, this is driving me crazy.",
+                "distractors": ["drive", "drives", "drove"]
+            },
+            {
+                "ko": "그 사람 때문에 스트레스받아서 머리가 다 아프네.",
+                "en": "He's giving me a headache, and I'm so stressed out because of him.",
+                "distractors": ["give", "gives", "gave"]
+            },
+            {
+                "ko": "말도 안 돼, 내가 그걸 왜 해야 하는데?",
+                "en": "That makes no sense. Why do I have to do it?",
+                "distractors": ["make", "made", "making"]
+            },
+            {
+                "ko": "이제 진짜 한계야, 더 이상은 못 참겠어.",
+                "en": "I've really reached my limit, I can't take it anymore.",
+                "distractors": ["takes", "took", "taking"]
+            },
+            {
+                "ko": "괜히 기대했다가 실망만 엄청 크게 했네.",
+                "en": "I got my hopes up for nothing, and I ended up really disappointed.",
+                "distractors": ["end", "ends", "ending"]
+            },
+            {
+                "ko": "오늘따라 되는 일이 하나도 없는 것 같아.",
+                "en": "Nothing seems to be going my way today.",
+                "distractors": ["seem", "seemed", "seeming"]
+            },
+            {
+                "ko": "하소연 좀 들어줘서 고마워, 말하니까 좀 풀리네.",
+                "en": "Thanks for letting me vent, I feel a bit better now.",
+                "distractors": ["feels", "felt", "feeling"]
+            }
+        ]
     }
 ]
