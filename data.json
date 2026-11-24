@@ -9039,5 +9039,179 @@
                 "distractors": ["feels", "felt", "feeling"]
             }
         ]
+    },
+
+    {
+        "title": "📜 뜬금없이 / 난데없이 (out of nowhere)",
+        "type":"문장반복",
+        "date": "2026-11-24",
+        "questions": [
+            {
+                "ko": "조용히 걷고 있었는데, 소나기가 뜬금없이 쏟아지기 시작했어.",
+                "en": "While I was walking quietly, a heavy shower started pouring out of nowhere.",
+                "distractors": ["start", "starts", "starting"]
+            },
+            {
+                "ko": "몇 년 동안 연락하지 않았는데, 어젯밤에 옛 친구가 뜬금없이 문자를 보냈어.",
+                "en": "Even though we hadn't contacted each other for years, an old friend texted me out of nowhere last night.",
+                "distractors": ["text", "texts", "texting"]
+            },
+            {
+                "ko": "도로가 텅 비어 있었는데, 골목길에서 고양이가 난데없이 튀어나왔어.",
+                "en": "Although the road was completely empty, a cat jumped out of nowhere from the alley.",
+                "distractors": ["jump", "jumps", "jumping"]
+            },
+            {
+                "ko": "회의가 순조롭게 진행되고 있었는데, 팀장님이 뜬금없이 일정을 바꾸자고 제안했어.",
+                "en": "While the meeting was going smoothly, the team lead suggested changing the schedule out of nowhere.",
+                "distractors": ["suggest", "suggests", "suggesting"]
+            },
+            {
+                "ko": "아무런 경고도 없었는데, 노트북 화면이 난데없이 꺼져버렸어.",
+                "en": "Without any warning, the laptop screen turned off out of nowhere.",
+                "distractors": ["turn", "turns", "turning"]
+            },
+            {
+                "ko": "다 같이 웃고 있었는데, 그가 뜬금없이 화를 내기 시작했어.",
+                "en": "While everyone was laughing together, he started getting angry out of nowhere.",
+                "distractors": ["start", "starts", "starting"]
+            },
+            {
+                "ko": "평소에는 조용한 동네인데, 오늘 아침에는 큰 소음이 난데없이 들렸어.",
+                "en": "Even though it is usually a quiet neighborhood, a loud noise came out of nowhere this morning.",
+                "distractors": ["come", "comes", "coming"]
+            },
+            {
+                "ko": "완벽하게 작동하고 있었는데, 마감 직전에 버그가 난데없이 나타났어.",
+                "en": "Although it was working perfectly, a bug appeared out of nowhere right before the deadline.",
+                "distractors": ["appear", "appears", "appearing"]
+            },
+            {
+                "ko": "전혀 예상하지 못했는데, 그 회사가 뜬금없이 일자리 제안을 보냈어.",
+                "en": "Even though I didn't expect it at all, that company sent a job offer out of nowhere.",
+                "distractors": ["send", "sends", "sending"]
+            },
+            {
+                "ko": "카페에서 책을 읽고 있었는데, 아는 사람이 뜬금없이 내 이름을 불렀어.",
+                "en": "While I was reading a book at a cafe, someone I know called my name out of nowhere.",
+                "distractors": ["call", "calls", "calling"]
+            }
+        ]
+    },
+
+    {
+        "title": "👋 근황 토크 & 재회 (Catching Up with an Old Friend)",
+        "type":"기초회화",
+        "date": "2026-11-24",
+        "questions": [
+            {
+                "ko": "진짜 오랜만이다! 그동안 어떻게 지냈어?",
+                "en": "It's been forever! What have you been up to?",
+                "distractors": ["has", "had", "having"]
+            },
+            {
+                "ko": "시간 진짜 빠르다. 우리가 마지막으로 본 게 벌써 1년 전이야.",
+                "en": "Time flies. It's already been a year since we last met.",
+                "distractors": ["meet", "meets", "meeting"]
+            },
+            {
+                "ko": "너 하나도 안 변했네! 예전 모습 그대로야.",
+                "en": "You haven't aged a bit! You look just the same.",
+                "distractors": ["age", "ages", "aging"]
+            },
+            {
+                "ko": "요즘 일은 어때? 바쁘게 잘 지내고 있어?",
+                "en": "How's work going these days? Have you been keeping busy and doing well?",
+                "distractors": ["keep", "keeps", "kept"]
+            },
+            {
+                "ko": "그냥 똑같지 뭐. 매일 회사와 집만 오가고 있어.",
+                "en": "Same old, same old. I'm just going back and forth between work and home every day.",
+                "distractors": ["go", "goes", "went"]
+            },
+            {
+                "ko": "우리 못 본 사이에 무슨 재미있는 일 없었어?",
+                "en": "Has anything fun happened since we last saw each other?",
+                "distractors": ["happen", "happens", "happening"]
+            },
+            {
+                "ko": "아, 맞다! 너 저번에 말했던 그 일은 잘 해결됐어?",
+                "en": "Oh right! Did that thing you mentioned turn out well?",
+                "distractors": ["turns", "turned", "turning"]
+            },
+            {
+                "ko": "우리 앞으로는 이렇게 뜸해지지 말고 자주 좀 보자.",
+                "en": "Let's not drift apart like this again and hang out more often.",
+                "distractors": ["hangs", "hung", "hanging"]
+            },
+            {
+                "ko": "오늘 못 다 한 이야기가 너무 많아서 아쉽네.",
+                "en": "It's a shame we still have so much to catch up on.",
+                "distractors": ["catches", "caught", "catching"]
+            },
+            {
+                "ko": "조만간 시간 맞춰서 저녁이라도 한 번 같이 먹자.",
+                "en": "Let's at least grab dinner sometime soon when we're both free.",
+                "distractors": ["grabs", "grabbed", "grabbing"]
+            }
+        ]
+    },
+
+    {
+        "title": "🚗 도로주행 강사 (Driving Instructor)",
+        "type":"롤플레잉",
+        "date": "2026-11-24",
+        "questions": [
+            {
+                "ko": "핸들 너무 꽉 잡지 마시고 어깨 힘 좀 빼세요",
+                "en": "Don't grip the wheel so tightly, and relax your shoulders a bit.",
+                "distractors": ["grips", "gripped", "gripping"]
+            },
+            {
+                "ko": "바닥만 보지 마시고 저 멀리 앞을 보고 운전하셔야죠",
+                "en": "Don't just look at the ground. Look far ahead while you drive.",
+                "distractors": ["looks", "looked", "looking"]
+            },
+            {
+                "ko": "차선 바꾸기 전에 깜빡이부터 먼저 켜셔야 돼요",
+                "en": "You have to turn on your blinker first before changing lanes.",
+                "distractors": ["turns", "turned", "turning"]
+            },
+            {
+                "ko": "방금 브레이크를 너무 세게 밟아서 차가 확 섰잖아요",
+                "en": "The car jerked because you pressed the brake way too hard just now.",
+                "distractors": ["jerk", "jerks", "jerking"]
+            },
+            {
+                "ko": "저기 노란 불로 바뀌었으니까 무리하지 말고 그냥 서세요",
+                "en": "The light up ahead turned yellow, so don't rush. Just stop.",
+                "distractors": ["turn", "turns", "turning"]
+            },
+            {
+                "ko": "사이드미러 보시면서 뒤에 차 오는지 꼭 확인하셔야 해요",
+                "en": "Make sure to check your side mirror to see if a car is coming from behind.",
+                "distractors": ["checks", "checked", "checking"]
+            },
+            {
+                "ko": "속도가 너무 느리니까 엑셀을 조금만 더 밟아보세요",
+                "en": "You're going too slowly, so just press the gas a little more.",
+                "distractors": ["presses", "pressed", "pressing"]
+            },
+            {
+                "ko": "이대로 가시면 앞차랑 박으니까 지금 당장 멈추세요",
+                "en": "If you keep going like this, we'll hit the car in front, so stop right now.",
+                "distractors": ["stops", "stopped", "stopping"]
+            },
+            {
+                "ko": "우회전할 때는 보행자 없는지 양옆을 잘 살피셔야 합니다",
+                "en": "When you make a right turn, look both ways carefully to make sure there are no pedestrians.",
+                "distractors": ["looks", "looked", "looking"]
+            },
+            {
+                "ko": "오늘 첫날 치고는 감이 좋아서 금방 합격하실 것 같아요",
+                "en": "For a first day, you have really good instincts, so I think you'll pass soon.",
+                "distractors": ["passes", "passed", "passing"]
+            }
+        ]
     }
 ]
