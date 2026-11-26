@@ -9213,5 +9213,179 @@
                 "distractors": ["passes", "passed", "passing"]
             }
         ]
+    },
+
+    {
+        "title": "🌟 추천하기 & 추천받기 (Asking for & Giving Recommendations)",
+        "type":"기초회화",
+        "date": "2026-11-26",
+        "questions": [
+            {
+                "ko": "이 근처에 점심 먹기 괜찮은 맛집 하나만 추천해 줄래?",
+                "en": "Can you recommend just one good lunch spot around here?",
+                "distractors": ["recommends", "recommended", "recommending"]
+            },
+            {
+                "ko": "요즘 볼 만한 재밌는 영화나 드라마 있어?",
+                "en": "Do you have any good movies or shows to recommend lately?",
+                "distractors": ["has", "had", "having"]
+            },
+            {
+                "ko": "네가 제일 좋아하는 메뉴가 뭐야? 나도 그걸로 시킬래.",
+                "en": "What's your go-to menu item? I'll get that too.",
+                "distractors": ["gets", "got", "getting"]
+            },
+            {
+                "ko": "그 식당은 웨이팅이 좀 길어도 꼭 가볼 만한 가치가 있어.",
+                "en": "That restaurant is totally worth going to, even if the wait is a bit long.",
+                "distractors": ["are", "were", "be"]
+            },
+            {
+                "ko": "운동할 때 듣기 좋은 신나는 노래 좀 추천해 줘.",
+                "en": "Can you recommend some upbeat songs to listen to while working out?",
+                "distractors": ["recommends", "recommended", "recommending"]
+            },
+            {
+                "ko": "내 취향에는 좀 별로였는데, 호불호가 갈릴 것 같아.",
+                "en": "It wasn't really my cup of tea, so it might be hit or miss.",
+                "distractors": ["is", "are", "be"]
+            },
+            {
+                "ko": "선물 사야 하는데 뭐가 좋을지 아이디어 좀 줄 수 있어?",
+                "en": "I need to buy a gift. Any ideas on what I should get?",
+                "distractors": ["buys", "bought", "buying"]
+            },
+            {
+                "ko": "이거 진짜 강추해! 한 번 써보면 절대 후회 안 할 거야.",
+                "en": "I highly recommend this! Once you try it, you definitely won't regret it.",
+                "distractors": ["regrets", "regretted", "regretting"]
+            },
+            {
+                "ko": "그 책은 지루해서 개인적으로는 별로 추천하고 싶지 않아.",
+                "en": "That book was boring, so personally, I wouldn't really recommend it.",
+                "distractors": ["recommends", "recommended", "recommending"]
+            },
+            {
+                "ko": "믿고 한번 가봐, 거기 분위기가 진짜 끝내줘.",
+                "en": "Trust me and go check it out, the vibe there is seriously amazing.",
+                "distractors": ["Trusts", "Trusted", "Trusting"]
+            }
+        ]
+    },
+
+    {
+        "title": "📸 인생네컷 찍기 (Taking Photo Booth Pictures)",
+        "type":"롤플레잉",
+        "date": "2026-11-26",
+        "questions": [
+            {
+                "ko": "야 빨리 들어와 문 닫고 커튼 쳐",
+                "en": "Hey, get in here fast and close the curtain.",
+                "distractors": ["closes", "closed", "closing"]
+            },
+            {
+                "ko": "머리띠 이거 쓸래 아니면 선글라스 낄래",
+                "en": "Do you want this headband or these sunglasses?",
+                "distractors": ["wants", "wanted", "wanting"]
+            },
+            {
+                "ko": "4컷으로 찍을 거지 프레임 색깔은 뭘로 해",
+                "en": "We're doing four cuts, right? What color frame do you want?",
+                "distractors": ["do", "does", "did"]
+            },
+            {
+                "ko": "잠깐만 나 아직 준비 안 됐는데 벌써 시작했어",
+                "en": "Wait, I'm not ready yet, and it already started!",
+                "distractors": ["start", "starts", "starting"]
+            },
+            {
+                "ko": "3초 남았으니까 빨리 브이 해",
+                "en": "Three seconds left, so make a peace sign fast!",
+                "distractors": ["makes", "made", "making"]
+            },
+            {
+                "ko": "방금 내 눈 감긴 것 같은데 망했다",
+                "en": "I think my eyes were closed just now. We're doomed!",
+                "distractors": ["close", "closes", "closing"]
+            },
+            {
+                "ko": "다음 컷은 서로 볼 하트 만들어 보자",
+                "en": "Let's make cheek hearts together for the next shot!",
+                "distractors": ["makes", "made", "making"]
+            },
+            {
+                "ko": "어 잠깐만 나 너무 웃겨서 표정 관리가 안 돼",
+                "en": "Oh, wait, I'm laughing too hard to keep a straight face.",
+                "distractors": ["laugh", "laughs", "laughed"]
+            },
+            {
+                "ko": "사진 고를 시간 얼마 안 남았으니까 빨리 네 장 골라",
+                "en": "Pick four photos fast before the timer runs out.",
+                "distractors": ["run", "ran", "running"]
+            },
+            {
+                "ko": "와 이 컷 진짜 잘 나왔다 인스타에 바로 올려야지",
+                "en": "Whoa, this shot came out so good that I'm posting it on Instagram right away!",
+                "distractors": ["come", "comes", "coming"]
+            }
+        ]
+    },
+
+    {
+        "title": "📜 ~의 대가로 / ~하는 대신에 (in exchange for)",
+        "type":"문장반복",
+        "date": "2026-11-26",
+        "questions": [
+            {
+                "ko": "이사를 도와준 대가로, 친구가 맛있는 저녁을 사줬어.",
+                "en": "My friend bought me a delicious dinner in exchange for helping with the move.",
+                "distractors": ["help", "helps", "helped"]
+            },
+            {
+                "ko": "무료 커피를 받는 대신에, 그 짧은 설문조사를 작성했어.",
+                "en": "I filled out the short survey in exchange for a free coffee.",
+                "distractors": ["fill", "fills", "filling"]
+            },
+            {
+                "ko": "이번 주말에 일하는 대가로, 다음 주 금요일에 하루 휴가를 받을 거야.",
+                "en": "I will get a day off next Friday in exchange for working this weekend.",
+                "distractors": ["work", "works", "worked"]
+            },
+            {
+                "ko": "그 앱은 개인 정보를 공유하는 대가로 무료 기능들을 제공해.",
+                "en": "That app provides free features in exchange for sharing personal information.",
+                "distractors": ["share", "shares", "shared"]
+            },
+            {
+                "ko": "영어 발음을 고쳐주는 대신에, 그에게 한국어를 가르쳐주고 있어.",
+                "en": "I am teaching him Korean in exchange for correcting my English pronunciation.",
+                "distractors": ["correct", "corrects", "corrected"]
+            },
+            {
+                "ko": "공항까지 태워준 대가로, 면세점에서 작은 선물을 사다 줬어.",
+                "en": "In exchange for the ride to the airport, I bought them a small gift at the duty-free shop.",
+                "distractors": ["buy", "buys", "buying"]
+            },
+            {
+                "ko": "더 높은 연봉을 받는 대신에, 훨씬 더 많은 책임을 맡아야 했어.",
+                "en": "I had to take on much more responsibility in exchange for a higher salary.",
+                "distractors": ["takes", "took", "taking"]
+            },
+            {
+                "ko": "오래된 휴대폰을 반납하는 대가로, 새 모델에서 큰 할인을 받았어.",
+                "en": "I got a big discount on the new model in exchange for returning my old phone.",
+                "distractors": ["return", "returns", "returned"]
+            },
+            {
+                "ko": "그녀의 비밀을 지켜주는 대신에, 그녀가 내 발표 준비를 도와주기로 약속했어.",
+                "en": "She promised to help me prepare for my presentation in exchange for keeping her secret.",
+                "distractors": ["keep", "keeps", "kept"]
+            },
+            {
+                "ko": "빠른 배송을 포기하는 대가로, 배송비를 꽤 절약할 수 있었어.",
+                "en": "I could save quite a bit on the shipping fee in exchange for giving up fast delivery.",
+                "distractors": ["give", "gives", "gave"]
+            }
+        ]
     }
 ]
