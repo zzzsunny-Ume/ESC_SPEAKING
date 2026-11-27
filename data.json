@@ -9387,5 +9387,179 @@
                 "distractors": ["give", "gives", "gave"]
             }
         ]
+    },
+
+    {
+        "title": "📜 ~해봤자 소용없어 (there's no point in ~ing)",
+        "type":"문장반복",
+        "date": "2026-11-27",
+        "questions": [
+            {
+                "ko": "이미 지나간 일이기 때문에, 그것에 대해 걱정해봤자 소용없어.",
+                "en": "Since it's already in the past, there's no point in worrying about it.",
+                "distractors": ["worry", "worries", "worried"]
+            },
+            {
+                "ko": "그가 절대 마음을 바꾸지 않을 것이기 때문에, 그와 논쟁해봤자 의미 없어.",
+                "en": "Because he will never change his mind, there's no point in arguing with him.",
+                "distractors": ["argue", "argues", "argued"]
+            },
+            {
+                "ko": "기차가 이미 떠났기 때문에, 지금 서둘러봤자 소용없어.",
+                "en": "Since the train has already left, there's no point in rushing now.",
+                "distractors": ["rush", "rushes", "rushed"]
+            },
+            {
+                "ko": "아무도 듣지 않고 있기 때문에, 여기서 불평해봤자 의미 없어.",
+                "en": "Because nobody is listening, there's no point in complaining here.",
+                "distractors": ["complain", "complains", "complained"]
+            },
+            {
+                "ko": "마감일이 이미 지났기 때문에, 지금 이메일을 보내봤자 소용없어.",
+                "en": "Since the deadline has already passed, there's no point in sending the email now.",
+                "distractors": ["send", "sends", "sent"]
+            },
+            {
+                "ko": "날씨가 너무 나쁘기 때문에, 오늘 해변에 가봤자 의미 없어.",
+                "en": "Because the weather is too bad, there's no point in going to the beach today.",
+                "distractors": ["go", "goes", "went"]
+            },
+            {
+                "ko": "통제할 수 없는 일이기 때문에, 그것 때문에 스트레스받아봤자 소용없어.",
+                "en": "Since it is something I can't control, there's no point in stressing over it.",
+                "distractors": ["stress", "stresses", "stressed"]
+            },
+            {
+                "ko": "그 식당은 이미 문을 닫았기 때문에, 거기에 전화해봤자 의미 없어.",
+                "en": "Because the restaurant is already closed, there's no point in calling there.",
+                "distractors": ["call", "calls", "called"]
+            },
+            {
+                "ko": "결과가 이미 나왔기 때문에, 과거의 결정을 후회해봤자 소용없어.",
+                "en": "Since the result is already out, there's no point in regretting past decisions.",
+                "distractors": ["regret", "regrets", "regretted"]
+            },
+            {
+                "ko": "어차피 곧 새 버전이 나올 것이기 때문에, 지금 그것을 사봤자 의미 없어.",
+                "en": "Because a new version is coming out soon anyway, there's no point in buying it now.",
+                "distractors": ["buy", "buys", "bought"]
+            }
+        ]
+    },
+
+    {
+        "title": "🍽️ 뷔페 뽕 뽑기 (Getting Your Money's Worth at a Buffet)",
+        "type":"롤플레잉",
+        "date": "2026-11-27",
+        "questions": [
+            {
+                "ko": "자 일단 물이랑 탄산음료는 절대 많이 마시지 마",
+                "en": "First of all, absolutely don't drink too much water or soda.",
+                "distractors": ["drinks", "drank", "drinking"]
+            },
+            {
+                "ko": "배 부르니까 빵이랑 밥 종류는 아예 쳐다도 보지 마",
+                "en": "Since you'll be full, don't even look at the bread or rice at all.",
+                "distractors": ["looks", "looked", "looking"]
+            },
+            {
+                "ko": "무조건 비싼 초밥이랑 스테이크부터 공략해야 해",
+                "en": "We have to make sure to go for the expensive sushi and steak first.",
+                "distractors": ["goes", "went", "going"]
+            },
+            {
+                "ko": "저기 대게 리필되자마자 사람들 다 뛰어가는 거 보여",
+                "en": "Do you see everyone running over as soon as the crab gets refilled over there?",
+                "distractors": ["run", "runs", "ran"]
+            },
+            {
+                "ko": "나 지금 접시 두 개 들고 갈 테니까 자리 좀 맡아줘",
+                "en": "Save our seats while I go grab two plates right now.",
+                "distractors": ["saves", "saved", "saving"]
+            },
+            {
+                "ko": "이거 연어 진짜 신선하니까 너도 꼭 두 번 먹어",
+                "en": "This salmon is really fresh, so you have to definitely try it twice.",
+                "distractors": ["tries", "tried", "trying"]
+            },
+            {
+                "ko": "아 아직 두 접시밖에 안 먹었는데 벌써 배가 좀 차네",
+                "en": "Oh, I've only had two plates so far, and I'm already getting a little full.",
+                "distractors": ["get", "gets", "got"]
+            },
+            {
+                "ko": "잠깐 쉬었다가 소화 좀 시키고 다시 시작하자",
+                "en": "Let's take a short break and let it digest before we start again.",
+                "distractors": ["takes", "took", "taking"]
+            },
+            {
+                "ko": "배 터질 것 같지만 디저트 배는 따로 있는 거 알지",
+                "en": "I'm about to burst, but you know there's a separate stomach for dessert.",
+                "distractors": ["knows", "knew", "knowing"]
+            },
+            {
+                "ko": "오늘 여기서 진짜 뽕을 뽑고 가야 내일 후회가 없어",
+                "en": "We have to get our full money's worth today so we have no regrets tomorrow.",
+                "distractors": ["gets", "got", "getting"]
+            }
+        ]
+    },
+
+    {
+        "title": "🤔 결정 장애 & 쇼핑 고민 (Indecision & Shopping Dilemmas)",
+        "type":"기초회화",
+        "date": "2026-11-27",
+        "questions": [
+            {
+                "ko": "둘 다 너무 좋아서 도저히 못 고르겠어.",
+                "en": "I like them both so much, I just can't make up my mind.",
+                "distractors": ["makes", "made", "making"]
+            },
+            {
+                "ko": "네가 대신 하나만 골라주면 안 될까?",
+                "en": "Can you just pick one for me?",
+                "distractors": ["picks", "picked", "picking"]
+            },
+            {
+                "ko": "이걸 살까 말까 벌써 한 시간째 고민 중이야.",
+                "en": "I've been going back and forth on buying this for an hour now.",
+                "distractors": ["go", "goes", "went"]
+            },
+            {
+                "ko": "지금 안 사면 나중에 분명히 후회할 것 같아.",
+                "en": "I'll definitely regret it later if I don't buy it now.",
+                "distractors": ["regrets", "regretted", "regretting"]
+            },
+            {
+                "ko": "일단 장바구니에 담아두고 내일 다시 생각해 볼래.",
+                "en": "I'll put it in my cart for now and think about it again tomorrow.",
+                "distractors": ["thinks", "thought", "thinking"]
+            },
+            {
+                "ko": "솔직히 두 개 중에 뭐가 더 나아 보여?",
+                "en": "Honestly, which one looks better to you?",
+                "distractors": ["look", "looked", "looking"]
+            },
+            {
+                "ko": "가격이 좀 비싸긴 한데 그래도 질러버릴까?",
+                "en": "It's a bit pricey, but should I just go for it anyway?",
+                "distractors": ["goes", "went", "going"]
+            },
+            {
+                "ko": "고민하다가 결국 아무것도 못 사고 나왔어.",
+                "en": "I overthought it and ended up buying nothing in the end.",
+                "distractors": ["buy", "buys", "bought"]
+            },
+            {
+                "ko": "에라 모르겠다, 그냥 눈 딱 감고 이걸로 할래.",
+                "en": "Whatever, I'm just going to bite the bullet and get this one.",
+                "distractors": ["bite", "bites", "biting"]
+            },
+            {
+                "ko": "역시 첫 번째로 눈에 들어온 걸로 고르는 게 답이야.",
+                "en": "As expected, going with your first instinct is always the right move.",
+                "distractors": ["go", "goes", "went"]
+            }
+        ]
     }
 ]
